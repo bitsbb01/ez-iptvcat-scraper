@@ -180,27 +180,24 @@ func main() {
 	const iptvCatDomain = "iptvcat.com"
 
 	urlList := [...]string{
-		"https://iptvcat.com/china",
-		"https://iptvcat.com/hong_kong",
-		"https://iptvcat.com/india",
-		"https://iptvcat.com/indonesia",
-		"https://iptvcat.com/japan",
-		"https://iptvcat.com/malaysia",
-		"https://iptvcat.com/singapore",
-		"https://iptvcat.com/south_korea",
-		"https://iptvcat.com/austria",
-		"https://iptvcat.com/belgium",
-		"https://iptvcat.com/france",
-		"https://iptvcat.com/germany",
-		"https://iptvcat.com/ireland",
-		"https://iptvcat.com/italy",
-		"https://iptvcat.com/switzerland",
-		"https://iptvcat.com/united_kingdom",
+
+		"https://iptvcat.com/africa",
+		"https://iptvcat.com/arab_countries",
+		"https://iptvcat.com/asia",
 		"https://iptvcat.com/canada",
+		"https://iptvcat.com/europe",
+		"https://iptvcat.com/ex_yugoslavia",
+		"https://iptvcat.com/latin_america",
+		"https://iptvcat.com/north_america",
+		"https://iptvcat.com/oceania",
+		"https://iptvcat.com/scandinavia",
+		"https://iptvcat.com/south_america",
+		"https://iptvcat.com/spain",
+		"https://iptvcat.com/united_kingdom",
 		"https://iptvcat.com/united_states_of_america",
-		"https://iptvcat.com/australia",
-		"https://iptvcat.com/new_zealand",
-	}
+		"https://iptvcat.com/undefined",
+		"https://iptvcat.com/sport",
+		}
 
 	for _, element := range urlList {
 		processUrl(element, iptvCatDomain)
