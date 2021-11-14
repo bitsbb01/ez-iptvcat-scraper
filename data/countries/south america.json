@@ -6,21 +6,7 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132526",
-        "channel": "Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -34,7 +20,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
@@ -42,15 +28,15 @@
         ]
     },
     {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "132526",
+        "channel": "Tele Aruba",
+        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "2228, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -62,7 +48,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -70,92 +56,17 @@
         ]
     },
     {
-        "id": "2054671",
-        "channel": "Arenasport 1 HD",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "4318, ...",
         "URI": [
-            "south_america",
-            "sport"
-        ]
-    },
-    {
-        "id": "2054659",
-        "channel": "Arenasport 4 HD",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "83",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "south_america",
-            "sport"
-        ]
-    },
-    {
-        "id": "2054647",
-        "channel": "Arenasport 5 HD",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "south_america",
-            "sport"
-        ]
-    },
-    {
-        "id": "2054645",
-        "channel": "Supersport 1",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/405.ts?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
-        "URI": [
-            "south_america",
-            "sport"
-        ]
-    },
-    {
-        "id": "2054639",
-        "channel": "Supersport 2",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/406.ts?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "south_america",
-            "sport"
-        ]
-    },
-    {
-        "id": "51679",
-        "channel": "TV Direct 13",
-        "link": "https://edge1.tvdirect13.com/live/smil:mystream.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795, ...",
-        "URI": [
-            "south_america"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -165,9 +76,23 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "51679",
+        "channel": "TV Direct 13",
+        "link": "https://edge1.tvdirect13.com/live/smil:mystream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "south_america"
         ]
@@ -179,7 +104,7 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -191,14 +116,14 @@
         "channel": "Arenasport 1 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2021-11-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -206,14 +131,14 @@
         "channel": "Arenasport 4 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "83",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -221,14 +146,14 @@
         "channel": "Arenasport 5 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -238,12 +163,12 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -253,12 +178,129 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "508",
+        "channel": "TV Direct 13",
+        "link": "http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "51679",
+        "channel": "TV Direct 13",
+        "link": "https://edge1.tvdirect13.com/live/smil:mystream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "1335800",
+        "channel": "TeleCuraçao (720p)",
+        "link": "http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2054671",
+        "channel": "Arenasport 1 HD",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-11-13T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2054659",
+        "channel": "Arenasport 4 HD",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2054647",
+        "channel": "Arenasport 5 HD",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2054645",
+        "channel": "Supersport 1",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/405.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2054639",
+        "channel": "Supersport 2",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/406.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -268,21 +310,7 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132526",
-        "channel": "Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -296,51 +324,9 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "126",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "55922",
-        "channel": "AW | Tele Aruba, Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -352,7 +338,49 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "2228, ...",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "126",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "55922",
+        "channel": "AW | Tele Aruba, Tele Aruba",
+        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -366,51 +394,9 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "126",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "55922",
-        "channel": "AW | Tele Aruba, Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -422,7 +408,49 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "2228, ...",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "126",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "55922",
+        "channel": "AW | Tele Aruba, Tele Aruba",
+        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -436,7 +464,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
@@ -444,15 +472,15 @@
         ]
     },
     {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "132526",
+        "channel": "Tele Aruba",
+        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "2228, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -464,9 +492,23 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -476,14 +518,14 @@
         "channel": "Arenasport 1 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2021-11-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -491,14 +533,14 @@
         "channel": "Arenasport 4 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "83",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -506,14 +548,14 @@
         "channel": "Arenasport 5 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -523,12 +565,12 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -538,12 +580,12 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -551,14 +593,14 @@
         "channel": "Arenasport 1 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2021-11-13T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -566,14 +608,14 @@
         "channel": "Arenasport 4 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "83",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -581,14 +623,14 @@
         "channel": "Arenasport 5 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "liveliness": "83",
+        "status": "online",
+        "lastChecked": "2021-11-14T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -598,12 +640,12 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "sd",
-        "mbps": "1494",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -613,12 +655,12 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-14T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]
