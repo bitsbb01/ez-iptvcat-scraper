@@ -4,11 +4,11 @@
         "channel": "10 Melbourne",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127872?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "oceania_-_-_"
         ]
@@ -18,10 +18,10 @@
         "channel": "10 Peach Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217601.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "20",
+        "liveliness": "28",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -32,10 +32,10 @@
         "channel": "10 Peach Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217604.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "36",
+        "liveliness": "38",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -46,10 +46,10 @@
         "channel": "10 Peach Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217607.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "27",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "liveliness": "35",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -60,11 +60,11 @@
         "channel": "10 Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127890?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -74,11 +74,11 @@
         "channel": "10 Shake Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217611.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "35",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -90,9 +90,9 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -102,11 +102,11 @@
         "channel": "7 Two",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127892?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "63",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "oceania_-_-_"
         ]
@@ -116,9 +116,9 @@
         "channel": "7 Two Brisbane",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127868?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "73",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -130,9 +130,9 @@
         "channel": "7 Two Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127869?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -144,9 +144,9 @@
         "channel": "7 mate",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127894?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -158,11 +158,11 @@
         "channel": "7TWO Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217635.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "68",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -174,9 +174,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -186,11 +186,11 @@
         "channel": "7TWO Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217641.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "29",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -200,11 +200,11 @@
         "channel": "7flix Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217618.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -214,11 +214,11 @@
         "channel": "7flix Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217621.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -228,11 +228,11 @@
         "channel": "7mate Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217629.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -244,9 +244,9 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -256,9 +256,9 @@
         "channel": "9 Gem Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127866?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -270,9 +270,9 @@
         "channel": "9 Go! Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127880?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -284,9 +284,9 @@
         "channel": "9 Life Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127865?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -298,9 +298,9 @@
         "channel": "9 Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127881?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "87",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -312,9 +312,9 @@
         "channel": "9 Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127867?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -326,11 +326,11 @@
         "channel": "9Gem Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217645.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "37",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -340,11 +340,11 @@
         "channel": "9Gem Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217651.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "38",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -354,11 +354,11 @@
         "channel": "9Go! Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217656.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -370,9 +370,9 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -384,9 +384,9 @@
         "country": "oceania",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -396,11 +396,11 @@
         "channel": "9Life Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217673.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -410,11 +410,11 @@
         "channel": "9Life Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217678.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -424,11 +424,11 @@
         "channel": "9Rush Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217682.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "52",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -438,11 +438,11 @@
         "channel": "9Rush Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217685.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "47",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -452,9 +452,9 @@
         "channel": "ABC",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127895?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -467,8 +467,8 @@
         "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -482,7 +482,7 @@
         "country": "oceania",
         "liveliness": "67",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -494,11 +494,11 @@
         "channel": "ABC Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217691.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -508,9 +508,9 @@
         "channel": "ABC Comedy",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127897?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -522,11 +522,11 @@
         "channel": "ABC Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217701.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "57",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -538,7 +538,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -552,7 +552,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -564,9 +564,9 @@
         "channel": "ABC Kids",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127896?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "58",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -578,11 +578,11 @@
         "channel": "ABC Kids Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217704.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "57",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -592,11 +592,11 @@
         "channel": "ABC Kids Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217707.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
+        "liveliness": "60",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -606,11 +606,11 @@
         "channel": "ABC Kids Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217712.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -620,11 +620,11 @@
         "channel": "ABC ME Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217713.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -635,10 +635,10 @@
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217714.ts?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -648,11 +648,11 @@
         "channel": "ABC ME Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217715.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -662,11 +662,11 @@
         "channel": "ABC ME Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217716.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "68",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -676,11 +676,11 @@
         "channel": "ABC ME Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217717.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -690,11 +690,11 @@
         "channel": "ABC ME Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217719.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "71",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -704,9 +704,9 @@
         "channel": "ABC ME National",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127863?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "98",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -718,9 +718,9 @@
         "channel": "ABC ME Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217722.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -734,7 +734,7 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -746,9 +746,9 @@
         "channel": "ABC Melbourne",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127873?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "87",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -760,9 +760,9 @@
         "channel": "ABC News",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127898?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -774,11 +774,11 @@
         "channel": "ABC News Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217725.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "61",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -788,11 +788,11 @@
         "channel": "ABC News Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217731.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "44",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -802,9 +802,9 @@
         "channel": "ABC News National",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127864?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -816,11 +816,11 @@
         "channel": "ABC News Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217734.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -832,7 +832,7 @@
         "country": "oceania",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -844,11 +844,11 @@
         "channel": "ABC Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127870?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "87",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
         "URI": [
             "oceania_-_-_"
         ]
@@ -858,11 +858,11 @@
         "channel": "Al Jazeera",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217745.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -874,7 +874,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -888,7 +888,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -902,7 +902,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -916,7 +916,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -930,7 +930,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -942,9 +942,9 @@
         "channel": "Channel 7 Openshop",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103996?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "98",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -956,11 +956,11 @@
         "channel": "Channel 9 Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217752.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -972,7 +972,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -984,11 +984,11 @@
         "channel": "Channel_9 Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217754.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -998,11 +998,11 @@
         "channel": "Channel_9 Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217760.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "55",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1012,9 +1012,9 @@
         "channel": "ESPN 1 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127900?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1027,9 +1027,9 @@
         "channel": "ESPN 2",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103992?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -1042,9 +1042,9 @@
         "channel": "ESPN 2 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127899?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1059,7 +1059,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1073,7 +1073,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1087,7 +1087,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1099,9 +1099,9 @@
         "channel": "Expo Channel",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127883?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1113,9 +1113,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1128,11 +1128,11 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1143,9 +1143,9 @@
         "channel": "Fox Sports 501",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127907?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1160,9 +1160,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1175,9 +1175,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1188,9 +1188,9 @@
         "channel": "Fox Sports 502",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127906?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1203,11 +1203,11 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1220,9 +1220,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1233,9 +1233,9 @@
         "channel": "Fox Sports 503",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127905?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1248,11 +1248,11 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1265,9 +1265,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1278,9 +1278,9 @@
         "channel": "Fox Sports 504",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127904?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1293,11 +1293,11 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1308,11 +1308,11 @@
         "channel": "Fox Sports 504 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202379.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1323,11 +1323,11 @@
         "channel": "Fox Sports 505",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127903?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1338,11 +1338,11 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1355,9 +1355,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1368,9 +1368,9 @@
         "channel": "Fox Sports 506",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127902?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1383,9 +1383,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1398,11 +1398,11 @@
         "channel": "Fox Sports 506 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202381.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -1413,9 +1413,9 @@
         "channel": "Fox Sports 507",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127901?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1428,11 +1428,11 @@
         "channel": "10 Melbourne",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127872?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1442,10 +1442,10 @@
         "channel": "10 Peach Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217601.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "20",
+        "liveliness": "28",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -1456,10 +1456,10 @@
         "channel": "10 Peach Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217604.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "36",
+        "liveliness": "38",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -1470,10 +1470,10 @@
         "channel": "10 Peach Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217607.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "27",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "liveliness": "35",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -1484,11 +1484,11 @@
         "channel": "10 Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127890?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1498,11 +1498,11 @@
         "channel": "10 Shake Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217611.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "35",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1514,9 +1514,9 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1526,11 +1526,11 @@
         "channel": "7 Two",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127892?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "63",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1540,9 +1540,9 @@
         "channel": "7 Two Brisbane",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127868?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "73",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1554,9 +1554,9 @@
         "channel": "7 Two Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127869?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1568,9 +1568,9 @@
         "channel": "7 mate",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127894?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1582,11 +1582,11 @@
         "channel": "7TWO Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217635.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "68",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1598,9 +1598,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1610,11 +1610,11 @@
         "channel": "7TWO Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217641.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "29",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1624,11 +1624,11 @@
         "channel": "7flix Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217618.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1638,11 +1638,11 @@
         "channel": "7flix Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217621.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1652,11 +1652,11 @@
         "channel": "7mate Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217629.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1668,9 +1668,9 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1680,9 +1680,9 @@
         "channel": "9 Gem Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127866?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1694,9 +1694,9 @@
         "channel": "9 Go! Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127880?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1708,9 +1708,9 @@
         "channel": "9 Life Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127865?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1722,9 +1722,9 @@
         "channel": "9 Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127881?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "87",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1736,9 +1736,9 @@
         "channel": "9 Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127867?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1750,11 +1750,11 @@
         "channel": "9Gem Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217645.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "37",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1764,11 +1764,11 @@
         "channel": "9Gem Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217651.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "38",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1778,11 +1778,11 @@
         "channel": "9Go! Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217656.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1794,9 +1794,9 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1808,9 +1808,9 @@
         "country": "oceania",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1820,11 +1820,11 @@
         "channel": "9Life Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217673.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1834,11 +1834,11 @@
         "channel": "9Life Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217678.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1848,11 +1848,11 @@
         "channel": "9Rush Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217682.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "52",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1862,11 +1862,11 @@
         "channel": "9Rush Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217685.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "47",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1876,9 +1876,9 @@
         "channel": "ABC",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127895?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1891,8 +1891,8 @@
         "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1906,7 +1906,7 @@
         "country": "oceania",
         "liveliness": "67",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1918,11 +1918,11 @@
         "channel": "ABC Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217691.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1932,9 +1932,9 @@
         "channel": "ABC Comedy",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127897?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1946,11 +1946,11 @@
         "channel": "ABC Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217701.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "57",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1962,7 +1962,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1976,7 +1976,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1988,9 +1988,9 @@
         "channel": "ABC Kids",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127896?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "58",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2002,11 +2002,11 @@
         "channel": "ABC Kids Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217704.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "57",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2016,11 +2016,11 @@
         "channel": "ABC Kids Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217707.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
+        "liveliness": "60",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2030,11 +2030,11 @@
         "channel": "ABC Kids Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217712.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2044,11 +2044,11 @@
         "channel": "ABC ME Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217713.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2059,10 +2059,10 @@
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217714.ts?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2072,11 +2072,11 @@
         "channel": "ABC ME Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217715.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2086,11 +2086,11 @@
         "channel": "ABC ME Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217716.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "68",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2100,11 +2100,11 @@
         "channel": "ABC ME Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217717.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2114,11 +2114,11 @@
         "channel": "ABC ME Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217719.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "71",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2128,9 +2128,9 @@
         "channel": "ABC ME National",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127863?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "98",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2142,9 +2142,9 @@
         "channel": "ABC ME Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217722.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2158,7 +2158,7 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -2170,9 +2170,9 @@
         "channel": "ABC Melbourne",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127873?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "87",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2184,9 +2184,9 @@
         "channel": "ABC News",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127898?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2198,11 +2198,11 @@
         "channel": "ABC News Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217725.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "61",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2212,11 +2212,11 @@
         "channel": "ABC News Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217731.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "44",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2226,9 +2226,9 @@
         "channel": "ABC News National",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127864?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2240,11 +2240,11 @@
         "channel": "ABC News Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217734.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2256,7 +2256,7 @@
         "country": "oceania",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2268,11 +2268,11 @@
         "channel": "ABC Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127870?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "87",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2282,11 +2282,11 @@
         "channel": "Al Jazeera",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217745.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2298,7 +2298,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -2312,7 +2312,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2326,7 +2326,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -2340,7 +2340,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2354,7 +2354,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -2366,9 +2366,9 @@
         "channel": "Channel 7 Openshop",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103996?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "98",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2380,11 +2380,11 @@
         "channel": "Channel 9 Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217752.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2396,7 +2396,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2408,11 +2408,11 @@
         "channel": "Channel_9 Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217754.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2422,11 +2422,11 @@
         "channel": "Channel_9 Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217760.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "55",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2436,9 +2436,9 @@
         "channel": "ESPN 1 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127900?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2451,9 +2451,9 @@
         "channel": "ESPN 2",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103992?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -2466,9 +2466,9 @@
         "channel": "ESPN 2 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127899?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2483,7 +2483,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2497,7 +2497,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2511,7 +2511,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2523,9 +2523,9 @@
         "channel": "Expo Channel",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127883?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2537,9 +2537,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2552,11 +2552,11 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2567,9 +2567,9 @@
         "channel": "Fox Sports 501",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127907?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2584,9 +2584,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2599,9 +2599,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2612,9 +2612,9 @@
         "channel": "Fox Sports 502",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127906?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2627,11 +2627,11 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2644,9 +2644,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2657,9 +2657,9 @@
         "channel": "Fox Sports 503",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127905?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2672,11 +2672,11 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2689,9 +2689,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2702,9 +2702,9 @@
         "channel": "Fox Sports 504",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127904?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2717,11 +2717,11 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2732,11 +2732,11 @@
         "channel": "Fox Sports 504 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202379.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2747,11 +2747,11 @@
         "channel": "Fox Sports 505",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127903?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2762,11 +2762,11 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2779,9 +2779,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2792,9 +2792,9 @@
         "channel": "Fox Sports 506",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127902?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2807,9 +2807,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2822,11 +2822,11 @@
         "channel": "Fox Sports 506 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202381.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2837,9 +2837,9 @@
         "channel": "Fox Sports 507",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127901?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2854,7 +2854,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2869,9 +2869,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2884,7 +2884,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2898,10 +2898,10 @@
         "link": "http://bestsave.ltd:2052/39995593/39995593/127877?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2912,9 +2912,9 @@
         "channel": "Fox Sports News FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48265.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2929,9 +2929,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2942,11 +2942,11 @@
         "channel": "NITV Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217763.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "23",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "liveliness": "38",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania"
         ]
@@ -2956,11 +2956,11 @@
         "channel": "Olympics_Channel Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217765.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -2971,9 +2971,9 @@
         "channel": "Outdoor Channel HD",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103979?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "98",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -2987,7 +2987,7 @@
         "country": "oceania",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1601",
         "URI": [
@@ -2999,11 +2999,11 @@
         "channel": "RACING_COM Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217774.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "63",
+        "liveliness": "62",
         "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania"
         ]
@@ -3015,7 +3015,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -3030,7 +3030,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -3043,9 +3043,9 @@
         "channel": "Racing.com Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127879?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3059,7 +3059,7 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1601",
         "URI": [
@@ -3073,9 +3073,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
             "oceania"
         ]
@@ -3087,7 +3087,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3101,7 +3101,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -3115,7 +3115,7 @@
         "country": "oceania",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -3127,9 +3127,9 @@
         "channel": "S News Extra",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103975?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "97",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -3141,9 +3141,9 @@
         "channel": "SBS",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127889?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "98",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3155,11 +3155,11 @@
         "channel": "SBS Food",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127886?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "liveliness": "84",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "3262",
+        "mbps": "1894",
         "URI": [
             "oceania"
         ]
@@ -3171,9 +3171,9 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania"
         ]
@@ -3183,9 +3183,9 @@
         "channel": "SBS Viceland",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127887?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "84",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3199,7 +3199,7 @@
         "country": "oceania",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -3213,7 +3213,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1894",
         "URI": [
@@ -3225,9 +3225,9 @@
         "channel": "SBS World Movies",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127888?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "92",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3239,11 +3239,11 @@
         "channel": "SBS World Movies National",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217799.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "31",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania"
         ]
@@ -3253,11 +3253,11 @@
         "channel": "SBS_Food Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217805.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "23",
+        "liveliness": "27",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania"
         ]
@@ -3267,11 +3267,11 @@
         "channel": "Seven Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217813.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania"
         ]
@@ -3283,7 +3283,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -3297,7 +3297,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -3310,8 +3310,8 @@
         "link": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "100",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -3325,7 +3325,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3337,11 +3337,11 @@
         "channel": "TVSN Shopping (NZ)",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217830.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "31",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
+        "liveliness": "42",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania"
         ]
@@ -3353,7 +3353,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -3365,9 +3365,9 @@
         "channel": "ausbiz_TV Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217748.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "68",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -3379,9 +3379,9 @@
         "channel": "beIN Sports 1",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127876?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3394,11 +3394,11 @@
         "channel": "beIN Sports 1 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220993.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -3409,9 +3409,9 @@
         "channel": "beIN Sports 2",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127875?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "85",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3426,9 +3426,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -3439,9 +3439,9 @@
         "channel": "beIN Sports 3",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127874?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -3455,10 +3455,10 @@
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220995.ts?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -3471,7 +3471,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -3485,7 +3485,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -3499,7 +3499,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -3513,7 +3513,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -3527,7 +3527,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -3541,7 +3541,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -3555,7 +3555,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3569,7 +3569,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -3583,7 +3583,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -3597,7 +3597,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -3611,7 +3611,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3625,7 +3625,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -3639,7 +3639,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -3653,7 +3653,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -3665,11 +3665,11 @@
         "channel": "10 Melbourne",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127872?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3679,10 +3679,10 @@
         "channel": "10 Peach Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217601.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "20",
+        "liveliness": "28",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -3693,10 +3693,10 @@
         "channel": "10 Peach Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217604.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "36",
+        "liveliness": "38",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -3707,10 +3707,10 @@
         "channel": "10 Peach Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217607.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "27",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
+        "liveliness": "35",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_"
@@ -3721,11 +3721,11 @@
         "channel": "10 Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127890?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3735,11 +3735,11 @@
         "channel": "10 Shake Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217611.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "35",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "liveliness": "45",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3751,9 +3751,9 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3763,11 +3763,11 @@
         "channel": "7 Two",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127892?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "63",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3777,9 +3777,9 @@
         "channel": "7 Two Brisbane",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127868?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "73",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3791,9 +3791,9 @@
         "channel": "7 Two Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127869?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3805,9 +3805,9 @@
         "channel": "7 mate",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127894?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3819,11 +3819,11 @@
         "channel": "7TWO Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217635.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "68",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3835,9 +3835,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3847,11 +3847,11 @@
         "channel": "7TWO Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217641.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "29",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3861,11 +3861,11 @@
         "channel": "7flix Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217618.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3875,11 +3875,11 @@
         "channel": "7flix Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217621.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3889,11 +3889,11 @@
         "channel": "7mate Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217629.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3905,9 +3905,9 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -3917,9 +3917,9 @@
         "channel": "9 Gem Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127866?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3931,9 +3931,9 @@
         "channel": "9 Go! Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127880?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "90",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3945,9 +3945,9 @@
         "channel": "9 Life Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127865?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "81",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3959,9 +3959,9 @@
         "channel": "9 Perth",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127881?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "92",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "87",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3973,9 +3973,9 @@
         "channel": "9 Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127867?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -3987,11 +3987,11 @@
         "channel": "9Gem Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217645.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "33",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "37",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4001,11 +4001,11 @@
         "channel": "9Gem Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217651.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "38",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4015,11 +4015,11 @@
         "channel": "9Go! Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217656.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4031,9 +4031,9 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4045,9 +4045,9 @@
         "country": "oceania",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4057,11 +4057,11 @@
         "channel": "9Life Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217673.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "89",
+        "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4071,11 +4071,11 @@
         "channel": "9Life Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217678.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4085,11 +4085,11 @@
         "channel": "9Rush Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217682.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "52",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4099,11 +4099,11 @@
         "channel": "9Rush Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217685.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "47",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4113,9 +4113,9 @@
         "channel": "ABC",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127895?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "82",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4128,8 +4128,8 @@
         "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4143,7 +4143,7 @@
         "country": "oceania",
         "liveliness": "67",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4155,11 +4155,11 @@
         "channel": "ABC Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217691.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "36",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4169,9 +4169,9 @@
         "channel": "ABC Comedy",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127897?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "89",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -4183,11 +4183,11 @@
         "channel": "ABC Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217701.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "57",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4199,7 +4199,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -4213,7 +4213,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4225,9 +4225,9 @@
         "channel": "ABC Kids",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127896?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "58",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4239,11 +4239,11 @@
         "channel": "ABC Kids Brisbane",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217704.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "57",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4253,11 +4253,11 @@
         "channel": "ABC Kids Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217707.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
+        "liveliness": "60",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4267,11 +4267,11 @@
         "channel": "ABC Kids Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217712.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "52",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "58",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4281,11 +4281,11 @@
         "channel": "ABC ME Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217713.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "29",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4296,10 +4296,10 @@
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217714.ts?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "44",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4309,11 +4309,11 @@
         "channel": "ABC ME Canberra",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217715.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4323,11 +4323,11 @@
         "channel": "ABC ME Darwin",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217716.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "68",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4337,11 +4337,11 @@
         "channel": "ABC ME Hobart",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217717.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
+        "liveliness": "62",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4351,11 +4351,11 @@
         "channel": "ABC ME Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217719.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "liveliness": "71",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4365,9 +4365,9 @@
         "channel": "ABC ME National",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127863?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "98",
+        "status": "offline",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4379,9 +4379,9 @@
         "channel": "ABC ME Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217722.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "35",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4395,7 +4395,7 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4407,9 +4407,9 @@
         "channel": "ABC Melbourne",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127873?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "87",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4421,9 +4421,9 @@
         "channel": "ABC News",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127898?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -4435,11 +4435,11 @@
         "channel": "ABC News Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217725.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "61",
+        "liveliness": "64",
         "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4449,11 +4449,11 @@
         "channel": "ABC News Melbourne",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217731.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "44",
+        "liveliness": "50",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4463,9 +4463,9 @@
         "channel": "ABC News National",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127864?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4477,11 +4477,11 @@
         "channel": "ABC News Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217734.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4493,7 +4493,7 @@
         "country": "oceania",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -4505,11 +4505,11 @@
         "channel": "ABC Sydney",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127870?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "87",
+        "liveliness": "85",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4519,11 +4519,11 @@
         "channel": "Al Jazeera",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217745.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4535,7 +4535,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -4549,7 +4549,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -4563,7 +4563,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -4577,7 +4577,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -4591,7 +4591,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -4603,9 +4603,9 @@
         "channel": "Channel 7 Openshop",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103996?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "98",
+        "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -4617,11 +4617,11 @@
         "channel": "Channel 9 Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217752.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "41",
         "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4633,7 +4633,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4645,11 +4645,11 @@
         "channel": "Channel_9 Adelaide",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217754.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "47",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4659,11 +4659,11 @@
         "channel": "Channel_9 Perth",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217760.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "55",
+        "liveliness": "63",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_"
         ]
@@ -4673,9 +4673,9 @@
         "channel": "ESPN 1 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127900?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4688,9 +4688,9 @@
         "channel": "ESPN 2",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103992?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -4703,9 +4703,9 @@
         "channel": "ESPN 2 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127899?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4720,7 +4720,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4734,7 +4734,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4748,7 +4748,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4760,9 +4760,9 @@
         "channel": "Expo Channel",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127883?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "76",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -4774,9 +4774,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4789,11 +4789,11 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4804,9 +4804,9 @@
         "channel": "Fox Sports 501",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127907?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4821,9 +4821,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4836,9 +4836,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4849,9 +4849,9 @@
         "channel": "Fox Sports 502",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127906?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4864,11 +4864,11 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4881,9 +4881,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4894,9 +4894,9 @@
         "channel": "Fox Sports 503",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127905?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4909,11 +4909,11 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4926,9 +4926,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4939,9 +4939,9 @@
         "channel": "Fox Sports 504",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127904?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -4954,11 +4954,11 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4969,11 +4969,11 @@
         "channel": "Fox Sports 504 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202379.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4984,11 +4984,11 @@
         "channel": "Fox Sports 505",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127903?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -4999,11 +4999,11 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5016,9 +5016,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5029,9 +5029,9 @@
         "channel": "Fox Sports 506",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127902?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5044,9 +5044,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5059,11 +5059,11 @@
         "channel": "Fox Sports 506 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202381.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5074,9 +5074,9 @@
         "channel": "Fox Sports 507",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127901?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5089,9 +5089,9 @@
         "channel": "ESPN 1 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127900?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5104,9 +5104,9 @@
         "channel": "ESPN 2",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103992?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -5119,9 +5119,9 @@
         "channel": "ESPN 2 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127899?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5134,9 +5134,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5149,11 +5149,11 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5164,9 +5164,9 @@
         "channel": "Fox Sports 501",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127907?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5181,9 +5181,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5196,9 +5196,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5209,9 +5209,9 @@
         "channel": "Fox Sports 502",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127906?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5224,11 +5224,11 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5241,9 +5241,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5254,9 +5254,9 @@
         "channel": "Fox Sports 503",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127905?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5269,11 +5269,11 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5286,9 +5286,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5299,9 +5299,9 @@
         "channel": "Fox Sports 504",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127904?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5314,11 +5314,11 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5329,11 +5329,11 @@
         "channel": "Fox Sports 504 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202379.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5344,11 +5344,11 @@
         "channel": "Fox Sports 505",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127903?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5359,11 +5359,11 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5376,9 +5376,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5389,9 +5389,9 @@
         "channel": "Fox Sports 506",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127902?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5404,9 +5404,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5419,11 +5419,11 @@
         "channel": "Fox Sports 506 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202381.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5434,9 +5434,9 @@
         "channel": "Fox Sports 507",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127901?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5451,7 +5451,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5466,24 +5466,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "oceania",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2025947",
-        "channel": "Fox Sports News",
-        "link": "http://bestsave.ltd:2052/39995593/39995593/127877?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5496,9 +5481,24 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "oceania",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2025947",
+        "channel": "Fox Sports News",
+        "link": "http://bestsave.ltd:2052/39995593/39995593/127877?checkedby:iptvcat.com",
+        "country": "oceania",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5509,9 +5509,9 @@
         "channel": "Fox Sports News FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48265.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -5526,9 +5526,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5539,11 +5539,11 @@
         "channel": "Olympics_Channel Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217765.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5556,7 +5556,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -5571,7 +5571,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -5584,9 +5584,9 @@
         "channel": "beIN Sports 1",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127876?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5599,11 +5599,11 @@
         "channel": "beIN Sports 1 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220993.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5614,9 +5614,9 @@
         "channel": "beIN Sports 2",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127875?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "85",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5631,9 +5631,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5644,9 +5644,9 @@
         "channel": "beIN Sports 3",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127874?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5660,10 +5660,10 @@
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220995.ts?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5674,9 +5674,9 @@
         "channel": "ESPN 1 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127900?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5689,9 +5689,9 @@
         "channel": "ESPN 2",
         "link": "http://pyramidsiptv.com:8080/mohamed/mohamed123/103992?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -5704,9 +5704,9 @@
         "channel": "ESPN 2 HD",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127899?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5719,9 +5719,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5734,11 +5734,11 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5749,9 +5749,9 @@
         "channel": "Fox Sports 501",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127907?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "78",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5766,9 +5766,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5781,9 +5781,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5794,9 +5794,9 @@
         "channel": "Fox Sports 502",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127906?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "84",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5809,11 +5809,11 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5826,9 +5826,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5839,9 +5839,9 @@
         "channel": "Fox Sports 503",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127905?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5854,11 +5854,11 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5871,9 +5871,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5884,9 +5884,9 @@
         "channel": "Fox Sports 504",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127904?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5899,11 +5899,11 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5914,11 +5914,11 @@
         "channel": "Fox Sports 504 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202379.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5929,11 +5929,11 @@
         "channel": "Fox Sports 505",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127903?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5944,11 +5944,11 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "80",
+        "liveliness": "75",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
-        "mbps": "5631",
+        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5961,9 +5961,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -5974,9 +5974,9 @@
         "channel": "Fox Sports 506",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127902?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -5989,9 +5989,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "91",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -6004,11 +6004,11 @@
         "channel": "Fox Sports 506 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/202381.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -6019,9 +6019,9 @@
         "channel": "Fox Sports 507",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127901?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -6036,7 +6036,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -6051,24 +6051,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "oceania",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2025947",
-        "channel": "Fox Sports News",
-        "link": "http://bestsave.ltd:2052/39995593/39995593/127877?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -6081,9 +6066,24 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
+        "URI": [
+            "oceania",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2025947",
+        "channel": "Fox Sports News",
+        "link": "http://bestsave.ltd:2052/39995593/39995593/127877?checkedby:iptvcat.com",
+        "country": "oceania",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -6094,9 +6094,9 @@
         "channel": "Fox Sports News FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48265.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "91",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -6111,9 +6111,9 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "899",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -6124,11 +6124,11 @@
         "channel": "Olympics_Channel Sydney",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/217765.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
-        "status": "offline",
-        "lastChecked": "2021-11-13T00:00:00Z",
+        "liveliness": "50",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -6141,7 +6141,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -6156,7 +6156,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "sd",
         "mbps": "2089",
         "URI": [
@@ -6169,9 +6169,9 @@
         "channel": "beIN Sports 1",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127876?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "95",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -6184,11 +6184,11 @@
         "channel": "beIN Sports 1 HD",
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220993.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "97",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -6199,9 +6199,9 @@
         "channel": "beIN Sports 2",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127875?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "85",
+        "liveliness": "87",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -6216,9 +6216,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
@@ -6229,9 +6229,9 @@
         "channel": "beIN Sports 3",
         "link": "http://bestsave.ltd:2052/39995593/39995593/127874?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2021-11-14T00:00:00Z",
+        "lastChecked": "2021-11-15T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -6245,10 +6245,10 @@
         "link": "http://king-tv.online:80/wctinney/aRaD1Pq2Rg/220995.ts?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2021-11-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "status": "online",
+        "lastChecked": "2021-11-15T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
         "URI": [
             "oceania",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
