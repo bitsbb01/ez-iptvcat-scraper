@@ -1,0 +1,58 @@
+[
+    {
+        "id": "2093929",
+        "channel": "EPT SPORT",
+        "link": "http://mains.services:2086/Sammy/Sammy/101199?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2094034",
+        "channel": "OTE SPORT 2",
+        "link": "http://mains.services:2086/Sammy/Sammy/94111?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "7114",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2093929",
+        "channel": "EPT SPORT",
+        "link": "http://mains.services:2086/Sammy/Sammy/101199?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2094034",
+        "channel": "OTE SPORT 2",
+        "link": "http://mains.services:2086/Sammy/Sammy/94111?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "7114",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": "2093554",
+        "channel": "Nova Sport 1 HD",
+        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/42976?checkedby:iptvcat.com",
+        "country": "czech republic",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2093858",
+        "channel": "Sport 1 HD",
+        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/42988?checkedby:iptvcat.com",
+        "country": "czech republic",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2093865",
+        "channel": "Sport 2 HD",
+        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/42989?checkedby:iptvcat.com",
+        "country": "czech republic",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2093883",
+        "channel": "Sport 5",
+        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/42990?checkedby:iptvcat.com",
+        "country": "czech republic",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport"
+        ]
+    }
+]

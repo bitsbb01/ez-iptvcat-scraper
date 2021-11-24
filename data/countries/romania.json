@@ -1,0 +1,86 @@
+[
+    {
+        "id": "2093968",
+        "channel": "DIGISPORT 4",
+        "link": "http://xtrastv.club:8080/salahdin/1EqJY6XrgL/5801?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2094081",
+        "channel": "Extreme Sport",
+        "link": "http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/42777?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2093965",
+        "channel": "TELEKOM SPORT 1",
+        "link": "http://xtrastv.club:8080/salahdin/1EqJY6XrgL/5559?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3179",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2093968",
+        "channel": "DIGISPORT 4",
+        "link": "http://xtrastv.club:8080/salahdin/1EqJY6XrgL/5801?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2094081",
+        "channel": "Extreme Sport",
+        "link": "http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/42777?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2093965",
+        "channel": "TELEKOM SPORT 1",
+        "link": "http://xtrastv.club:8080/salahdin/1EqJY6XrgL/5559?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-24T00:00:00Z",
+        "format": "hd",
+        "mbps": "3179",
+        "URI": [
+            "sport"
+        ]
+    }
+]
