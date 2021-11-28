@@ -1,0 +1,226 @@
+[
+    {
+        "id": "2113533",
+        "channel": "SPORT TV 4 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123998?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113300",
+        "channel": "SPORT TV 4 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118817?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113534",
+        "channel": "SPORT TV 5 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123999?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113528",
+        "channel": "SPORT TV 1 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123995?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113532",
+        "channel": "SPORT TV 2 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123996?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113526",
+        "channel": "Sport TV+",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123994?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113524",
+        "channel": "Sport TV5",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123993?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113292",
+        "channel": "Sporting TV",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118812?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113528",
+        "channel": "SPORT TV 1 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123995?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113532",
+        "channel": "SPORT TV 2 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123996?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113533",
+        "channel": "SPORT TV 4 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123998?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113300",
+        "channel": "SPORT TV 4 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118817?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113534",
+        "channel": "SPORT TV 5 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123999?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113526",
+        "channel": "Sport TV+",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123994?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113524",
+        "channel": "Sport TV5",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123993?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113292",
+        "channel": "Sporting TV",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118812?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    }
+]

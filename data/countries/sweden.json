@@ -1,0 +1,58 @@
+[
+    {
+        "id": "2113651",
+        "channel": "C More Sport",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118915?checkedby:iptvcat.com",
+        "country": "sweden",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113645",
+        "channel": "Viasat Golf",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118912?checkedby:iptvcat.com",
+        "country": "sweden",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2113651",
+        "channel": "C More Sport",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118915?checkedby:iptvcat.com",
+        "country": "sweden",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113645",
+        "channel": "Viasat Golf",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118912?checkedby:iptvcat.com",
+        "country": "sweden",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport"
+        ]
+    }
+]

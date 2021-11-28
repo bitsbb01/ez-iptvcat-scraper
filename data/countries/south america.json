@@ -6,9 +6,9 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "2228, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -20,7 +20,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
@@ -48,7 +48,7 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -62,11 +62,99 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113259",
+        "channel": "AMC HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118712?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113461",
+        "channel": "SPORT TV HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118825?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1784",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113458",
+        "channel": "Space HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118823?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113464",
+        "channel": "Sport TV 2 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118826?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113466",
+        "channel": "Sport TV 3 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118828?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1052",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113460",
+        "channel": "Sport TV FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118824?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -76,11 +164,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1051",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
-            "south_america"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -90,11 +178,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
-            "south_america"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -104,11 +192,11 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
-            "south_america"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -116,14 +204,14 @@
         "channel": "Arenasport 1 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "71",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -131,14 +219,14 @@
         "channel": "Arenasport 4 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "70",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -146,14 +234,14 @@
         "channel": "Arenasport 5 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "81",
+        "liveliness": "78",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -161,14 +249,14 @@
         "channel": "Supersport 1",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/405.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "79",
+        "liveliness": "76",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -176,14 +264,426 @@
         "channel": "Supersport 2",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/406.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "69",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113266",
+        "channel": "AXN HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118718?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113263",
+        "channel": "Arte 1",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118716?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113381",
+        "channel": "HBO 2 HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118783?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113392",
+        "channel": "HBO Family Brazil",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118784?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113394",
+        "channel": "HBO Family HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118785?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113314",
+        "channel": "ESPN BRAZIL",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118749?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113316",
+        "channel": "ESPN FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118751?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113376",
+        "channel": "Globo",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118775?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113373",
+        "channel": "Globo RJ HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118773?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113381",
+        "channel": "HBO 2 HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118783?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113392",
+        "channel": "HBO Family Brazil",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118784?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113394",
+        "channel": "HBO Family HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118785?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113426",
+        "channel": "Paramount HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118808?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113439",
+        "channel": "Premiere 6",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118815?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113445",
+        "channel": "Record",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118817?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113447",
+        "channel": "Record News",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118818?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113449",
+        "channel": "Rede TV",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118819?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113397",
+        "channel": "HBO Plus HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118787?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113398",
+        "channel": "HBO Signature Brasil",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118788?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113426",
+        "channel": "Paramount HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118808?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113439",
+        "channel": "Premiere 6",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118815?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113445",
+        "channel": "Record",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118817?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113447",
+        "channel": "Record News",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118818?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113449",
+        "channel": "Rede TV",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118819?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113461",
+        "channel": "SPORT TV HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118825?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1784",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113458",
+        "channel": "Space HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118823?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113464",
+        "channel": "Sport TV 2 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118826?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113466",
+        "channel": "Sport TV 3 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118828?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1052",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113460",
+        "channel": "Sport TV FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118824?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -193,11 +693,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1051",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
-            "south_america"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -207,11 +707,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
-            "south_america"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -221,86 +721,426 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2054671",
+        "channel": "Arenasport 1 HD",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "68",
+        "status": "offline",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2054659",
+        "channel": "Arenasport 4 HD",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "68",
+        "status": "offline",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2054647",
+        "channel": "Arenasport 5 HD",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "78",
+        "status": "offline",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2054645",
+        "channel": "Supersport 1",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/405.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "76",
+        "status": "offline",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2054639",
+        "channel": "Supersport 2",
+        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/406.ts?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113283",
+        "channel": "Combate",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118729?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113289",
+        "channel": "Combate HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118730?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113376",
+        "channel": "Globo",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118775?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "south_america"
         ]
     },
     {
-        "id": "2054671",
-        "channel": "Arenasport 1 HD",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
+        "id": "2113373",
+        "channel": "Globo RJ HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118773?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america"
         ]
     },
     {
-        "id": "2054659",
-        "channel": "Arenasport 4 HD",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
+        "id": "2113397",
+        "channel": "HBO Plus HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118787?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "south_america",
-            "sport"
-        ]
-    },
-    {
-        "id": "2054647",
-        "channel": "Arenasport 5 HD",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "south_america",
-            "sport"
-        ]
-    },
-    {
-        "id": "2054645",
-        "channel": "Supersport 1",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/405.ts?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "south_america",
-            "sport"
-        ]
-    },
-    {
-        "id": "2054639",
-        "channel": "Supersport 2",
-        "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/406.ts?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5997",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113398",
+        "channel": "HBO Signature Brasil",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118788?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113334",
+        "channel": "FOX FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118758?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113364",
+        "channel": "FOX SPORTS 2",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118765?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113366",
+        "channel": "FX HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118767?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113334",
+        "channel": "FOX FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118758?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113364",
+        "channel": "FOX SPORTS 2",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118765?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113366",
+        "channel": "FX HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118767?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113296",
+        "channel": "Discovery Home Health",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118735?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113302",
+        "channel": "Discovery Kids",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118738?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113303",
+        "channel": "Discovery Science Brasil",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118739?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113304",
+        "channel": "Discovery Turbo",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118741?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113314",
+        "channel": "ESPN BRAZIL",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118749?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113316",
+        "channel": "ESPN FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118751?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113296",
+        "channel": "Discovery Home Health",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118735?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113302",
+        "channel": "Discovery Kids",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118738?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113303",
+        "channel": "Discovery Science Brasil",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118739?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113304",
+        "channel": "Discovery Turbo",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118741?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113283",
+        "channel": "Combate",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118729?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113289",
+        "channel": "Combate HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118730?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -310,9 +1150,9 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "2228, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -324,7 +1164,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -338,7 +1178,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
@@ -352,7 +1192,7 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -366,9 +1206,23 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113259",
+        "channel": "AMC HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118712?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -380,9 +1234,9 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "2228, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -394,7 +1248,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -408,7 +1262,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
@@ -422,7 +1276,7 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -436,11 +1290,53 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113259",
+        "channel": "AMC HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118712?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113266",
+        "channel": "AXN HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118718?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2113263",
+        "channel": "Arte 1",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118716?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "south_america"
         ]
     },
     {
@@ -450,9 +1346,9 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "2228, ...",
         "URI": [
             "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
@@ -464,7 +1360,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -478,7 +1374,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1181",
         "URI": [
@@ -492,7 +1388,7 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -506,7 +1402,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -514,18 +1410,137 @@
         ]
     },
     {
+        "id": "2113259",
+        "channel": "AMC HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118712?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2113314",
+        "channel": "ESPN BRAZIL",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118749?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113316",
+        "channel": "ESPN FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118751?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113364",
+        "channel": "FOX SPORTS 2",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118765?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113461",
+        "channel": "SPORT TV HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118825?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1784",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113464",
+        "channel": "Sport TV 2 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118826?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113466",
+        "channel": "Sport TV 3 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118828?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1052",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113460",
+        "channel": "Sport TV FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118824?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "2054671",
         "channel": "Arenasport 1 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "71",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -533,14 +1548,14 @@
         "channel": "Arenasport 4 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "70",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -548,14 +1563,14 @@
         "channel": "Arenasport 5 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "81",
+        "liveliness": "78",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -563,14 +1578,14 @@
         "channel": "Supersport 1",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/405.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "79",
+        "liveliness": "76",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -578,14 +1593,14 @@
         "channel": "Supersport 2",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/406.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "69",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -593,14 +1608,14 @@
         "channel": "Arenasport 1 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/400.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "71",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -608,14 +1623,14 @@
         "channel": "Arenasport 4 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/403.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "70",
+        "liveliness": "68",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -623,14 +1638,14 @@
         "channel": "Arenasport 5 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/404.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "81",
+        "liveliness": "78",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -638,14 +1653,14 @@
         "channel": "Supersport 1",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/405.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "79",
+        "liveliness": "76",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "south_america",
-            "sport"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -653,14 +1668,119 @@
         "channel": "Supersport 2",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/406.ts?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "69",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113461",
+        "channel": "SPORT TV HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118825?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1784",
+        "URI": [
             "south_america",
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113464",
+        "channel": "Sport TV 2 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118826?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113466",
+        "channel": "Sport TV 3 FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118828?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "1052",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113460",
+        "channel": "Sport TV FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118824?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113314",
+        "channel": "ESPN BRAZIL",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118749?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113316",
+        "channel": "ESPN FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118751?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113364",
+        "channel": "FOX SPORTS 2",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/118765?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     }
 ]

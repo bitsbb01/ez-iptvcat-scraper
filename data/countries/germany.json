@@ -1,12 +1,12 @@
 [
     {
-        "id": "2093348",
+        "id": "2113298",
         "channel": "Sky Sport 1",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41565?checkedby:iptvcat.com",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117344?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -14,13 +14,13 @@
         ]
     },
     {
-        "id": "2093358",
+        "id": "2113299",
         "channel": "Sky Sport 1 HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41566?checkedby:iptvcat.com",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117345?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -28,69 +28,13 @@
         ]
     },
     {
-        "id": "2093368",
-        "channel": "Sky Sport 2",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41567?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093385",
-        "channel": "Sky Sport 2 HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41568?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093403",
-        "channel": "Sky Sport 3",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41569?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093414",
+        "id": "2113307",
         "channel": "Sky Sport 4 HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41570?checkedby:iptvcat.com",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117349?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093428",
-        "channel": "Sky Sport 5 HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41571?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -98,55 +42,27 @@
         ]
     },
     {
-        "id": "2093450",
-        "channel": "Sky Sport Austria",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41572?checkedby:iptvcat.com",
+        "id": "2113258",
+        "channel": "Sky Sport 5 FHD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117321?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "5569",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093464",
-        "channel": "Sky Sport News HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41573?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093476",
-        "channel": "Sky Sport News SD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41574?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3625",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2093428",
-        "channel": "Sky Sport 5 HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41571?checkedby:iptvcat.com",
+        "id": "2113310",
+        "channel": "Sky Sport 6 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117351?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -154,27 +70,13 @@
         ]
     },
     {
-        "id": "2093450",
-        "channel": "Sky Sport Austria",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41572?checkedby:iptvcat.com",
+        "id": "2113311",
+        "channel": "Sky Sport 7 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117352?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "5569",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093464",
-        "channel": "Sky Sport News HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41573?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -182,69 +84,27 @@
         ]
     },
     {
-        "id": "2093476",
-        "channel": "Sky Sport News SD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41574?checkedby:iptvcat.com",
+        "id": "2113315",
+        "channel": "Sky Sport 9 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117354?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3795",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2093348",
-        "channel": "Sky Sport 1",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41565?checkedby:iptvcat.com",
+        "id": "2113267",
+        "channel": "Sky Sport Bundesliga 1 FHD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117328?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093358",
-        "channel": "Sky Sport 1 HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41566?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093368",
-        "channel": "Sky Sport 2",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41567?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2093385",
-        "channel": "Sky Sport 2 HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41568?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -252,13 +112,27 @@
         ]
     },
     {
-        "id": "2093403",
-        "channel": "Sky Sport 3",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41569?checkedby:iptvcat.com",
+        "id": "2113276",
+        "channel": "Sky Sport Bundesliga 6 FHD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117333?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113344",
+        "channel": "Sky Sport Bundesliga 7 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117363?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -266,13 +140,223 @@
         ]
     },
     {
-        "id": "2093414",
+        "id": "2113282",
+        "channel": "Sky Sport Bundesliga 8 FHD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117335?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113346",
+        "channel": "Sky Sport Bundesliga 8 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117364?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113520",
+        "channel": "Sportdigital HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117478?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113307",
         "channel": "Sky Sport 4 HD",
-        "link": "http://delux-iptv.com:8000/AMineLocal/Locaalrk/41570?checkedby:iptvcat.com",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117349?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113258",
+        "channel": "Sky Sport 5 FHD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117321?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113310",
+        "channel": "Sky Sport 6 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117351?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113311",
+        "channel": "Sky Sport 7 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117352?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113315",
+        "channel": "Sky Sport 9 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117354?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113267",
+        "channel": "Sky Sport Bundesliga 1 FHD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117328?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113276",
+        "channel": "Sky Sport Bundesliga 6 FHD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117333?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113344",
+        "channel": "Sky Sport Bundesliga 7 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117363?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113282",
+        "channel": "Sky Sport Bundesliga 8 FHD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117335?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113346",
+        "channel": "Sky Sport Bundesliga 8 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117364?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113520",
+        "channel": "Sportdigital HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117478?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113298",
+        "channel": "Sky Sport 1",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117344?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113299",
+        "channel": "Sky Sport 1 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/117345?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [

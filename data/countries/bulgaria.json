@@ -1,0 +1,142 @@
+[
+    {
+        "id": "2113281",
+        "channel": "DIEMA SPORT 1 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118776?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113336",
+        "channel": "Diema Sport 2 HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/115419?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113293",
+        "channel": "MAX SPORT 4 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118781?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113294",
+        "channel": "NOVA SPORT HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118782?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113487",
+        "channel": "Nova Sport FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/115498?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113281",
+        "channel": "DIEMA SPORT 1 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118776?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113336",
+        "channel": "Diema Sport 2 HD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/115419?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113293",
+        "channel": "MAX SPORT 4 HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118781?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113294",
+        "channel": "NOVA SPORT HD",
+        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118782?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2113487",
+        "channel": "Nova Sport FHD",
+        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/115498?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-11-28T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    }
+]

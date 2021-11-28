@@ -1,98 +1,14 @@
 [
     {
-        "id": "2061903",
-        "channel": "7 FLIX HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/175190?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061899",
-        "channel": "7 MATE HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86736?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061907",
-        "channel": "9 GO HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86739?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061909",
-        "channel": "9 LIFE HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86740?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
         "id": "693516",
         "channel": "ABC AU",
         "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061911",
-        "channel": "ABC Comedy HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86741?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061913",
-        "channel": "ABC KIDS HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86742?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
         "URI": [
             "oceania_-_-_"
         ]
@@ -104,7 +20,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -118,51 +34,9 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061917",
-        "channel": "ABC NEWS 24 HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86744?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061921",
-        "channel": "ABC One HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86745?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061919",
-        "channel": "ACC TV",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/175191?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "3260",
         "URI": [
             "oceania_-_-_"
         ]
@@ -174,7 +48,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -188,7 +62,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -202,23 +76,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061923",
-        "channel": "Bloomberg Australia",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86768?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
         "URI": [
             "oceania_-_-_"
         ]
@@ -230,51 +90,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061932",
-        "channel": "Channel  9 HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86748?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061926",
-        "channel": "Channel 10 Peach",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86773?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061934",
-        "channel": "Channel One HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86746?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
         "URI": [
             "oceania_-_-_"
         ]
@@ -284,57 +102,14 @@
         "channel": "ESPN",
         "link": "http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5KJf3X9RkNPNC2UE6Hq749g/ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061936",
-        "channel": "ESPN 1",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86772?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2578",
-        "URI": [
-            "oceania_-_-_",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061938",
-        "channel": "ESPN 2",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86771?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2578",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061940",
-        "channel": "EXPO Channel  HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86750?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "oceania_-_-_"
         ]
     },
     {
@@ -344,7 +119,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -358,7 +133,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -370,9 +145,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -385,9 +160,9 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "76",
+        "liveliness": "74",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -400,9 +175,9 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5BOqPHHnbE3AV0aXZGGXuhQ/ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -411,27 +186,13 @@
         ]
     },
     {
-        "id": "2061942",
-        "channel": "Food Network HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86751?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
         "id": "2054567",
         "channel": "Fox Sports 501 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48272.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -444,9 +205,9 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "78",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -459,9 +220,9 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "70",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -474,9 +235,9 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "74",
+        "liveliness": "72",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -489,9 +250,9 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "73",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -504,9 +265,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "78",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -519,9 +280,9 @@
         "channel": "Fox Sports 507 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48266.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -536,7 +297,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -549,267 +310,14 @@
         "channel": "Fox Sports News FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48265.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061945",
-        "channel": "Fox Sports News HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86752?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "62",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061949",
-        "channel": "NINE GEM Adelaide HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86763?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061952",
-        "channel": "NINE GEM Sydney HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86767?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061955",
-        "channel": "NINE GO Sydney HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86770?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061959",
-        "channel": "NINE Life Perth HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86774?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061963",
-        "channel": "NINE Life Sydney HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86775?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "65",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061967",
-        "channel": "NINE Sydney HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86778?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061979",
-        "channel": "Outdoor Channel HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86769?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061982",
-        "channel": "PAC 12 HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86780?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1601",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061991",
-        "channel": "Redbull TV HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86781?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061905",
-        "channel": "S NEWS AUSTRALIA",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86738?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061972",
-        "channel": "S NEWS EXTRA 3",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/175192?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "899",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061996",
-        "channel": "S News Extra",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86765?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "58",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "899",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062005",
-        "channel": "SBC NITV",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86764?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061975",
-        "channel": "SBC NITV HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86753?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062011",
-        "channel": "SBS HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86755?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062014",
-        "channel": "SBS Viceland HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86756?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062017",
-        "channel": "SBS World Movies",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86759?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
         ]
     },
     {
@@ -819,7 +327,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -833,7 +341,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -847,65 +355,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061931",
-        "channel": "Sky News HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86776?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "68",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062001",
-        "channel": "Sky RACING 2 HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86758?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "899",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062024",
-        "channel": "TEN Bold HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86779?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062027",
-        "channel": "TEN HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86783?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
         "URI": [
             "oceania_-_-_"
         ]
@@ -917,7 +369,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -931,7 +383,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -945,7 +397,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -960,7 +412,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -975,7 +427,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -990,7 +442,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1004,7 +456,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1018,7 +470,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1032,7 +484,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -1046,7 +498,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1060,7 +512,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1074,7 +526,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1088,7 +540,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1102,7 +554,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1116,7 +568,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1130,7 +582,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1144,7 +596,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1158,7 +610,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1172,65 +624,9 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061903",
-        "channel": "7 FLIX HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/175190?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061899",
-        "channel": "7 MATE HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86736?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "917",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061907",
-        "channel": "9 GO HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86739?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061909",
-        "channel": "9 LIFE HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86740?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1242,37 +638,9 @@
         "country": "oceania",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061911",
-        "channel": "ABC Comedy HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86741?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061913",
-        "channel": "ABC KIDS HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86742?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1284,7 +652,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1298,51 +666,9 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061917",
-        "channel": "ABC NEWS 24 HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86744?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061921",
-        "channel": "ABC One HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86745?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061919",
-        "channel": "ACC TV",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/175191?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "3260",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1354,7 +680,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1368,7 +694,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1382,23 +708,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061923",
-        "channel": "Bloomberg Australia",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86768?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1410,51 +722,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061932",
-        "channel": "Channel  9 HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86748?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "57",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061926",
-        "channel": "Channel 10 Peach",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86773?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061934",
-        "channel": "Channel One HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86746?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1464,57 +734,14 @@
         "channel": "ESPN",
         "link": "http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5KJf3X9RkNPNC2UE6Hq749g/ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061936",
-        "channel": "ESPN 1",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86772?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2578",
-        "URI": [
-            "oceania_-_-_",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061938",
-        "channel": "ESPN 2",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86771?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2578",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061940",
-        "channel": "EXPO Channel  HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86750?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "60",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "oceania_-_-_"
         ]
     },
     {
@@ -1524,7 +751,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1538,7 +765,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1550,9 +777,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1565,9 +792,9 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "76",
+        "liveliness": "74",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -1580,9 +807,9 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5BOqPHHnbE3AV0aXZGGXuhQ/ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -1591,27 +818,13 @@
         ]
     },
     {
-        "id": "2061942",
-        "channel": "Food Network HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86751?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
         "id": "2054567",
         "channel": "Fox Sports 501 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48272.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -1624,9 +837,9 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "78",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1639,9 +852,9 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "70",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1654,9 +867,9 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "74",
+        "liveliness": "72",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -1669,9 +882,9 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "73",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -1684,9 +897,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "78",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1699,9 +912,9 @@
         "channel": "Fox Sports 507 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48266.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -1716,7 +929,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1729,267 +942,14 @@
         "channel": "Fox Sports News FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48265.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061945",
-        "channel": "Fox Sports News HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86752?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "62",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061949",
-        "channel": "NINE GEM Adelaide HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86763?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061952",
-        "channel": "NINE GEM Sydney HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86767?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061955",
-        "channel": "NINE GO Sydney HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86770?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "66",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061959",
-        "channel": "NINE Life Perth HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86774?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061963",
-        "channel": "NINE Life Sydney HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86775?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "65",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061967",
-        "channel": "NINE Sydney HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86778?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "823",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061979",
-        "channel": "Outdoor Channel HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86769?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "73",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061982",
-        "channel": "PAC 12 HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86780?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1601",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061991",
-        "channel": "Redbull TV HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86781?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061905",
-        "channel": "S NEWS AUSTRALIA",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86738?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061972",
-        "channel": "S NEWS EXTRA 3",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/175192?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "70",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "899",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061996",
-        "channel": "S News Extra",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86765?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "58",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "899",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062005",
-        "channel": "SBC NITV",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86764?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061975",
-        "channel": "SBC NITV HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86753?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "59",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062011",
-        "channel": "SBS HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86755?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "69",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062014",
-        "channel": "SBS Viceland HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86756?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062017",
-        "channel": "SBS World Movies",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86759?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1894",
-        "URI": [
-            "oceania_-_-_"
         ]
     },
     {
@@ -1999,7 +959,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -2013,7 +973,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -2027,65 +987,9 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2061931",
-        "channel": "Sky News HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86776?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "68",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062001",
-        "channel": "Sky RACING 2 HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86758?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "899",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062024",
-        "channel": "TEN Bold HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86779?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "63",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2062027",
-        "channel": "TEN HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86783?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "67",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
         "URI": [
             "oceania_-_-_"
         ]
@@ -2097,7 +1001,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2111,7 +1015,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -2125,7 +1029,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2140,7 +1044,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2155,7 +1059,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2170,7 +1074,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -2184,7 +1088,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -2198,7 +1102,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -2212,7 +1116,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -2226,7 +1130,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2240,7 +1144,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2254,7 +1158,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2268,7 +1172,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2282,7 +1186,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2296,7 +1200,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2310,7 +1214,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2324,7 +1228,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2338,7 +1242,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2352,7 +1256,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2364,26 +1268,11 @@
         "channel": "ESPN",
         "link": "http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5KJf3X9RkNPNC2UE6Hq749g/ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061936",
-        "channel": "ESPN 1",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86772?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
@@ -2394,9 +1283,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2409,9 +1298,9 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "76",
+        "liveliness": "74",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -2424,9 +1313,9 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5BOqPHHnbE3AV0aXZGGXuhQ/ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2439,9 +1328,9 @@
         "channel": "Fox Sports 501 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48272.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -2454,9 +1343,9 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "78",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2469,9 +1358,9 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "70",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2484,9 +1373,9 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "74",
+        "liveliness": "72",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -2499,9 +1388,9 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "73",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -2514,9 +1403,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "78",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2529,9 +1418,9 @@
         "channel": "Fox Sports 507 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48266.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2546,7 +1435,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2559,24 +1448,9 @@
         "channel": "Fox Sports News FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48265.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061945",
-        "channel": "Fox Sports News HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86752?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "62",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2591,7 +1465,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2606,7 +1480,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2621,7 +1495,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2634,26 +1508,11 @@
         "channel": "ESPN",
         "link": "http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5KJf3X9RkNPNC2UE6Hq749g/ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "88",
+        "liveliness": "89",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061936",
-        "channel": "ESPN 1",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86772?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "71",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2578",
         "URI": [
             "oceania_-_-_",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
@@ -2664,9 +1523,9 @@
         "channel": "FOX SPORTS 506 HD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2679,9 +1538,9 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "76",
+        "liveliness": "74",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "899",
         "URI": [
@@ -2694,9 +1553,9 @@
         "channel": "FOX SPORTS NEWS",
         "link": "http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5BOqPHHnbE3AV0aXZGGXuhQ/ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "92",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2709,9 +1568,9 @@
         "channel": "Fox Sports 501 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48272.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "82",
+        "liveliness": "79",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -2724,9 +1583,9 @@
         "channel": "Fox Sports 502 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "78",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2739,9 +1598,9 @@
         "channel": "Fox Sports 503 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "70",
+        "liveliness": "67",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2754,9 +1613,9 @@
         "channel": "Fox Sports 504 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "74",
+        "liveliness": "72",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "2578",
         "URI": [
@@ -2769,9 +1628,9 @@
         "channel": "Fox Sports 505 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "73",
+        "liveliness": "70",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "sd",
         "mbps": "5631",
         "URI": [
@@ -2784,9 +1643,9 @@
         "channel": "Fox Sports 506 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "78",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2799,9 +1658,9 @@
         "channel": "Fox Sports 507 FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48266.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "79",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
@@ -2816,7 +1675,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2829,24 +1688,9 @@
         "channel": "Fox Sports News FHD",
         "link": "http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48265.ts?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2061945",
-        "channel": "Fox Sports News HD",
-        "link": "http://new-pro.tv:8080/golden_eagle/khalid/86752?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "62",
-        "status": "offline",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2861,7 +1705,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2876,7 +1720,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2891,7 +1735,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-27T00:00:00Z",
+        "lastChecked": "2021-11-28T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
