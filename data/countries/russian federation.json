@@ -1,84 +1,140 @@
 [
     {
-        "id": "2092945",
-        "channel": "MATCH FOOTBALL 1",
-        "link": "http://mains.services:2086/Sammy/Sammy/99034?checkedby:iptvcat.com",
+        "id": "2132884",
+        "channel": "Match! Futbol 1 (Матч! Футбол 1)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135938?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2092955",
-        "channel": "MATCH FOOTBALL 2",
-        "link": "http://mains.services:2086/Sammy/Sammy/99033?checkedby:iptvcat.com",
+        "id": "2132895",
+        "channel": "Match! Futbol 2 (Матч! Футбол 2)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135939?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2092973",
-        "channel": "MATCH FOOTBALL 3",
-        "link": "http://mains.services:2086/Sammy/Sammy/99032?checkedby:iptvcat.com",
+        "id": "2132902",
+        "channel": "Match! Futbol 3 (Матч! Футбол 3)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135940?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "1376",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2092945",
-        "channel": "MATCH FOOTBALL 1",
-        "link": "http://mains.services:2086/Sammy/Sammy/99034?checkedby:iptvcat.com",
+        "id": "2132808",
+        "channel": "Match! Nash sport (Матч! Страна - Наш Спорт)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135935?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2092955",
-        "channel": "MATCH FOOTBALL 2",
-        "link": "http://mains.services:2086/Sammy/Sammy/99033?checkedby:iptvcat.com",
+        "id": "2132917",
+        "channel": "Telekanal Football (Телеканал Футбол)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135941?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5991",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2092973",
-        "channel": "MATCH FOOTBALL 3",
-        "link": "http://mains.services:2086/Sammy/Sammy/99032?checkedby:iptvcat.com",
+        "id": "2132884",
+        "channel": "Match! Futbol 1 (Матч! Футбол 1)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135938?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2132895",
+        "channel": "Match! Futbol 2 (Матч! Футбол 2)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135939?checkedby:iptvcat.com",
+        "country": "russian federation",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2132902",
+        "channel": "Match! Futbol 3 (Матч! Футбол 3)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135940?checkedby:iptvcat.com",
+        "country": "russian federation",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "1376",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2132808",
+        "channel": "Match! Nash sport (Матч! Страна - Наш Спорт)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135935?checkedby:iptvcat.com",
+        "country": "russian federation",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2132917",
+        "channel": "Telekanal Football (Телеканал Футбол)",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/135941?checkedby:iptvcat.com",
+        "country": "russian federation",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "sport"
         ]

@@ -1,12 +1,68 @@
 [
     {
-        "id": "2093929",
-        "channel": "EPT SPORT",
-        "link": "http://mains.services:2086/Sammy/Sammy/101199?checkedby:iptvcat.com",
+        "id": "2132641",
+        "channel": "Cosmote Sport 1",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95825?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132651",
+        "channel": "Cosmote Sport 2",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95826?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132659",
+        "channel": "Cosmote Sport 3",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95827?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132681",
+        "channel": "Cosmote Sport 4",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95828?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132588",
+        "channel": "ERT Sport HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73564?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -14,27 +70,55 @@
         ]
     },
     {
-        "id": "2094034",
-        "channel": "OTE SPORT 2",
-        "link": "http://mains.services:2086/Sammy/Sammy/94111?checkedby:iptvcat.com",
+        "id": "2132551",
+        "channel": "Nova Sport 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73561?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "7114",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2093929",
-        "channel": "EPT SPORT",
-        "link": "http://mains.services:2086/Sammy/Sammy/101199?checkedby:iptvcat.com",
+        "id": "2132575",
+        "channel": "Nova Sport 5 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73562?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134570",
+        "channel": "Novasports 1 HD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/103126?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134580",
+        "channel": "Novasports 3 HD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/103134?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -42,15 +126,127 @@
         ]
     },
     {
-        "id": "2094034",
-        "channel": "OTE SPORT 2",
-        "link": "http://mains.services:2086/Sammy/Sammy/94111?checkedby:iptvcat.com",
+        "id": "2132641",
+        "channel": "Cosmote Sport 1",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95825?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-24T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
-        "mbps": "7114",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132651",
+        "channel": "Cosmote Sport 2",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95826?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132659",
+        "channel": "Cosmote Sport 3",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95827?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132681",
+        "channel": "Cosmote Sport 4",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95828?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132588",
+        "channel": "ERT Sport HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73564?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132551",
+        "channel": "Nova Sport 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73561?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132575",
+        "channel": "Nova Sport 5 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73562?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134570",
+        "channel": "Novasports 1 HD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/103126?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134580",
+        "channel": "Novasports 3 HD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/103134?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]

@@ -1,96 +1,194 @@
 [
     {
-        "id": "2113533",
+        "id": "2132095",
+        "channel": "Eleven Sports 5 HD VIP",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66359?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132114",
+        "channel": "Eleven Sports 6 HD VIP",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66362?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131863",
+        "channel": "Kombat Sport",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66309?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131811",
         "channel": "SPORT TV 4 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123998?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66276?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131814",
+        "channel": "SPORT TV NBA",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66283?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131813",
+        "channel": "Sport TV 1 FHD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66282?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131812",
+        "channel": "Sport TV 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66281?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131810",
+        "channel": "Sport TV 4",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66275?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132046",
+        "channel": "Sport TV 5",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66343?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133519",
+        "channel": "SportTV 1 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159090?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134368",
+        "channel": "SportTV 4",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159101?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2113300",
-        "channel": "SPORT TV 4 HD",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118817?checkedby:iptvcat.com",
+        "id": "2134510",
+        "channel": "SportTV 5",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159107?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2113534",
-        "channel": "SPORT TV 5 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123999?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2113528",
-        "channel": "SPORT TV 1 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123995?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2113532",
-        "channel": "SPORT TV 2 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123996?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2113526",
-        "channel": "Sport TV+",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123994?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "sd",
-        "mbps": "1479",
+        "mbps": "2334",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2113524",
-        "channel": "Sport TV5",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123993?checkedby:iptvcat.com",
+        "id": "2134644",
+        "channel": "SportTV NBA",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159113?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132669",
+        "channel": "SportTV+ FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159084?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -98,13 +196,13 @@
         ]
     },
     {
-        "id": "2113292",
+        "id": "2132022",
         "channel": "Sporting TV",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118812?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66342?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -112,97 +210,195 @@
         ]
     },
     {
-        "id": "2113528",
-        "channel": "SPORT TV 1 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123995?checkedby:iptvcat.com",
+        "id": "2132095",
+        "channel": "Eleven Sports 5 HD VIP",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66359?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2113532",
-        "channel": "SPORT TV 2 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123996?checkedby:iptvcat.com",
+        "id": "2132114",
+        "channel": "Eleven Sports 6 HD VIP",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66362?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2113533",
+        "id": "2131863",
+        "channel": "Kombat Sport",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66309?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "1600",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131811",
         "channel": "SPORT TV 4 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123998?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66276?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131814",
+        "channel": "SPORT TV NBA",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66283?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131813",
+        "channel": "Sport TV 1 FHD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66282?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131812",
+        "channel": "Sport TV 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66281?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2131810",
+        "channel": "Sport TV 4",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66275?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132046",
+        "channel": "Sport TV 5",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66343?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133519",
+        "channel": "SportTV 1 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159090?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134368",
+        "channel": "SportTV 4",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159101?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2113300",
-        "channel": "SPORT TV 4 HD",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118817?checkedby:iptvcat.com",
+        "id": "2134510",
+        "channel": "SportTV 5",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159107?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2113534",
-        "channel": "SPORT TV 5 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123999?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2113526",
-        "channel": "Sport TV+",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123994?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "sd",
-        "mbps": "1479",
+        "mbps": "2334",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2113524",
-        "channel": "Sport TV5",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123993?checkedby:iptvcat.com",
+        "id": "2134644",
+        "channel": "SportTV NBA",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159113?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132669",
+        "channel": "SportTV+ FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/159084?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -210,13 +406,13 @@
         ]
     },
     {
-        "id": "2113292",
+        "id": "2132022",
         "channel": "Sporting TV",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118812?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/66342?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [

@@ -1,112 +1,168 @@
 [
     {
-        "id": "2113332",
-        "channel": "Telekom Sport 2 HD",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118838?checkedby:iptvcat.com",
+        "id": "2134384",
+        "channel": "Digi Sport 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/70943?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2113318",
-        "channel": "DIGI SPORTS 1",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118831?checkedby:iptvcat.com",
+        "id": "2134389",
+        "channel": "Digi Sport 3 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/70945?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113369",
-        "channel": "Digi Sport 1",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/125008?checkedby:iptvcat.com",
+        "id": "2134488",
+        "channel": "Look Sport HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71111?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113326",
-        "channel": "LOOK SPORT",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118835?checkedby:iptvcat.com",
+        "id": "2134469",
+        "channel": "Telekom Sport 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71050?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2134471",
+        "channel": "Telekom Sport 3 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71052?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2134472",
+        "channel": "Telekom Sport 4 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71053?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3179",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2134384",
+        "channel": "Digi Sport 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/70943?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113318",
-        "channel": "DIGI SPORTS 1",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118831?checkedby:iptvcat.com",
+        "id": "2134389",
+        "channel": "Digi Sport 3 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/70945?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2134488",
+        "channel": "Look Sport HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71111?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113369",
-        "channel": "Digi Sport 1",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/125008?checkedby:iptvcat.com",
+        "id": "2134469",
+        "channel": "Telekom Sport 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71050?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113326",
-        "channel": "LOOK SPORT",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118835?checkedby:iptvcat.com",
+        "id": "2134471",
+        "channel": "Telekom Sport 3 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71052?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113332",
-        "channel": "Telekom Sport 2 HD",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118838?checkedby:iptvcat.com",
+        "id": "2134472",
+        "channel": "Telekom Sport 4 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71053?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3179",
         "URI": [
             "sport"
         ]

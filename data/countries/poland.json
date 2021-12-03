@@ -1,12 +1,12 @@
 [
     {
-        "id": "2113629",
-        "channel": "Polsat Sport HD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124704?checkedby:iptvcat.com",
+        "id": "2133326",
+        "channel": "Canal+  Sport 4",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73766?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -14,13 +14,657 @@
         ]
     },
     {
-        "id": "2113629",
-        "channel": "Polsat Sport HD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124704?checkedby:iptvcat.com",
+        "id": "2134328",
+        "channel": "ELEVEN SPORTS 1 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32563?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134322",
+        "channel": "ELEVEN SPORTS 2 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32562?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134337",
+        "channel": "ELEVEN SPORTS 3 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32564?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134620",
+        "channel": "ELEVEN SPORTS 4 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/39670?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134313",
+        "channel": "EUROSPORT 1 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32560?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134310",
+        "channel": "EUROSPORT 2 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32559?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134306",
+        "channel": "EXTREME SPORTS FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32558?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133759",
+        "channel": "Eleven Sports 1 4K Ultra",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/8613?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "4k uhd",
+        "mbps": "88056",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132430",
+        "channel": "Extreme Sports",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73685?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134655",
+        "channel": "GOLF CHANNEL FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/43694?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133443",
+        "channel": "Golf Channel",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73779?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133455",
+        "channel": "Golf Channel HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73780?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134803",
+        "channel": "POLSAT SPORT FIGHT FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/43715?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134635",
+        "channel": "POLSAT SPORT NEWS FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/43688?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132955",
+        "channel": "Polsat Sport Premium 1",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73721?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132967",
+        "channel": "Polsat Sport Premium 2",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73722?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133782",
+        "channel": "SPORTKLUB FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32438?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133925",
+        "channel": "TVP SPORT FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32466?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133252",
+        "channel": "TVP Sport HD+",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73748?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132754",
+        "channel": "nSport",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73708?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133879",
+        "channel": "nSport+ FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32457?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134618",
+        "channel": "CANAL+ SPORT 1 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/33055?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134406",
+        "channel": "CANAL+ SPORT 2 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32580?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134618",
+        "channel": "CANAL+ SPORT 1 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/33055?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134406",
+        "channel": "CANAL+ SPORT 2 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32580?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133326",
+        "channel": "Canal+  Sport 4",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73766?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134328",
+        "channel": "ELEVEN SPORTS 1 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32563?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134322",
+        "channel": "ELEVEN SPORTS 2 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32562?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134337",
+        "channel": "ELEVEN SPORTS 3 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32564?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134620",
+        "channel": "ELEVEN SPORTS 4 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/39670?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134313",
+        "channel": "EUROSPORT 1 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32560?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134310",
+        "channel": "EUROSPORT 2 FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32559?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134306",
+        "channel": "EXTREME SPORTS FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32558?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133759",
+        "channel": "Eleven Sports 1 4K Ultra",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/8613?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "4k uhd",
+        "mbps": "88056",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132430",
+        "channel": "Extreme Sports",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73685?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134655",
+        "channel": "GOLF CHANNEL FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/43694?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133443",
+        "channel": "Golf Channel",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73779?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133455",
+        "channel": "Golf Channel HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73780?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134803",
+        "channel": "POLSAT SPORT FIGHT FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/43715?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2134635",
+        "channel": "POLSAT SPORT NEWS FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/43688?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132955",
+        "channel": "Polsat Sport Premium 1",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73721?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132967",
+        "channel": "Polsat Sport Premium 2",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73722?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133782",
+        "channel": "SPORTKLUB FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32438?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133925",
+        "channel": "TVP SPORT FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32466?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133252",
+        "channel": "TVP Sport HD+",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73748?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2132754",
+        "channel": "nSport",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/73708?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2133879",
+        "channel": "nSport+ FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/32457?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [

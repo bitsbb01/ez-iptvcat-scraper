@@ -1,40 +1,12 @@
 [
     {
-        "id": "2113377",
-        "channel": "Ziggo Sport FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124391?checkedby:iptvcat.com",
+        "id": "2134334",
+        "channel": "Ziggo Sport Golf",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71392?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113262",
-        "channel": "Ziggo Sport Select HD",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118797?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113372",
-        "channel": "Ziggo Sport Voetbal",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124387?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -42,13 +14,13 @@
         ]
     },
     {
-        "id": "2113370",
-        "channel": "Ziggo sport Select FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124384?checkedby:iptvcat.com",
+        "id": "2134300",
+        "channel": "Ziggo Sport Racing",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71376?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -56,125 +28,139 @@
         ]
     },
     {
-        "id": "2113330",
-        "channel": "FOX Sports 1 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124369?checkedby:iptvcat.com",
+        "id": "2134640",
+        "channel": "ESPN 3 HD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/1796?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113342",
-        "channel": "FOX Sports 2 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124373?checkedby:iptvcat.com",
+        "id": "2134268",
+        "channel": "FOX SPORTS 1 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71215?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113360",
-        "channel": "FOX Sports 5 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124379?checkedby:iptvcat.com",
+        "id": "2134276",
+        "channel": "FOX SPORTS 3 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71221?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2134290",
+        "channel": "FOX SPORTS 4 Eredivisie",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71223?checkedby:iptvcat.com",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2134283",
+        "channel": "FOX SPORTS 4 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71224?checkedby:iptvcat.com",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2134293",
+        "channel": "FOX SPORTS 5 HD",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71229?checkedby:iptvcat.com",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
+        "format": "sd",
+        "mbps": "5631",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2134340",
+        "channel": "Sport 1 Extra",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71345?checkedby:iptvcat.com",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113338",
-        "channel": "Fox Sport HD1",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124370?checkedby:iptvcat.com",
+        "id": "2134508",
+        "channel": "ZIGGO SPORT GOLF FHD",
+        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/1450?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113340",
-        "channel": "Fox Sport HD1",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124371?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113330",
-        "channel": "FOX Sports 1 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124369?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113342",
-        "channel": "FOX Sports 2 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124373?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113360",
-        "channel": "FOX Sports 5 FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124379?checkedby:iptvcat.com",
+        "id": "2134323",
+        "channel": "ZIGGO Sports",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71389?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113338",
-        "channel": "Fox Sport HD1",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124370?checkedby:iptvcat.com",
+        "id": "2134334",
+        "channel": "Ziggo Sport Golf",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71392?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -182,69 +168,13 @@
         ]
     },
     {
-        "id": "2113340",
-        "channel": "Fox Sport HD1",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124371?checkedby:iptvcat.com",
+        "id": "2134300",
+        "channel": "Ziggo Sport Racing",
+        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/71376?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113377",
-        "channel": "Ziggo Sport FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124391?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113262",
-        "channel": "Ziggo Sport Select HD",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118797?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113372",
-        "channel": "Ziggo Sport Voetbal",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124387?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113370",
-        "channel": "Ziggo sport Select FHD",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/124384?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-03T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
