@@ -1,1597 +1,769 @@
 [
     {
-        "id": "2132856",
-        "channel": "Free Sports",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94918?checkedby:iptvcat.com",
+        "id": "2147115",
+        "channel": "VH1 Classic",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/2117?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
-            "sport"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2134095",
-        "channel": "Free Sports HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158270?checkedby:iptvcat.com",
+        "id": "2146948",
+        "channel": "E4",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/715?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147047",
+        "channel": "Gold",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/687?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2146863",
+        "channel": "Good Food",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/3595?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147058",
+        "channel": "History Channel UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/685?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3799",
         "URI": [
-            "sport"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2133746",
-        "channel": "FreeSports FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/81767?checkedby:iptvcat.com",
+        "id": "2147093",
+        "channel": "Home",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/673?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134103",
-        "channel": "Premier Sports 1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158271?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134191",
-        "channel": "Premier Sports 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158273?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133768",
-        "channel": "STAR SPORTS 1 HINDI HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/82039?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133383",
-        "channel": "Sky Sport Arena HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94997?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133397",
-        "channel": "Sky Sport F1 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95001?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133415",
-        "channel": "Sky Sport Main Events",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95005?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133429",
-        "channel": "Sky Sport News",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95007?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133435",
-        "channel": "Sky Sport Premier League HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95009?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133863",
-        "channel": "Sky Sports Arena FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158245?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133871",
-        "channel": "Sky Sports Arena HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158246?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133962",
-        "channel": "BT Sport 1 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158259?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133969",
-        "channel": "BT Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158261?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133693",
-        "channel": "BT Sport 2 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95053?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133977",
-        "channel": "BT Sport 2 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158262?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133983",
-        "channel": "BT Sport 3 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158264?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133699",
-        "channel": "BT Sport 3 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95055?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2133994",
-        "channel": "BT Sport 3 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158265?checkedby:iptvcat.com",
+        "id": "2147064",
+        "channel": "ITV 1 HD",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/682?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134651",
-        "channel": "BT Sport Box Office HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158302?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134002",
-        "channel": "BT Sport ESPN FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158267?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132456",
-        "channel": "BT Sport ESPN HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94865?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134008",
-        "channel": "BT Sport ESPN HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158268?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132484",
-        "channel": "BT Sport Extra 3",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94869?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134509",
-        "channel": "BT Sport Extra 3",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158288?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134639",
-        "channel": "BT Sport Extra 6",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158291?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133688",
-        "channel": "Bt Sport 1 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95052?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132784",
-        "channel": "Eir Sport 1 HD+",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94905?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134296",
-        "channel": "Eurosport 1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158277?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133711",
-        "channel": "Eurosport 1 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/31376?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134298",
-        "channel": "Eurosport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158278?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133719",
-        "channel": "Eurosport 2 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/42892?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133956",
-        "channel": "BT Sport 1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158258?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133900",
-        "channel": "Sky Sports Cricket FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158251?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133912",
-        "channel": "Sky Sports Cricket HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158252?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133919",
-        "channel": "Sky Sports F1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158253?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133927",
-        "channel": "Sky Sports F1 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158254?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133820",
-        "channel": "Sky Sports Football FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158239?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133730",
-        "channel": "Sky Sports Football FHD ( VIP UK )",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/42907?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133825",
-        "channel": "Sky Sports Football HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158240?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133883",
-        "channel": "Sky Sports Golf FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158249?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133891",
-        "channel": "Sky Sports Golf HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158250?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133797",
-        "channel": "Sky Sports Main Event FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158237?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133808",
-        "channel": "Sky Sports Main Event HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158238?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133842",
-        "channel": "Sky Sports Mix FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158243?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133850",
-        "channel": "Sky Sports Mix HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158244?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134656",
-        "channel": "Sky Sports NFL FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/199243?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133876",
-        "channel": "Sky Sports NFL/ACTION HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158248?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133776",
-        "channel": "Sky Sports News FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158235?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133784",
-        "channel": "Sky Sports News HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158236?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133832",
-        "channel": "Sky Sports Premier League FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158241?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133838",
-        "channel": "Sky Sports Premier League HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158242?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134659",
-        "channel": "Sky Sports Premier League HQ",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/199457?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133945",
-        "channel": "Sky Sports Racing FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158255?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133950",
-        "channel": "Sky Sports Racing HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158256?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134664",
-        "channel": "Sporty Stuff FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/214500?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133956",
-        "channel": "BT Sport 1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158258?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133962",
-        "channel": "BT Sport 1 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158259?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133969",
-        "channel": "BT Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158261?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133693",
-        "channel": "BT Sport 2 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95053?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133977",
-        "channel": "BT Sport 2 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158262?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133983",
-        "channel": "BT Sport 3 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158264?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133699",
-        "channel": "BT Sport 3 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95055?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2133994",
-        "channel": "BT Sport 3 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158265?checkedby:iptvcat.com",
+        "id": "2147070",
+        "channel": "ITV 2 HD",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/681?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2134651",
-        "channel": "BT Sport Box Office HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158302?checkedby:iptvcat.com",
+        "id": "2147075",
+        "channel": "ITV 3 HD",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/680?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2134002",
-        "channel": "BT Sport ESPN FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158267?checkedby:iptvcat.com",
+        "id": "2147078",
+        "channel": "ITV 4 HD",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/679?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2132456",
-        "channel": "BT Sport ESPN HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94865?checkedby:iptvcat.com",
+        "id": "2147083",
+        "channel": "Liverpool",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/676?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134008",
-        "channel": "BT Sport ESPN HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158268?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132484",
-        "channel": "BT Sport Extra 3",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94869?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2134509",
-        "channel": "BT Sport Extra 3",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158288?checkedby:iptvcat.com",
+        "id": "2147110",
+        "channel": "MTV Base",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/2119?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2134639",
-        "channel": "BT Sport Extra 6",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158291?checkedby:iptvcat.com",
+        "id": "2147178",
+        "channel": "Food Network uk",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/688?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2146927",
+        "channel": "Fox_UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/3592?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2146870",
+        "channel": "Drama UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/3598?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "united_kingdom"
         ]
     },
     {
-        "id": "2133688",
-        "channel": "Bt Sport 1 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95052?checkedby:iptvcat.com",
+        "id": "2146948",
+        "channel": "E4",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/715?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147178",
+        "channel": "Food Network uk",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/688?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
+            "united_kingdom_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2146927",
+        "channel": "Fox_UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/3592?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "united_kingdom_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2147047",
+        "channel": "Gold",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/687?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2146863",
+        "channel": "Good Food",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/3595?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147058",
+        "channel": "History Channel UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/685?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147093",
+        "channel": "Home",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/673?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147064",
+        "channel": "ITV 1 HD",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/682?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147070",
+        "channel": "ITV 2 HD",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/681?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147075",
+        "channel": "ITV 3 HD",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/680?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147078",
+        "channel": "ITV 4 HD",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/679?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147083",
+        "channel": "Liverpool",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/676?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147110",
+        "channel": "MTV Base",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/2119?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147106",
+        "channel": "MTV Dance",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/2120?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147105",
+        "channel": "MTV Hits",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/2118?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1519",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147042",
+        "channel": "MTV Rock",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/2121?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147096",
+        "channel": "MTV_Music UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/672?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147090",
+        "channel": "More4",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/674?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147182",
+        "channel": "Nat Geo Channel",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/669?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147187",
+        "channel": "National Geography Wild",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/667?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147269",
+        "channel": "Sky Sports Golf",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/4?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "united_kingdom",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2132784",
-        "channel": "Eir Sport 1 HD+",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94905?checkedby:iptvcat.com",
+        "id": "2147276",
+        "channel": "Sky Sports Main Event",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/1?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "united_kingdom",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2147262",
+        "channel": "Sky Sports News",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/6?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2147265",
+        "channel": "Sky Sports Premier league",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/5?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "united_kingdom",
+            "sport"
+        ]
+    },
+    {
+        "id": "2147220",
+        "channel": "Sky Thriller",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/141?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147279",
+        "channel": "SkyNews",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/654?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "565",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147088",
+        "channel": "Sky_Living UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/675?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2146914",
+        "channel": "Sky_Two",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/3590?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147282",
+        "channel": "SyFy UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/651?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147115",
+        "channel": "VH1 Classic",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/2117?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2146870",
+        "channel": "Drama UK",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/3598?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "united_kingdom"
+        ]
+    },
+    {
+        "id": "2147269",
+        "channel": "Sky Sports Golf",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/4?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "united_kingdom",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134296",
-        "channel": "Eurosport 1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158277?checkedby:iptvcat.com",
+        "id": "2147276",
+        "channel": "Sky Sports Main Event",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/1?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
+            "united_kingdom",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133711",
-        "channel": "Eurosport 1 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/31376?checkedby:iptvcat.com",
+        "id": "2147262",
+        "channel": "Sky Sports News",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/6?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
+            "united_kingdom",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134298",
-        "channel": "Eurosport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158278?checkedby:iptvcat.com",
+        "id": "2147265",
+        "channel": "Sky Sports Premier league",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/5?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
+            "united_kingdom",
+            "sport"
+        ]
+    },
+    {
+        "id": "2147269",
+        "channel": "Sky Sports Golf",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/4?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "united_kingdom",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133719",
-        "channel": "Eurosport 2 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/42892?checkedby:iptvcat.com",
+        "id": "2147276",
+        "channel": "Sky Sports Main Event",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/1?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2021-12-05T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
+            "united_kingdom",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2132856",
-        "channel": "Free Sports",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94918?checkedby:iptvcat.com",
+        "id": "2147262",
+        "channel": "Sky Sports News",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/6?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport"
+            "united_kingdom",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134095",
-        "channel": "Free Sports HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158270?checkedby:iptvcat.com",
+        "id": "2147265",
+        "channel": "Sky Sports Premier league",
+        "link": "http://iptv.ndasat.com:88/930874714182491/930874714182491/5?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-05T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133746",
-        "channel": "FreeSports FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/81767?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134103",
-        "channel": "Premier Sports 1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158271?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134191",
-        "channel": "Premier Sports 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158273?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133768",
-        "channel": "STAR SPORTS 1 HINDI HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/82039?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133383",
-        "channel": "Sky Sport Arena HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/94997?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133397",
-        "channel": "Sky Sport F1 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95001?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133415",
-        "channel": "Sky Sport Main Events",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95005?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133429",
-        "channel": "Sky Sport News",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95007?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133435",
-        "channel": "Sky Sport Premier League HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/95009?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133863",
-        "channel": "Sky Sports Arena FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158245?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133871",
-        "channel": "Sky Sports Arena HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158246?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133900",
-        "channel": "Sky Sports Cricket FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158251?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133912",
-        "channel": "Sky Sports Cricket HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158252?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133919",
-        "channel": "Sky Sports F1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158253?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133927",
-        "channel": "Sky Sports F1 HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158254?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133820",
-        "channel": "Sky Sports Football FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158239?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133730",
-        "channel": "Sky Sports Football FHD ( VIP UK )",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/42907?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133825",
-        "channel": "Sky Sports Football HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158240?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133883",
-        "channel": "Sky Sports Golf FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158249?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133891",
-        "channel": "Sky Sports Golf HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158250?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133797",
-        "channel": "Sky Sports Main Event FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158237?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133808",
-        "channel": "Sky Sports Main Event HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158238?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133842",
-        "channel": "Sky Sports Mix FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158243?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133850",
-        "channel": "Sky Sports Mix HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158244?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134656",
-        "channel": "Sky Sports NFL FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/199243?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133876",
-        "channel": "Sky Sports NFL/ACTION HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158248?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133776",
-        "channel": "Sky Sports News FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158235?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133784",
-        "channel": "Sky Sports News HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158236?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133832",
-        "channel": "Sky Sports Premier League FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158241?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133838",
-        "channel": "Sky Sports Premier League HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158242?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134659",
-        "channel": "Sky Sports Premier League HQ",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/199457?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133945",
-        "channel": "Sky Sports Racing FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158255?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2133950",
-        "channel": "Sky Sports Racing HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158256?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2134664",
-        "channel": "Sporty Stuff FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/214500?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
+            "united_kingdom",
             "sport"
         ]
     }
