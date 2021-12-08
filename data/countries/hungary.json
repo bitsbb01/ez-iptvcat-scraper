@@ -1,16 +1,30 @@
 [
     {
-        "id": "2113254",
+        "id": "2148017",
         "channel": "Sport 1",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119273?checkedby:iptvcat.com",
+        "link": "http://trabzontv.xyz:8080/ersin57/57ersin/94583?checkedby:iptvcat.com",
         "country": "hungary",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-08T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2148017",
+        "channel": "Sport 1",
+        "link": "http://trabzontv.xyz:8080/ersin57/57ersin/94583?checkedby:iptvcat.com",
+        "country": "hungary",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-08T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     }
 ]
