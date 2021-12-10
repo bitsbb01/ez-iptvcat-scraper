@@ -1,410 +1,129 @@
 [
     {
-        "id": "2133227",
-        "channel": "Sport Klub 1 HD HR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125223?checkedby:iptvcat.com",
+        "id": "2154162",
+        "channel": "Tring Sport 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55270?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133187",
-        "channel": "Sport Klub 1 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125218?checkedby:iptvcat.com",
+        "id": "2154167",
+        "channel": "Tring Sport 3 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55272?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133236",
-        "channel": "Sport Klub 2 HD HR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125224?checkedby:iptvcat.com",
+        "id": "2154178",
+        "channel": "Tring Sport 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55273?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133195",
-        "channel": "Sport Klub 2 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125219?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133242",
-        "channel": "Sport Klub 3 HD HR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125225?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133204",
-        "channel": "Sport Klub 3 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125220?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133253",
-        "channel": "Sport Klub 4 HD HR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125226?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1367",
+        "mbps": "2334",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133211",
-        "channel": "Sport Klub 4 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125221?checkedby:iptvcat.com",
+        "id": "2154570",
+        "channel": "Kujtesa Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55336?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1367",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133218",
-        "channel": "Sport Klub 5 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125222?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133433",
-        "channel": "Super Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125258?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
+            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133439",
-        "channel": "Super Sport 3 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125259?checkedby:iptvcat.com",
+        "id": "2154034",
+        "channel": "RTSH Sports HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55241?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
+            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2132672",
+        "id": "2154583",
+        "channel": "Super Sport 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55339?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154594",
+        "channel": "Super Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55340?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154606",
         "channel": "Super Sport 3 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55341?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55341?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133451",
-        "channel": "Super Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125260?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133457",
-        "channel": "Super Sport 5 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125261?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133171",
-        "channel": "Super Sport 6 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/62378?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133302",
-        "channel": "Super Sport 7 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125232?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133391",
-        "channel": "Tring Sport 1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125249?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133179",
-        "channel": "Tring Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/62426?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133280",
-        "channel": "Tring Sport 3 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125230?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132040",
-        "channel": "Tring Sport 3 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55272?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133296",
-        "channel": "Tring Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125231?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133271",
-        "channel": "Tring Sport News",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125229?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133310",
-        "channel": "ARENA SPORT 1 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125240?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
             "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133362",
-        "channel": "ARENA SPORT 1 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125245?checkedby:iptvcat.com",
+        "id": "2154628",
+        "channel": "Super Sport 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55342?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133321",
-        "channel": "ARENA SPORT 2 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125241?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133370",
-        "channel": "ARENA SPORT 2 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125246?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133332",
-        "channel": "ARENA SPORT 3 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125242?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133374",
-        "channel": "ARENA SPORT 3 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125247?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133342",
-        "channel": "ARENA SPORT 4 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125243?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -413,28 +132,13 @@
         ]
     },
     {
-        "id": "2133385",
-        "channel": "ARENA SPORT 4 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125248?checkedby:iptvcat.com",
+        "id": "2154644",
+        "channel": "Super Sport 5 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55343?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133351",
-        "channel": "ARENA SPORT 5 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125244?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -443,58 +147,13 @@
         ]
     },
     {
-        "id": "2133410",
-        "channel": "K Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125253?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133423",
-        "channel": "K Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125255?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132655",
+        "id": "2154570",
         "channel": "Kujtesa Sport 2 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55336?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55336?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133399",
-        "channel": "RTSH SPORT FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125251?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -503,118 +162,28 @@
         ]
     },
     {
-        "id": "2131874",
+        "id": "2154034",
         "channel": "RTSH Sports HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55241?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55241?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133310",
-        "channel": "ARENA SPORT 1 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125240?checkedby:iptvcat.com",
+        "id": "2154583",
+        "channel": "Super Sport 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55339?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133362",
-        "channel": "ARENA SPORT 1 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125245?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133321",
-        "channel": "ARENA SPORT 2 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125241?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133370",
-        "channel": "ARENA SPORT 2 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125246?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133332",
-        "channel": "ARENA SPORT 3 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125242?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133374",
-        "channel": "ARENA SPORT 3 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125247?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133342",
-        "channel": "ARENA SPORT 4 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125243?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -623,292 +192,13 @@
         ]
     },
     {
-        "id": "2133385",
-        "channel": "ARENA SPORT 4 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125248?checkedby:iptvcat.com",
+        "id": "2154594",
+        "channel": "Super Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55340?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133351",
-        "channel": "ARENA SPORT 5 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125244?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133410",
-        "channel": "K Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125253?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133423",
-        "channel": "K Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125255?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132655",
-        "channel": "Kujtesa Sport 2 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55336?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133399",
-        "channel": "RTSH SPORT FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125251?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2131874",
-        "channel": "RTSH Sports HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55241?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133391",
-        "channel": "Tring Sport 1 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125249?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133179",
-        "channel": "Tring Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/62426?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133280",
-        "channel": "Tring Sport 3 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125230?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132040",
-        "channel": "Tring Sport 3 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55272?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133296",
-        "channel": "Tring Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125231?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133271",
-        "channel": "Tring Sport News",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125229?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133310",
-        "channel": "ARENA SPORT 1 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125240?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133362",
-        "channel": "ARENA SPORT 1 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125245?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133321",
-        "channel": "ARENA SPORT 2 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125241?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133370",
-        "channel": "ARENA SPORT 2 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125246?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133332",
-        "channel": "ARENA SPORT 3 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125242?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133374",
-        "channel": "ARENA SPORT 3 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125247?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133342",
-        "channel": "ARENA SPORT 4 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125243?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -917,432 +207,28 @@
         ]
     },
     {
-        "id": "2133385",
-        "channel": "ARENA SPORT 4 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125248?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133351",
-        "channel": "ARENA SPORT 5 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125244?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133410",
-        "channel": "K Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125253?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133423",
-        "channel": "K Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125255?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132655",
-        "channel": "Kujtesa Sport 2 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55336?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133399",
-        "channel": "RTSH SPORT FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125251?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2131874",
-        "channel": "RTSH Sports HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55241?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133227",
-        "channel": "Sport Klub 1 HD HR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125223?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133187",
-        "channel": "Sport Klub 1 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125218?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133236",
-        "channel": "Sport Klub 2 HD HR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125224?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133195",
-        "channel": "Sport Klub 2 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125219?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133242",
-        "channel": "Sport Klub 3 HD HR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125225?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133204",
-        "channel": "Sport Klub 3 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125220?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133253",
-        "channel": "Sport Klub 4 HD HR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125226?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1367",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133211",
-        "channel": "Sport Klub 4 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125221?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1367",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133218",
-        "channel": "Sport Klub 5 HD SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125222?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133433",
-        "channel": "Super Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125258?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133439",
-        "channel": "Super Sport 3 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125259?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132672",
+        "id": "2154606",
         "channel": "Super Sport 3 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55341?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55341?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133451",
-        "channel": "Super Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125260?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133457",
-        "channel": "Super Sport 5 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125261?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133171",
-        "channel": "Super Sport 6 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/62378?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133302",
-        "channel": "Super Sport 7 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125232?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133310",
-        "channel": "ARENA SPORT 1 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125240?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
             "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133362",
-        "channel": "ARENA SPORT 1 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125245?checkedby:iptvcat.com",
+        "id": "2154628",
+        "channel": "Super Sport 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55342?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133321",
-        "channel": "ARENA SPORT 2 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125241?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133370",
-        "channel": "ARENA SPORT 2 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125246?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133332",
-        "channel": "ARENA SPORT 3 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125242?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133374",
-        "channel": "ARENA SPORT 3 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125247?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133342",
-        "channel": "ARENA SPORT 4 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125243?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1351,28 +237,13 @@
         ]
     },
     {
-        "id": "2133385",
-        "channel": "ARENA SPORT 4 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125248?checkedby:iptvcat.com",
+        "id": "2154644",
+        "channel": "Super Sport 5 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55343?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133351",
-        "channel": "ARENA SPORT 5 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125244?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1381,28 +252,13 @@
         ]
     },
     {
-        "id": "2133410",
-        "channel": "K Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125253?checkedby:iptvcat.com",
+        "id": "2154570",
+        "channel": "Kujtesa Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55336?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133423",
-        "channel": "K Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125255?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1411,28 +267,145 @@
         ]
     },
     {
-        "id": "2132655",
-        "channel": "Kujtesa Sport 2 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55336?checkedby:iptvcat.com",
+        "id": "2154034",
+        "channel": "RTSH Sports HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55241?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154583",
+        "channel": "Super Sport 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55339?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154594",
+        "channel": "Super Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55340?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154606",
+        "channel": "Super Sport 3 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55341?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154628",
+        "channel": "Super Sport 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55342?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154644",
+        "channel": "Super Sport 5 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55343?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154162",
+        "channel": "Tring Sport 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55270?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154167",
+        "channel": "Tring Sport 3 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55272?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154178",
+        "channel": "Tring Sport 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55273?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133399",
-        "channel": "RTSH SPORT FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125251?checkedby:iptvcat.com",
+        "id": "2154570",
+        "channel": "Kujtesa Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55336?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1441,118 +414,28 @@
         ]
     },
     {
-        "id": "2131874",
+        "id": "2154034",
         "channel": "RTSH Sports HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55241?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55241?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
         "URI": [
             "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133310",
-        "channel": "ARENA SPORT 1 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125240?checkedby:iptvcat.com",
+        "id": "2154583",
+        "channel": "Super Sport 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55339?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133362",
-        "channel": "ARENA SPORT 1 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125245?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133321",
-        "channel": "ARENA SPORT 2 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125241?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133370",
-        "channel": "ARENA SPORT 2 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125246?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133332",
-        "channel": "ARENA SPORT 3 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125242?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133374",
-        "channel": "ARENA SPORT 3 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125247?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133342",
-        "channel": "ARENA SPORT 4 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125243?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1561,28 +444,58 @@
         ]
     },
     {
-        "id": "2133385",
-        "channel": "ARENA SPORT 4 SR HD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125248?checkedby:iptvcat.com",
+        "id": "2154594",
+        "channel": "Super Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55340?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
         "URI": [
             "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2133351",
-        "channel": "ARENA SPORT 5 SR",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125244?checkedby:iptvcat.com",
+        "id": "2154606",
+        "channel": "Super Sport 3 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55341?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154628",
+        "channel": "Super Sport 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55342?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154644",
+        "channel": "Super Sport 5 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55343?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -1591,58 +504,13 @@
         ]
     },
     {
-        "id": "2133410",
-        "channel": "K Sport 2 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125253?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133423",
-        "channel": "K Sport 4 FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125255?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132655",
+        "id": "2154570",
         "channel": "Kujtesa Sport 2 HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55336?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55336?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2133399",
-        "channel": "RTSH SPORT FHD",
-        "link": "http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/125251?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1651,15 +519,90 @@
         ]
     },
     {
-        "id": "2131874",
+        "id": "2154034",
         "channel": "RTSH Sports HD",
-        "link": "http://iptvvi.com:80/Kratz/XhcpDpXsndad/55241?checkedby:iptvcat.com",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55241?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "5020",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154583",
+        "channel": "Super Sport 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55339?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154594",
+        "channel": "Super Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55340?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154606",
+        "channel": "Super Sport 3 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55341?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154628",
+        "channel": "Super Sport 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55342?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2154644",
+        "channel": "Super Sport 5 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/55343?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"

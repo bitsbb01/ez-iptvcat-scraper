@@ -1,12 +1,12 @@
 [
     {
-        "id": "2113610",
-        "channel": "TRT SPORT 2",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/125936?checkedby:iptvcat.com",
+        "id": "2157761",
+        "channel": "Sports - 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1684?checkedby:iptvcat.com",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -14,27 +14,13 @@
         ]
     },
     {
-        "id": "2113603",
-        "channel": "Tivibu Sport 2",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/125927?checkedby:iptvcat.com",
+        "id": "2157763",
+        "channel": "Sports - 2 HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/4?checkedby:iptvcat.com",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113610",
-        "channel": "TRT SPORT 2",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/125936?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -42,15 +28,477 @@
         ]
     },
     {
-        "id": "2113603",
-        "channel": "Tivibu Sport 2",
-        "link": "http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/125927?checkedby:iptvcat.com",
+        "id": "2157765",
+        "channel": "Sports - 3 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1803?checkedby:iptvcat.com",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157767",
+        "channel": "Sports - 3 HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/5?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157769",
+        "channel": "Sports - 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1804?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157771",
+        "channel": "Sports - 4 HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1398?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157757",
+        "channel": "Sports 1",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/2?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157759",
+        "channel": "Sports 1 HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/5104?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157779",
+        "channel": "Sports All Backups HD++",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/8?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157777",
+        "channel": "Sports Haber",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/11456?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157773",
+        "channel": "Sports Max 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/4196?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157775",
+        "channel": "Sports Max 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/4197?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157821",
+        "channel": "Sports Tv HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1918?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157787",
+        "channel": "NBA TV HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/6693?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157781",
+        "channel": "Premium+ Sports",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/112795?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157803",
+        "channel": "S Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/23720?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157799",
+        "channel": "S Sport HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1829?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157801",
+        "channel": "S Sport Plus HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/114981?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157787",
+        "channel": "NBA TV HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/6693?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157781",
+        "channel": "Premium+ Sports",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/112795?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157803",
+        "channel": "S Sport 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/23720?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157799",
+        "channel": "S Sport HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1829?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157801",
+        "channel": "S Sport Plus HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/114981?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157761",
+        "channel": "Sports - 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1684?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157763",
+        "channel": "Sports - 2 HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/4?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157765",
+        "channel": "Sports - 3 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1803?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157767",
+        "channel": "Sports - 3 HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/5?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157769",
+        "channel": "Sports - 4 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1804?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157771",
+        "channel": "Sports - 4 HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1398?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157757",
+        "channel": "Sports 1",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/2?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157759",
+        "channel": "Sports 1 HD+",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/5104?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157779",
+        "channel": "Sports All Backups HD++",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/8?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157777",
+        "channel": "Sports Haber",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/11456?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157773",
+        "channel": "Sports Max 1 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/4196?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157775",
+        "channel": "Sports Max 2 HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/4197?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2157821",
+        "channel": "Sports Tv HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/1918?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]

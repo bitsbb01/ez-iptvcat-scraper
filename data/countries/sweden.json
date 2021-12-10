@@ -1,26 +1,12 @@
 [
     {
-        "id": "2113651",
-        "channel": "C More Sport",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118915?checkedby:iptvcat.com",
+        "id": "2156625",
+        "channel": "C More Golf FHD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/78256?checkedby:iptvcat.com",
         "country": "sweden",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113645",
-        "channel": "Viasat Golf",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118912?checkedby:iptvcat.com",
-        "country": "sweden",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -28,29 +14,57 @@
         ]
     },
     {
-        "id": "2113651",
-        "channel": "C More Sport",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118915?checkedby:iptvcat.com",
+        "id": "2156691",
+        "channel": "SPORTKANALEN HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/78267?checkedby:iptvcat.com",
         "country": "sweden",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "2113645",
-        "channel": "Viasat Golf",
-        "link": "http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118912?checkedby:iptvcat.com",
+        "id": "2156733",
+        "channel": "Viasat Sport HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/78274?checkedby:iptvcat.com",
         "country": "sweden",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-28T00:00:00Z",
+        "lastChecked": "2021-12-10T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2156724",
+        "channel": "Viasat Sport Premium HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/78273?checkedby:iptvcat.com",
+        "country": "sweden",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2156581",
+        "channel": "Viasat Sport Xtra HD",
+        "link": "http://iptvvi.com:80/Bektash/qNvXcDD98fPC/78247?checkedby:iptvcat.com",
+        "country": "sweden",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2021-12-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "sport"
         ]
