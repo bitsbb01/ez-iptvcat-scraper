@@ -6,11 +6,11 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -20,11 +20,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -34,25 +34,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "659",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -62,25 +48,25 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "508",
-        "channel": "TV Direct 13",
-        "link": "http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8?checkedby:iptvcat.com",
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "4318, ...",
         "URI": [
-            "south_america"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -90,9 +76,23 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "508",
+        "channel": "TV Direct 13",
+        "link": "http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2021-12-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "south_america"
         ]
@@ -104,7 +104,7 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -118,11 +118,11 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -132,11 +132,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -146,25 +146,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "659",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -174,11 +160,25 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -188,11 +188,11 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -202,11 +202,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -216,25 +216,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "659",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -244,11 +230,25 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -258,11 +258,11 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -272,11 +272,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -286,25 +286,11 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "659",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -314,11 +300,25 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-24T00:00:00Z",
+        "lastChecked": "2021-12-25T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]
