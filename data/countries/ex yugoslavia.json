@@ -1,674 +1,3502 @@
 [
     {
-        "id": "169737",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2262162",
+        "channel": "Arena Sport 4 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/303?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1052",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169734",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2262195",
+        "channel": "Arena Sport 4 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/293?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265381",
+        "channel": "Arena Sport 4 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1090.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262197",
+        "channel": "Arena Sport 4 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/295?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2127245",
+        "channel": "Arena Sport 5",
+        "link": "http://103.194.169.171:8282/SR:ARENA_SPORT_5/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265459",
+        "channel": "Arena Sport 5 (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2491?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265453",
+        "channel": "Arena Sport 5 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2486?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262164",
+        "channel": "Arena Sport 5 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/304?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2260357",
+        "channel": "Arena Sport 5 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/103?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262165",
+        "channel": "Arena Sport 5 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/305?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262198",
+        "channel": "Arena Sport 5 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/294?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265382",
+        "channel": "Arena Sport 5 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1091.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265454",
+        "channel": "Arena Sport 6 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2485?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2264740",
+        "channel": "Arena Sport 6 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/3598.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "sd",
         "mbps": "1367",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "132588",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com",
+        "id": "2262167",
+        "channel": "Arena Sport 6 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/306?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764, ...",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "132587",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com",
+        "id": "2262169",
+        "channel": "Arena Sport 7 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/59902?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764, ...",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169745",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2262171",
+        "channel": "Arena Sport 8 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/59903?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262175",
+        "channel": "Arena Sport 9 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/59904?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2261105",
+        "channel": "Dobra Sportska",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/113?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2250991",
+        "channel": "EX-YOU: SPORT KLUB 1 (SRB)",
+        "link": "http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109491?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "503",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvcat.com",
+        "id": "2262274",
+        "channel": "Nova Sport",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/65907?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265474",
+        "channel": "Planet Sport 1 HD",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/113166?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262651",
+        "channel": "SPORT KLUB 1 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1144.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262660",
+        "channel": "SPORT KLUB 1 SR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1150.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2074366",
+        "channel": "SPORT KLUB 1 SRB",
+        "link": "http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRyn25byE25CbYA85rzvvkZM?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262653",
+        "channel": "SPORT KLUB 2 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1145.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262664",
+        "channel": "SPORT KLUB 2 SR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1151.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262654",
+        "channel": "SPORT KLUB 3 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1146.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2074374",
+        "channel": "SPORT KLUB 3 HR",
+        "link": "http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR-9KdlRkbApi9OGJQruoQqE?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "52",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262655",
+        "channel": "SPORT KLUB 5 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1148.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262658",
+        "channel": "SPORT KLUB 6 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1149.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265462",
+        "channel": "Sport Klub 1 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2510?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169747",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2265468",
+        "channel": "Sport Klub 1 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2503?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "354",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169746",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2262201",
+        "channel": "Sport Klub 1 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/310?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "502",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "501",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "354",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "504",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "hd",
-        "mbps": "6241, ...",
+        "mbps": "3188",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169744",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2262204",
+        "channel": "Sport Klub 1 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/835?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262222",
+        "channel": "Sport Klub 1 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/56428?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "hd",
-        "mbps": "6241, ...",
+        "mbps": "3188",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169737",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2262223",
+        "channel": "Sport Klub 1 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/319?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2264835",
+        "channel": "Sport Klub 10 SD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/3623.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "sd",
-        "mbps": "1052",
+        "mbps": "1509",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169734",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2262246",
+        "channel": "Sport Klub 10 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49945?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265463",
+        "channel": "Sport Klub 2 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2509?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265469",
+        "channel": "Sport Klub 2 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2502?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262209",
+        "channel": "Sport Klub 2 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/311?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262212",
+        "channel": "Sport Klub 2 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/312?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2264837",
+        "channel": "Sport Klub 2 SLO",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/3625.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262224",
+        "channel": "Sport Klub 2 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/320?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262225",
+        "channel": "Sport Klub 2 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/321?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265464",
+        "channel": "Sport Klub 3 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2508?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265470",
+        "channel": "Sport Klub 3 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2501?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262213",
+        "channel": "Sport Klub 3 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/313?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262214",
+        "channel": "Sport Klub 3 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/314?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262226",
+        "channel": "Sport Klub 3 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/322?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262228",
+        "channel": "Sport Klub 3 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/323?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265465",
+        "channel": "Sport Klub 4 (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2507?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "sd",
         "mbps": "1367",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "132588",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com",
+        "id": "2265471",
+        "channel": "Sport Klub 4 (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2500?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764, ...",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "132587",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764, ...",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169745",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "503",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169747",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "354",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169746",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "502",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "501",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "354",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "504",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241, ...",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169744",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241, ...",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169737",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1052",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169734",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "sd",
         "mbps": "1367",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "132588",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com",
+        "id": "2262215",
+        "channel": "Sport Klub 4 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/315?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764, ...",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "132587",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764, ...",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169745",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "503",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169747",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "354",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169746",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "502",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "501",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "354",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "504",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241, ...",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169744",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241, ...",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169737",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1052",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "169734",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "sd",
         "mbps": "1367",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "132588",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com",
+        "id": "2262217",
+        "channel": "Sport Klub 4 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/316?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764, ...",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "132587",
-        "channel": "MAXtv Promo Kanal [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com",
+        "id": "2262230",
+        "channel": "Sport Klub 4 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/324?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1764, ...",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169745",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2262231",
+        "channel": "Sport Klub 4 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/325?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265466",
+        "channel": "Sport Klub 5 (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2506?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265472",
+        "channel": "Sport Klub 5 (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2499?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262218",
+        "channel": "Sport Klub 5 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/317?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "54",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262238",
+        "channel": "Sport Klub 5 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/326?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "46",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265467",
+        "channel": "Sport Klub 6 (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2505?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265473",
+        "channel": "Sport Klub 6 (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2498?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262219",
+        "channel": "Sport Klub 6 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/318?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262240",
+        "channel": "Sport Klub 6 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/327?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262242",
+        "channel": "Sport Klub 7 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49942?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262244",
+        "channel": "Sport Klub 8 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49943?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262245",
+        "channel": "Sport Klub 9 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49944?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262247",
+        "channel": "Sport Klub Golf",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/308?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265460",
+        "channel": "Sport Klub HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2511?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265461",
+        "channel": "Sport Klub HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2504?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262199",
+        "channel": "Sport Klub HD HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/309?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262220",
+        "channel": "Sport Klub HD SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/56429?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262250",
+        "channel": "Sport TV 1 HD :SL",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/328?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "503",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvcat.com",
+        "id": "2260183",
+        "channel": "Sport TV 1 Slovenia HD",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/787?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "hd",
         "mbps": "6241",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "169747",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2074160",
+        "channel": "ARENA SPORT 3 SRB",
+        "link": "http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRyRYcbglH8SprqWxGLQcmgM?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "354",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "169746",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2260334",
+        "channel": "ARENA SPORT 4 SR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/102?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "502",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com",
+        "id": "2074161",
+        "channel": "ARENA SPORT 4 SRB",
+        "link": "http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR--58ujVCTBO6VN9FogbCKc?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "501",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
-        "format": "sd",
-        "mbps": "354",
-        "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "504",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvcat.com",
-        "country": "ex yugoslavia",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "liveliness": "76",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "hd",
-        "mbps": "6241, ...",
+        "mbps": "3188",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
         ]
     },
     {
-        "id": "169744",
-        "channel": "RTL [NO KODI]",
-        "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvsat.com\u0026checkedby:iptvcat.com",
+        "id": "2260689",
+        "channel": "ARENA SPORT 5 SR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/3594?checkedby:iptvcat.com",
         "country": "ex yugoslavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-05T00:00:00Z",
+        "lastChecked": "2022-01-19T00:00:00Z",
         "format": "hd",
-        "mbps": "6241, ...",
+        "mbps": "5020",
         "URI": [
-            "ex_yugoslavia_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport"
+        ]
+    },
+    {
+        "id": "2127241",
+        "channel": "Arena Sport 1",
+        "link": "http://103.194.169.171:8282/SR:_Arena_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262141",
+        "channel": "Arena Sport 1 BH",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/286?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "4906",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265449",
+        "channel": "Arena Sport 1 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2490?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265455",
+        "channel": "Arena Sport 1 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2495?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262143",
+        "channel": "Arena Sport 1 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/296?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260127",
+        "channel": "Arena Sport 1 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/862?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262145",
+        "channel": "Arena Sport 1 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/297?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262123",
+        "channel": "Arena Sport 1 PREMIUM HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/68687?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262184",
+        "channel": "Arena Sport 1 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/287?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "4906",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265378",
+        "channel": "Arena Sport 1 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1087.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262186",
+        "channel": "Arena Sport 1 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/288?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "4906",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262176",
+        "channel": "Arena Sport 10 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/59905?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2127242",
+        "channel": "Arena Sport 2",
+        "link": "http://103.194.169.171:8282/SR:_Arena_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265450",
+        "channel": "Arena Sport 2 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2489?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265456",
+        "channel": "Arena Sport 2 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2494?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262149",
+        "channel": "Arena Sport 2 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/298?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260131",
+        "channel": "Arena Sport 2 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/863?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265376",
+        "channel": "Arena Sport 2 HR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1083.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262153",
+        "channel": "Arena Sport 2 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/299?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262127",
+        "channel": "Arena Sport 2 PREMIUM HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/68688?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262187",
+        "channel": "Arena Sport 2 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/289?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265379",
+        "channel": "Arena Sport 2 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1088.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262188",
+        "channel": "Arena Sport 2 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/290?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2127243",
+        "channel": "Arena Sport 3",
+        "link": "http://103.194.169.171:8282/SR:_Arena_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265451",
+        "channel": "Arena Sport 3 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2488?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265457",
+        "channel": "Arena Sport 3 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2493?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262156",
+        "channel": "Arena Sport 3 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/300?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260143",
+        "channel": "Arena Sport 3 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/864?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262158",
+        "channel": "Arena Sport 3 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/301?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262131",
+        "channel": "Arena Sport 3 PREMIUM HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/68689?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262192",
+        "channel": "Arena Sport 3 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/291?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265380",
+        "channel": "Arena Sport 3 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1089.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262194",
+        "channel": "Arena Sport 3 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/292?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2127244",
+        "channel": "Arena Sport 4",
+        "link": "http://103.194.169.171:8282/SR:_Arena_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265452",
+        "channel": "Arena Sport 4 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2487?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265458",
+        "channel": "Arena Sport 4 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2492?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262161",
+        "channel": "Arena Sport 4 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/302?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260313",
+        "channel": "Arena Sport 4 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/101?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262251",
+        "channel": "Sport TV 2 HD :SL",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/329?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2260188",
+        "channel": "Sport TV 2 Slovenia HD",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/788?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262253",
+        "channel": "Sport TV 3 HD :SL",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/330?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2260200",
+        "channel": "Sportska TV",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/353?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "39911",
+        "channel": "Матч! (Резерв2)",
+        "link": "http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1328",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "39401",
+        "channel": "НТВ+ Спорт",
+        "link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3066",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262121",
+        "channel": "▲▼ SPORT EXYU ▲▼▲▼▲▼",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49446?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2074160",
+        "channel": "ARENA SPORT 3 SRB",
+        "link": "http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRyRYcbglH8SprqWxGLQcmgM?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260334",
+        "channel": "ARENA SPORT 4 SR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/102?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2074161",
+        "channel": "ARENA SPORT 4 SRB",
+        "link": "http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR--58ujVCTBO6VN9FogbCKc?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "76",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260689",
+        "channel": "ARENA SPORT 5 SR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/3594?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2127241",
+        "channel": "Arena Sport 1",
+        "link": "http://103.194.169.171:8282/SR:_Arena_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262141",
+        "channel": "Arena Sport 1 BH",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/286?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "4906",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265449",
+        "channel": "Arena Sport 1 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2490?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265455",
+        "channel": "Arena Sport 1 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2495?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262143",
+        "channel": "Arena Sport 1 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/296?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260127",
+        "channel": "Arena Sport 1 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/862?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262145",
+        "channel": "Arena Sport 1 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/297?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262123",
+        "channel": "Arena Sport 1 PREMIUM HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/68687?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262184",
+        "channel": "Arena Sport 1 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/287?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "4906",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265378",
+        "channel": "Arena Sport 1 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1087.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262186",
+        "channel": "Arena Sport 1 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/288?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "4906",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262176",
+        "channel": "Arena Sport 10 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/59905?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2127242",
+        "channel": "Arena Sport 2",
+        "link": "http://103.194.169.171:8282/SR:_Arena_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265450",
+        "channel": "Arena Sport 2 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2489?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265456",
+        "channel": "Arena Sport 2 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2494?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262149",
+        "channel": "Arena Sport 2 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/298?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260131",
+        "channel": "Arena Sport 2 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/863?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265376",
+        "channel": "Arena Sport 2 HR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1083.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262153",
+        "channel": "Arena Sport 2 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/299?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262127",
+        "channel": "Arena Sport 2 PREMIUM HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/68688?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262187",
+        "channel": "Arena Sport 2 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/289?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265379",
+        "channel": "Arena Sport 2 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1088.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262188",
+        "channel": "Arena Sport 2 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/290?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2127243",
+        "channel": "Arena Sport 3",
+        "link": "http://103.194.169.171:8282/SR:_Arena_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265451",
+        "channel": "Arena Sport 3 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2488?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265457",
+        "channel": "Arena Sport 3 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2493?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262156",
+        "channel": "Arena Sport 3 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/300?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260143",
+        "channel": "Arena Sport 3 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/864?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262158",
+        "channel": "Arena Sport 3 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/301?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "71",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262131",
+        "channel": "Arena Sport 3 PREMIUM HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/68689?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262192",
+        "channel": "Arena Sport 3 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/291?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265380",
+        "channel": "Arena Sport 3 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1089.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262194",
+        "channel": "Arena Sport 3 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/292?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2127244",
+        "channel": "Arena Sport 4",
+        "link": "http://103.194.169.171:8282/SR:_Arena_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265452",
+        "channel": "Arena Sport 4 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2487?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2265458",
+        "channel": "Arena Sport 4 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2492?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262161",
+        "channel": "Arena Sport 4 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/302?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2260313",
+        "channel": "Arena Sport 4 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/101?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2262162",
+        "channel": "Arena Sport 4 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/303?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262195",
+        "channel": "Arena Sport 4 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/293?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265381",
+        "channel": "Arena Sport 4 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1090.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262197",
+        "channel": "Arena Sport 4 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/295?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2127245",
+        "channel": "Arena Sport 5",
+        "link": "http://103.194.169.171:8282/SR:ARENA_SPORT_5/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265459",
+        "channel": "Arena Sport 5 (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2491?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265453",
+        "channel": "Arena Sport 5 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2486?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262164",
+        "channel": "Arena Sport 5 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/304?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2260357",
+        "channel": "Arena Sport 5 HR (HD)",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/103?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262165",
+        "channel": "Arena Sport 5 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/305?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262198",
+        "channel": "Arena Sport 5 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/294?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265382",
+        "channel": "Arena Sport 5 SR FHD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1091.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265454",
+        "channel": "Arena Sport 6 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2485?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2264740",
+        "channel": "Arena Sport 6 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/3598.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262167",
+        "channel": "Arena Sport 6 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/306?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262169",
+        "channel": "Arena Sport 7 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/59902?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262171",
+        "channel": "Arena Sport 8 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/59903?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262175",
+        "channel": "Arena Sport 9 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/59904?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2261105",
+        "channel": "Dobra Sportska",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/113?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2250991",
+        "channel": "EX-YOU: SPORT KLUB 1 (SRB)",
+        "link": "http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/109491?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262274",
+        "channel": "Nova Sport",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/65907?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265474",
+        "channel": "Planet Sport 1 HD",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/113166?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262651",
+        "channel": "SPORT KLUB 1 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1144.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262660",
+        "channel": "SPORT KLUB 1 SR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1150.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2074366",
+        "channel": "SPORT KLUB 1 SRB",
+        "link": "http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRyn25byE25CbYA85rzvvkZM?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262653",
+        "channel": "SPORT KLUB 2 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1145.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262664",
+        "channel": "SPORT KLUB 2 SR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1151.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262654",
+        "channel": "SPORT KLUB 3 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1146.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2074374",
+        "channel": "SPORT KLUB 3 HR",
+        "link": "http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR-9KdlRkbApi9OGJQruoQqE?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "52",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262655",
+        "channel": "SPORT KLUB 5 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1148.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262658",
+        "channel": "SPORT KLUB 6 HR",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1149.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265462",
+        "channel": "Sport Klub 1 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2510?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265468",
+        "channel": "Sport Klub 1 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2503?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7986",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262201",
+        "channel": "Sport Klub 1 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/310?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262204",
+        "channel": "Sport Klub 1 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/835?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262222",
+        "channel": "Sport Klub 1 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/56428?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262223",
+        "channel": "Sport Klub 1 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/319?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2264835",
+        "channel": "Sport Klub 10 SD",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/3623.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262246",
+        "channel": "Sport Klub 10 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49945?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265463",
+        "channel": "Sport Klub 2 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2509?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265469",
+        "channel": "Sport Klub 2 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2502?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262209",
+        "channel": "Sport Klub 2 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/311?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262212",
+        "channel": "Sport Klub 2 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/312?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2264837",
+        "channel": "Sport Klub 2 SLO",
+        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/3625.ts?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "7",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262224",
+        "channel": "Sport Klub 2 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/320?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262225",
+        "channel": "Sport Klub 2 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/321?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265464",
+        "channel": "Sport Klub 3 HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2508?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265470",
+        "channel": "Sport Klub 3 HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2501?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262213",
+        "channel": "Sport Klub 3 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/313?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262214",
+        "channel": "Sport Klub 3 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/314?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262226",
+        "channel": "Sport Klub 3 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/322?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262228",
+        "channel": "Sport Klub 3 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/323?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265465",
+        "channel": "Sport Klub 4 (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2507?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265471",
+        "channel": "Sport Klub 4 (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2500?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262215",
+        "channel": "Sport Klub 4 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/315?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262217",
+        "channel": "Sport Klub 4 HR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/316?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262230",
+        "channel": "Sport Klub 4 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/324?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "60",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262231",
+        "channel": "Sport Klub 4 SR HD",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/325?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "67",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265466",
+        "channel": "Sport Klub 5 (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2506?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265472",
+        "channel": "Sport Klub 5 (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2499?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262218",
+        "channel": "Sport Klub 5 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/317?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "54",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262238",
+        "channel": "Sport Klub 5 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/326?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "46",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "2308",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265467",
+        "channel": "Sport Klub 6 (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2505?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265473",
+        "channel": "Sport Klub 6 (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2498?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262219",
+        "channel": "Sport Klub 6 HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/318?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262240",
+        "channel": "Sport Klub 6 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/327?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262242",
+        "channel": "Sport Klub 7 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49942?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262244",
+        "channel": "Sport Klub 8 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49943?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262245",
+        "channel": "Sport Klub 9 SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49944?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262247",
+        "channel": "Sport Klub Golf",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/308?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1367",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265460",
+        "channel": "Sport Klub HD (HR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2511?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265461",
+        "channel": "Sport Klub HD (SR)",
+        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/2504?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "8",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262199",
+        "channel": "Sport Klub HD HR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/309?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262220",
+        "channel": "Sport Klub HD SR",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/56429?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "64",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262250",
+        "channel": "Sport TV 1 HD :SL",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/328?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2260183",
+        "channel": "Sport TV 1 Slovenia HD",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/787?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262251",
+        "channel": "Sport TV 2 HD :SL",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/329?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2260188",
+        "channel": "Sport TV 2 Slovenia HD",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/788?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262253",
+        "channel": "Sport TV 3 HD :SL",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/330?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "62",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2260200",
+        "channel": "Sportska TV",
+        "link": "http://mtda.bluefish1.xyz:43666/albdream1/albdream2/353?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "39911",
+        "channel": "Матч! (Резерв2)",
+        "link": "http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1328",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "39401",
+        "channel": "НТВ+ Спорт",
+        "link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3066",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2262121",
+        "channel": "▲▼ SPORT EXYU ▲▼▲▼▲▼",
+        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/49446?checkedby:iptvcat.com",
+        "country": "ex yugoslavia",
+        "liveliness": "57",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     }
 ]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "14168",
+        "channel": "Turkmen Спорт, Türkmenistan Sport",
+        "link": "http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:iptvcat.com",
+        "country": "turkmenistan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "464",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2985",
+        "channel": "Türkmenistan Sport",
+        "link": "https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby:iptvcat.com",
+        "country": "turkmenistan",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1685",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2983",
+        "channel": "Türkmenistan Sport",
+        "link": "http://217.174.225.146/legacyhls/ch004_720/index.m3u8?checkedby:iptvcat.com",
+        "country": "turkmenistan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1685",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2984",
+        "channel": "Türkmenistan Sport",
+        "link": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:iptvcat.com",
+        "country": "turkmenistan",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1685",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2982",
+        "channel": "Türkmenistan Sport",
+        "link": "http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com",
+        "country": "turkmenistan",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "1685",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    }
+]

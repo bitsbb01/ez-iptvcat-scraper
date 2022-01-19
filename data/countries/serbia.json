@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2244741",
+        "channel": "SPORT KLUB 3 HD",
+        "link": "http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23615?checkedby:iptvcat.com",
+        "country": "serbia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2244747",
+        "channel": "SPORT KLUB 4",
+        "link": "http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23616?checkedby:iptvcat.com",
+        "country": "serbia",
+        "liveliness": "86",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    }
+]

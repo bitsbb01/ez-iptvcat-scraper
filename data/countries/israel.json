@@ -1,0 +1,86 @@
+[
+    {
+        "id": "2266249",
+        "channel": "YES SPORT 4 HD LO",
+        "link": "http://smartv.pro:80/Maher/12341234/113044?checkedby:iptvcat.com",
+        "country": "israel",
+        "liveliness": "13",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266209",
+        "channel": "YES.SPORT 5 LIVE LO",
+        "link": "http://smartv.pro:80/Maher/12341234/113039?checkedby:iptvcat.com",
+        "country": "israel",
+        "liveliness": "13",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266257",
+        "channel": "YES.SPORT ONE HD LO",
+        "link": "http://smartv.pro:80/Maher/12341234/113045?checkedby:iptvcat.com",
+        "country": "israel",
+        "liveliness": "13",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266249",
+        "channel": "YES SPORT 4 HD LO",
+        "link": "http://smartv.pro:80/Maher/12341234/113044?checkedby:iptvcat.com",
+        "country": "israel",
+        "liveliness": "13",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266209",
+        "channel": "YES.SPORT 5 LIVE LO",
+        "link": "http://smartv.pro:80/Maher/12341234/113039?checkedby:iptvcat.com",
+        "country": "israel",
+        "liveliness": "13",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266257",
+        "channel": "YES.SPORT ONE HD LO",
+        "link": "http://smartv.pro:80/Maher/12341234/113045?checkedby:iptvcat.com",
+        "country": "israel",
+        "liveliness": "13",
+        "status": "offline",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    }
+]

@@ -1,0 +1,534 @@
+[
+    {
+        "id": "3149",
+        "channel": "Abu Dhabi Sports, Abu Dhabi Sports 1, Abu Dhabi Sports 1 HD (Opt-1), Abu Dhabi Sports1",
+        "link": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "24790",
+        "channel": "Abu Dhabi Sports 1",
+        "link": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25764",
+        "channel": "Abu Dhabi Sports 2",
+        "link": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3158",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25765",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3159",
+        "channel": "Abu Dhabi Sports 4",
+        "link": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25772",
+        "channel": "Dubai Racing",
+        "link": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3175",
+        "channel": "Dubai Racing, SPORT : Dubai Racing, SPORT | Dubai Racing",
+        "link": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3178",
+        "channel": "Dubai Racing, 迪拜赛马俱乐部",
+        "link": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "3570",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25773",
+        "channel": "Dubai Racing 2",
+        "link": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "24793",
+        "channel": "Dubai Racing 2",
+        "link": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3179",
+        "channel": "Dubai Sports",
+        "link": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25775",
+        "channel": "Dubai Sports",
+        "link": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "14225",
+        "channel": "Dubai Sports 1",
+        "link": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "14226",
+        "channel": "Dubai Sports 2",
+        "link": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25776",
+        "channel": "Dubai Sports 2",
+        "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25777",
+        "channel": "Dubai Sports 3",
+        "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "14227",
+        "channel": "Dubai Sports 3",
+        "link": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3250",
+        "channel": "Sharjah Sport, Sharjah Sports",
+        "link": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3149",
+        "channel": "Abu Dhabi Sports, Abu Dhabi Sports 1, Abu Dhabi Sports 1 HD (Opt-1), Abu Dhabi Sports1",
+        "link": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "24790",
+        "channel": "Abu Dhabi Sports 1",
+        "link": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25764",
+        "channel": "Abu Dhabi Sports 2",
+        "link": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3158",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25765",
+        "channel": "Abu Dhabi Sports 3",
+        "link": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3159",
+        "channel": "Abu Dhabi Sports 4",
+        "link": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25772",
+        "channel": "Dubai Racing",
+        "link": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3175",
+        "channel": "Dubai Racing, SPORT : Dubai Racing, SPORT | Dubai Racing",
+        "link": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3178",
+        "channel": "Dubai Racing, 迪拜赛马俱乐部",
+        "link": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "3570",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25773",
+        "channel": "Dubai Racing 2",
+        "link": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "24793",
+        "channel": "Dubai Racing 2",
+        "link": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3179",
+        "channel": "Dubai Sports",
+        "link": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25775",
+        "channel": "Dubai Sports",
+        "link": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "14225",
+        "channel": "Dubai Sports 1",
+        "link": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "14226",
+        "channel": "Dubai Sports 2",
+        "link": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25776",
+        "channel": "Dubai Sports 2",
+        "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "25777",
+        "channel": "Dubai Sports 3",
+        "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "14227",
+        "channel": "Dubai Sports 3",
+        "link": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3\u0026checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "sd",
+        "mbps": "484",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "3250",
+        "channel": "Sharjah Sport, Sharjah Sports",
+        "link": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "united arab emirates",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-19T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126, ...",
+        "URI": [
+            "sport"
+        ]
+    }
+]
