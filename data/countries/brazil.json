@@ -1,506 +1,170 @@
 [
     {
-        "id": "2131927",
-        "channel": "Band SPorts HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3195?checkedby:iptvcat.com",
+        "id": "2268716",
+        "channel": "Band Sports BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6143?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134558",
-        "channel": "Band Sports",
-        "link": "http://asbx.xyz:80/gabi/123456/62677?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134559",
-        "channel": "Band Sports HD",
-        "link": "http://asbx.xyz:80/gabi/123456/62678?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134792",
-        "channel": "ESPN",
-        "link": "http://asbx.xyz:80/gabi/123456/62767?checkedby:iptvcat.com",
+        "id": "2268714",
+        "channel": "Band Sports HD BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13638?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134794",
-        "channel": "ESPN 2",
-        "link": "http://asbx.xyz:80/gabi/123456/62768?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134800",
-        "channel": "ESPN 2 HD",
-        "link": "http://asbx.xyz:80/gabi/123456/62769?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134802",
-        "channel": "ESPN Brasil",
-        "link": "http://asbx.xyz:80/gabi/123456/62770?checkedby:iptvcat.com",
+        "id": "2268763",
+        "channel": "ESPN BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16502?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134804",
-        "channel": "ESPN Brasil HD",
-        "link": "http://asbx.xyz:80/gabi/123456/62771?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134806",
-        "channel": "ESPN Extra HD",
-        "link": "http://asbx.xyz:80/gabi/123456/62772?checkedby:iptvcat.com",
+        "id": "2268758",
+        "channel": "ESPN Brasil HD BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13633?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2132675",
-        "channel": "Espn 2 HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3213?checkedby:iptvcat.com",
+        "id": "2268761",
+        "channel": "ESPN HD BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13634?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3789",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132717",
-        "channel": "Espn Brasil HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3214?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132760",
-        "channel": "Espn Extra HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3215?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132810",
-        "channel": "Espn HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3216?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132989",
-        "channel": "Fox SPorts HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3222?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3789",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132962",
-        "channel": "Fox Sports 2 HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3221?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134236",
-        "channel": "SPorTV 2 HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3259?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3789",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134253",
-        "channel": "SPorTV 3 HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3260?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134267",
-        "channel": "SPorTV HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3261?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134236",
-        "channel": "SPorTV 2 HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3259?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3789",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134253",
-        "channel": "SPorTV 3 HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3260?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134267",
-        "channel": "SPorTV HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3261?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2131927",
-        "channel": "Band SPorts HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3195?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134558",
-        "channel": "Band Sports",
-        "link": "http://asbx.xyz:80/gabi/123456/62677?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134559",
-        "channel": "Band Sports HD",
-        "link": "http://asbx.xyz:80/gabi/123456/62678?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134792",
-        "channel": "ESPN",
-        "link": "http://asbx.xyz:80/gabi/123456/62767?checkedby:iptvcat.com",
+        "id": "2268787",
+        "channel": "Fox Sports 2 HD BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16498?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "lastChecked": "2022-01-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134794",
-        "channel": "ESPN 2",
-        "link": "http://asbx.xyz:80/gabi/123456/62768?checkedby:iptvcat.com",
+        "id": "2268787",
+        "channel": "Fox Sports 2 HD BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16498?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
+        "lastChecked": "2022-01-20T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134800",
-        "channel": "ESPN 2 HD",
-        "link": "http://asbx.xyz:80/gabi/123456/62769?checkedby:iptvcat.com",
+        "id": "2268716",
+        "channel": "Band Sports BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6143?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134802",
-        "channel": "ESPN Brasil",
-        "link": "http://asbx.xyz:80/gabi/123456/62770?checkedby:iptvcat.com",
+        "id": "2268714",
+        "channel": "Band Sports HD BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13638?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "sd",
-        "mbps": "2089",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2134804",
-        "channel": "ESPN Brasil HD",
-        "link": "http://asbx.xyz:80/gabi/123456/62771?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2134806",
-        "channel": "ESPN Extra HD",
-        "link": "http://asbx.xyz:80/gabi/123456/62772?checkedby:iptvcat.com",
+        "id": "2268763",
+        "channel": "ESPN BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16502?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2132675",
-        "channel": "Espn 2 HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3213?checkedby:iptvcat.com",
+        "id": "2268758",
+        "channel": "ESPN Brasil HD BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13633?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
-        "mbps": "3789",
+        "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2132717",
-        "channel": "Espn Brasil HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3214?checkedby:iptvcat.com",
+        "id": "2268761",
+        "channel": "ESPN HD BR",
+        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13634?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132760",
-        "channel": "Espn Extra HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3215?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
+        "lastChecked": "2022-01-20T00:00:00Z",
         "format": "hd",
-        "mbps": "3795",
+        "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132810",
-        "channel": "Espn HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3216?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132989",
-        "channel": "Fox SPorts HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3222?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3789",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2132962",
-        "channel": "Fox Sports 2 HD",
-        "link": "http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/3221?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-03T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     }
 ]
