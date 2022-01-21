@@ -5,8 +5,8 @@
         "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -19,8 +19,8 @@
         "link": "https://c.mjh.nz/101002210222/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -34,7 +34,7 @@
         "country": "oceania",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -46,9 +46,9 @@
         "channel": "ABC News (720p) [Geo-blocked]",
         "link": "https://c.mjh.nz/101002210220?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -62,7 +62,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
         "URI": [
@@ -74,9 +74,9 @@
         "channel": "ABC TV (720p)",
         "link": "https://c.mjh.nz/101002210221?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -88,9 +88,9 @@
         "channel": "ABC TV (720p)",
         "link": "https://c.mjh.nz/101002510251?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "liveliness": "59",
+        "status": "online",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -102,9 +102,9 @@
         "channel": "ABC TV (720p)",
         "link": "https://c.mjh.nz/101002710271?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "57",
+        "liveliness": "47",
         "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -116,9 +116,9 @@
         "channel": "ABC TV Plus (720p)",
         "link": "https://c.mjh.nz/abc2?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "76",
         "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -132,7 +132,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -146,7 +146,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -160,7 +160,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -216,7 +216,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -230,7 +230,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -244,7 +244,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -258,12 +258,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -274,7 +273,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -286,9 +285,9 @@
         "channel": "M4TV Malayalam (1080p) [Not 24/7]",
         "link": "https://app.m4stream.live/mfourmalayalamhls/live.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "93",
-        "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -302,7 +301,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -316,7 +315,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -330,7 +329,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -342,9 +341,9 @@
         "channel": "Sky Racing 1 (540p) [Not 24/7]",
         "link": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -356,9 +355,9 @@
         "channel": "Sky Racing 2 (360p) [Not 24/7]",
         "link": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "25",
+        "liveliness": "20",
         "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -370,9 +369,9 @@
         "channel": "Sky Thoroughbred Central (360p)",
         "link": "https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -384,9 +383,9 @@
         "channel": "Sky Thoroughbred Central (720p)",
         "link": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "81",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -400,7 +399,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -414,7 +413,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -428,12 +427,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -444,12 +442,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -460,12 +457,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -476,7 +472,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -490,7 +486,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -504,7 +500,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -518,7 +514,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -532,7 +528,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -546,7 +542,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -560,7 +556,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -574,7 +570,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -588,7 +584,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -602,7 +598,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -616,7 +612,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -630,7 +626,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -644,7 +640,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -658,7 +654,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -671,8 +667,8 @@
         "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "90",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "status": "offline",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -685,8 +681,8 @@
         "link": "https://c.mjh.nz/101002210222/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "96",
-        "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -700,7 +696,7 @@
         "country": "oceania",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -712,9 +708,9 @@
         "channel": "ABC News (720p) [Geo-blocked]",
         "link": "https://c.mjh.nz/101002210220?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "91",
+        "liveliness": "93",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -728,7 +724,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
         "URI": [
@@ -740,9 +736,9 @@
         "channel": "ABC TV (720p)",
         "link": "https://c.mjh.nz/101002210221?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "liveliness": "75",
+        "status": "online",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -754,9 +750,9 @@
         "channel": "ABC TV (720p)",
         "link": "https://c.mjh.nz/101002510251?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "50",
-        "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "liveliness": "59",
+        "status": "online",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -768,9 +764,9 @@
         "channel": "ABC TV (720p)",
         "link": "https://c.mjh.nz/101002710271?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "57",
+        "liveliness": "47",
         "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -782,9 +778,9 @@
         "channel": "ABC TV Plus (720p)",
         "link": "https://c.mjh.nz/abc2?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "86",
+        "liveliness": "76",
         "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -798,7 +794,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -812,7 +808,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -826,7 +822,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -840,7 +836,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -854,7 +850,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -868,7 +864,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -882,7 +878,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1494, ...",
         "URI": [
@@ -896,7 +892,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -910,7 +906,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -924,12 +920,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -940,7 +935,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
@@ -952,9 +947,9 @@
         "channel": "M4TV Malayalam (1080p) [Not 24/7]",
         "link": "https://app.m4stream.live/mfourmalayalamhls/live.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "93",
-        "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "liveliness": "89",
+        "status": "online",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
         "URI": [
@@ -968,7 +963,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -982,7 +977,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -996,7 +991,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -1008,9 +1003,9 @@
         "channel": "Sky Racing 1 (540p) [Not 24/7]",
         "link": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "17",
+        "liveliness": "13",
         "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1022,9 +1017,9 @@
         "channel": "Sky Racing 2 (360p) [Not 24/7]",
         "link": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "25",
+        "liveliness": "20",
         "status": "offline",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1036,9 +1031,9 @@
         "channel": "Sky Thoroughbred Central (360p)",
         "link": "https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
+        "liveliness": "88",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1050,9 +1045,9 @@
         "channel": "Sky Thoroughbred Central (720p)",
         "link": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "81",
+        "liveliness": "86",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1066,7 +1061,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1080,7 +1075,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1094,12 +1089,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1110,12 +1104,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1126,12 +1119,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1142,7 +1134,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1156,7 +1148,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1170,7 +1162,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1184,7 +1176,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -1198,7 +1190,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1212,7 +1204,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1226,7 +1218,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1240,7 +1232,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1254,7 +1246,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1268,7 +1260,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1282,7 +1274,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1296,7 +1288,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1310,7 +1302,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1324,7 +1316,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1338,12 +1330,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1354,12 +1345,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1370,12 +1360,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1386,12 +1375,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1402,12 +1390,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1418,12 +1405,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1434,12 +1420,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
@@ -1450,204 +1435,11 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
             "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "51314",
-        "channel": "Fox Sports News",
-        "link": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062028",
-        "channel": "beIN Sports 1 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062030",
-        "channel": "beIN Sports 2 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062032",
-        "channel": "beIN Sports 3 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "51314",
-        "channel": "Fox Sports News",
-        "link": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062028",
-        "channel": "beIN Sports 1 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062030",
-        "channel": "beIN Sports 2 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062032",
-        "channel": "beIN Sports 3 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "51314",
-        "channel": "Fox Sports News",
-        "link": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062028",
-        "channel": "beIN Sports 1 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062030",
-        "channel": "beIN Sports 2 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2062032",
-        "channel": "beIN Sports 3 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_",
-            "sport",
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     }
