@@ -1,82 +1,26 @@
 [
     {
-        "id": "2268716",
-        "channel": "Band Sports BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6143?checkedby:iptvcat.com",
+        "id": "2280228",
+        "channel": "ESPN BRASIL HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5122?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "4165",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
-        "id": "2268714",
-        "channel": "Band Sports HD BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13638?checkedby:iptvcat.com",
+        "id": "2280230",
+        "channel": "ESPN EXTRA HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5123?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2268763",
-        "channel": "ESPN BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16502?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2268758",
-        "channel": "ESPN Brasil HD BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13633?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2268761",
-        "channel": "ESPN HD BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13634?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2268787",
-        "channel": "Fox Sports 2 HD BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16498?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -84,13 +28,69 @@
         ]
     },
     {
-        "id": "2268787",
-        "channel": "Fox Sports 2 HD BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16498?checkedby:iptvcat.com",
+        "id": "2280080",
+        "channel": "FOX SPORTS 2",
+        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/669?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280253",
+        "channel": "FOX SPORTS 2 HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5130?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280253",
+        "channel": "FOX SPORTS 2 HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5130?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280228",
+        "channel": "ESPN BRASIL HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5122?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "4165",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280230",
+        "channel": "ESPN EXTRA HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5123?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
         "format": "hd",
         "mbps": "5997",
         "URI": [
@@ -98,69 +98,13 @@
         ]
     },
     {
-        "id": "2268716",
-        "channel": "Band Sports BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6143?checkedby:iptvcat.com",
+        "id": "2280080",
+        "channel": "FOX SPORTS 2",
+        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/669?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2268714",
-        "channel": "Band Sports HD BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13638?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2268763",
-        "channel": "ESPN BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16502?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2268758",
-        "channel": "ESPN Brasil HD BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13633?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2268761",
-        "channel": "ESPN HD BR",
-        "link": "http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13634?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-20T00:00:00Z",
+        "lastChecked": "2022-01-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
