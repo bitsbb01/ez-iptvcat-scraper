@@ -1,2354 +1,1023 @@
 [
     {
-        "id": "2279750",
-        "channel": "TRING SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33960?checkedby:iptvcat.com",
+        "id": "2283344",
+        "channel": "Super Sport 5 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133897?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279813",
-        "channel": "TRING SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33998?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279754",
-        "channel": "TRING SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33961?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279815",
-        "channel": "TRING SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33999?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279758",
-        "channel": "TRING SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33962?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279818",
-        "channel": "TRING SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34000?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279760",
-        "channel": "TRING SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33963?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279821",
-        "channel": "TRING SPORT 4 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34001?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279764",
-        "channel": "TRING SPORT NEWS FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33964?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279768",
-        "channel": "ART SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33965?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279836",
-        "channel": "ART SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34007?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279770",
-        "channel": "ART SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33966?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279838",
-        "channel": "ART SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34008?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279773",
-        "channel": "ART SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33967?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279841",
-        "channel": "ART SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34009?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279824",
-        "channel": "K SPORT 1",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34002?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279777",
-        "channel": "K SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33968?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279827",
-        "channel": "K SPORT 2",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34003?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279781",
-        "channel": "K SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33969?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279830",
-        "channel": "K SPORT 3",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34004?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279783",
-        "channel": "K SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33970?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279832",
-        "channel": "K SPORT 4",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34005?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279787",
-        "channel": "K SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33971?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279793",
-        "channel": "RTSH SPORT HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33973?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279843",
-        "channel": "SUPER SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34014?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279796",
-        "channel": "SUPER SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33991?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279846",
-        "channel": "SUPER SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34015?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279798",
-        "channel": "SUPER SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33992?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279850",
-        "channel": "SUPER SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34016?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279802",
-        "channel": "SUPER SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33993?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279853",
-        "channel": "SUPER SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34017?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279805",
-        "channel": "SUPER SPORT 4 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33994?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279856",
-        "channel": "SUPER SPORT 5 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34018?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279807",
-        "channel": "SUPER SPORT 5 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33995?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279858",
-        "channel": "SUPER SPORT 6 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34019?checkedby:iptvcat.com",
+        "id": "2283348",
+        "channel": "Super Sport 6 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173867?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283352",
+        "channel": "Super Sport Kosova 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173870?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279810",
-        "channel": "SUPER SPORT 6 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33996?checkedby:iptvcat.com",
+        "id": "2283356",
+        "channel": "Super Sport Kosova 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173872?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283360",
+        "channel": "Tring Sport 1",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73496?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283366",
+        "channel": "Tring Sport 3",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73498?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283370",
+        "channel": "Tring Sport 4",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73499?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283390",
+        "channel": "Art Sport 1 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133903?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283394",
+        "channel": "Art Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133904?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283399",
+        "channel": "Art Sport 3 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133905?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283374",
+        "channel": "Kujtesa Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133898?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283377",
+        "channel": "Kujtesa Sport 2",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173848?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283380",
+        "channel": "Kujtesa Sport 3",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/246098?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283386",
+        "channel": "Kujtesa Sport 4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133901?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283327",
+        "channel": "RTSH Sport HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73490?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283341",
+        "channel": "Super Sport  4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73494?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279860",
-        "channel": "SUPER SPORT 7 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34020?checkedby:iptvcat.com",
+        "id": "2283332",
+        "channel": "Super Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73491?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279768",
-        "channel": "ART SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33965?checkedby:iptvcat.com",
+        "id": "2283338",
+        "channel": "Super Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73492?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283390",
+        "channel": "Art Sport 1 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133903?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279836",
-        "channel": "ART SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34007?checkedby:iptvcat.com",
+        "id": "2283394",
+        "channel": "Art Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133904?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279770",
-        "channel": "ART SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33966?checkedby:iptvcat.com",
+        "id": "2283399",
+        "channel": "Art Sport 3 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133905?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279838",
-        "channel": "ART SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34008?checkedby:iptvcat.com",
+        "id": "2283374",
+        "channel": "Kujtesa Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133898?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279773",
-        "channel": "ART SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33967?checkedby:iptvcat.com",
+        "id": "2283377",
+        "channel": "Kujtesa Sport 2",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173848?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279841",
-        "channel": "ART SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34009?checkedby:iptvcat.com",
+        "id": "2283380",
+        "channel": "Kujtesa Sport 3",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/246098?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279824",
-        "channel": "K SPORT 1",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34002?checkedby:iptvcat.com",
+        "id": "2283386",
+        "channel": "Kujtesa Sport 4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133901?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283327",
+        "channel": "RTSH Sport HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73490?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279777",
-        "channel": "K SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33968?checkedby:iptvcat.com",
+        "id": "2283341",
+        "channel": "Super Sport  4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73494?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279827",
-        "channel": "K SPORT 2",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34003?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279781",
-        "channel": "K SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33969?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279830",
-        "channel": "K SPORT 3",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34004?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279783",
-        "channel": "K SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33970?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279832",
-        "channel": "K SPORT 4",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34005?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279787",
-        "channel": "K SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33971?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279793",
-        "channel": "RTSH SPORT HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33973?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279843",
-        "channel": "SUPER SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34014?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279796",
-        "channel": "SUPER SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33991?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279846",
-        "channel": "SUPER SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34015?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279798",
-        "channel": "SUPER SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33992?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279850",
-        "channel": "SUPER SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34016?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279802",
-        "channel": "SUPER SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33993?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279853",
-        "channel": "SUPER SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34017?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279805",
-        "channel": "SUPER SPORT 4 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33994?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279856",
-        "channel": "SUPER SPORT 5 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34018?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279807",
-        "channel": "SUPER SPORT 5 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33995?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279858",
-        "channel": "SUPER SPORT 6 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34019?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279810",
-        "channel": "SUPER SPORT 6 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33996?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279860",
-        "channel": "SUPER SPORT 7 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34020?checkedby:iptvcat.com",
+        "id": "2283332",
+        "channel": "Super Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73491?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279768",
-        "channel": "ART SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33965?checkedby:iptvcat.com",
+        "id": "2283338",
+        "channel": "Super Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73492?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283390",
+        "channel": "Art Sport 1 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133903?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279836",
-        "channel": "ART SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34007?checkedby:iptvcat.com",
+        "id": "2283394",
+        "channel": "Art Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133904?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279770",
-        "channel": "ART SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33966?checkedby:iptvcat.com",
+        "id": "2283399",
+        "channel": "Art Sport 3 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133905?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279838",
-        "channel": "ART SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34008?checkedby:iptvcat.com",
+        "id": "2283374",
+        "channel": "Kujtesa Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133898?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279773",
-        "channel": "ART SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33967?checkedby:iptvcat.com",
+        "id": "2283377",
+        "channel": "Kujtesa Sport 2",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173848?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279841",
-        "channel": "ART SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34009?checkedby:iptvcat.com",
+        "id": "2283380",
+        "channel": "Kujtesa Sport 3",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/246098?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279824",
-        "channel": "K SPORT 1",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34002?checkedby:iptvcat.com",
+        "id": "2283386",
+        "channel": "Kujtesa Sport 4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133901?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283327",
+        "channel": "RTSH Sport HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73490?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279777",
-        "channel": "K SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33968?checkedby:iptvcat.com",
+        "id": "2283341",
+        "channel": "Super Sport  4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73494?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279827",
-        "channel": "K SPORT 2",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34003?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279781",
-        "channel": "K SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33969?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279830",
-        "channel": "K SPORT 3",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34004?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279783",
-        "channel": "K SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33970?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279832",
-        "channel": "K SPORT 4",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34005?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279787",
-        "channel": "K SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33971?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279793",
-        "channel": "RTSH SPORT HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33973?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279843",
-        "channel": "SUPER SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34014?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279796",
-        "channel": "SUPER SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33991?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279846",
-        "channel": "SUPER SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34015?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279798",
-        "channel": "SUPER SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33992?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279850",
-        "channel": "SUPER SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34016?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279802",
-        "channel": "SUPER SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33993?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279853",
-        "channel": "SUPER SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34017?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279805",
-        "channel": "SUPER SPORT 4 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33994?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279856",
-        "channel": "SUPER SPORT 5 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34018?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279807",
-        "channel": "SUPER SPORT 5 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33995?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279858",
-        "channel": "SUPER SPORT 6 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34019?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279810",
-        "channel": "SUPER SPORT 6 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33996?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279860",
-        "channel": "SUPER SPORT 7 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34020?checkedby:iptvcat.com",
+        "id": "2283332",
+        "channel": "Super Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73491?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279750",
-        "channel": "TRING SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33960?checkedby:iptvcat.com",
+        "id": "2283338",
+        "channel": "Super Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73492?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279813",
-        "channel": "TRING SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33998?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279754",
-        "channel": "TRING SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33961?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279815",
-        "channel": "TRING SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33999?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279758",
-        "channel": "TRING SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33962?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279818",
-        "channel": "TRING SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34000?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279760",
-        "channel": "TRING SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33963?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279821",
-        "channel": "TRING SPORT 4 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34001?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279764",
-        "channel": "TRING SPORT NEWS FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33964?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1796",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279768",
-        "channel": "ART SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33965?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279836",
-        "channel": "ART SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34007?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279770",
-        "channel": "ART SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33966?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279838",
-        "channel": "ART SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34008?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279773",
-        "channel": "ART SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33967?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279841",
-        "channel": "ART SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34009?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279824",
-        "channel": "K SPORT 1",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34002?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279777",
-        "channel": "K SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33968?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279827",
-        "channel": "K SPORT 2",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34003?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279781",
-        "channel": "K SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33969?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279830",
-        "channel": "K SPORT 3",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34004?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279783",
-        "channel": "K SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33970?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279832",
-        "channel": "K SPORT 4",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34005?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279787",
-        "channel": "K SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33971?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279793",
-        "channel": "RTSH SPORT HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33973?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279843",
-        "channel": "SUPER SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34014?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279796",
-        "channel": "SUPER SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33991?checkedby:iptvcat.com",
+        "id": "2283344",
+        "channel": "Super Sport 5 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133897?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279846",
-        "channel": "SUPER SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34015?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279798",
-        "channel": "SUPER SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33992?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279850",
-        "channel": "SUPER SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34016?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279802",
-        "channel": "SUPER SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33993?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279853",
-        "channel": "SUPER SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34017?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279805",
-        "channel": "SUPER SPORT 4 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33994?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279856",
-        "channel": "SUPER SPORT 5 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34018?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279807",
-        "channel": "SUPER SPORT 5 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33995?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279858",
-        "channel": "SUPER SPORT 6 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34019?checkedby:iptvcat.com",
+        "id": "2283348",
+        "channel": "Super Sport 6 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173867?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283352",
+        "channel": "Super Sport Kosova 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173870?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279810",
-        "channel": "SUPER SPORT 6 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33996?checkedby:iptvcat.com",
+        "id": "2283356",
+        "channel": "Super Sport Kosova 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173872?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283360",
+        "channel": "Tring Sport 1",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73496?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283366",
+        "channel": "Tring Sport 3",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73498?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283370",
+        "channel": "Tring Sport 4",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73499?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283390",
+        "channel": "Art Sport 1 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133903?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283394",
+        "channel": "Art Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133904?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283399",
+        "channel": "Art Sport 3 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133905?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283374",
+        "channel": "Kujtesa Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133898?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283377",
+        "channel": "Kujtesa Sport 2",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173848?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283380",
+        "channel": "Kujtesa Sport 3",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/246098?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283386",
+        "channel": "Kujtesa Sport 4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133901?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283327",
+        "channel": "RTSH Sport HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73490?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283341",
+        "channel": "Super Sport  4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73494?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279860",
-        "channel": "SUPER SPORT 7 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34020?checkedby:iptvcat.com",
+        "id": "2283332",
+        "channel": "Super Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73491?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279768",
-        "channel": "ART SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33965?checkedby:iptvcat.com",
+        "id": "2283338",
+        "channel": "Super Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73492?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283390",
+        "channel": "Art Sport 1 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133903?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279836",
-        "channel": "ART SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34007?checkedby:iptvcat.com",
+        "id": "2283394",
+        "channel": "Art Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133904?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279770",
-        "channel": "ART SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33966?checkedby:iptvcat.com",
+        "id": "2283399",
+        "channel": "Art Sport 3 FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133905?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279838",
-        "channel": "ART SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34008?checkedby:iptvcat.com",
+        "id": "2283374",
+        "channel": "Kujtesa Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133898?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279773",
-        "channel": "ART SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33967?checkedby:iptvcat.com",
+        "id": "2283377",
+        "channel": "Kujtesa Sport 2",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/173848?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279841",
-        "channel": "ART SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34009?checkedby:iptvcat.com",
+        "id": "2283380",
+        "channel": "Kujtesa Sport 3",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/246098?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279824",
-        "channel": "K SPORT 1",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34002?checkedby:iptvcat.com",
+        "id": "2283386",
+        "channel": "Kujtesa Sport 4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/133901?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283327",
+        "channel": "RTSH Sport HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73490?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279777",
-        "channel": "K SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33968?checkedby:iptvcat.com",
+        "id": "2283341",
+        "channel": "Super Sport  4 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73494?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279827",
-        "channel": "K SPORT 2",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34003?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279781",
-        "channel": "K SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33969?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279830",
-        "channel": "K SPORT 3",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34004?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279783",
-        "channel": "K SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33970?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279832",
-        "channel": "K SPORT 4",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34005?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279787",
-        "channel": "K SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33971?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279793",
-        "channel": "RTSH SPORT HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33973?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279843",
-        "channel": "SUPER SPORT 1 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34014?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279796",
-        "channel": "SUPER SPORT 1 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33991?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279846",
-        "channel": "SUPER SPORT 2 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34015?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279798",
-        "channel": "SUPER SPORT 2 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33992?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279850",
-        "channel": "SUPER SPORT 3 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34016?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279802",
-        "channel": "SUPER SPORT 3 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33993?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279853",
-        "channel": "SUPER SPORT 4 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34017?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279805",
-        "channel": "SUPER SPORT 4 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33994?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279856",
-        "channel": "SUPER SPORT 5 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34018?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279807",
-        "channel": "SUPER SPORT 5 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33995?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279858",
-        "channel": "SUPER SPORT 6 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34019?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279810",
-        "channel": "SUPER SPORT 6 HD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/33996?checkedby:iptvcat.com",
-        "country": "albania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279860",
-        "channel": "SUPER SPORT 7 FHD",
-        "link": "http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/34020?checkedby:iptvcat.com",
+        "id": "2283332",
+        "channel": "Super Sport 1 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73491?checkedby:iptvcat.com",
         "country": "albania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
             "sport",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283338",
+        "channel": "Super Sport 2 HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/73492?checkedby:iptvcat.com",
+        "country": "albania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

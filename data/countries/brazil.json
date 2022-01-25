@@ -1,114 +1,1542 @@
 [
     {
-        "id": "2280228",
-        "channel": "ESPN BRASIL HD - BR",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5122?checkedby:iptvcat.com",
+        "id": "2282942",
+        "channel": "BAND Sports FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/25?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
-        "mbps": "4165",
+        "mbps": "5429",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280230",
-        "channel": "ESPN EXTRA HD - BR",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5123?checkedby:iptvcat.com",
+        "id": "2282945",
+        "channel": "BAND Sports FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81816?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2280080",
-        "channel": "FOX SPORTS 2",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/669?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2280253",
-        "channel": "FOX SPORTS 2 HD - BR",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5130?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
-        "mbps": "2089",
+        "mbps": "5429",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280253",
-        "channel": "FOX SPORTS 2 HD - BR",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5130?checkedby:iptvcat.com",
+        "id": "2282949",
+        "channel": "BAND Sports FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/26?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
-        "mbps": "2089",
+        "mbps": "5429",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280228",
-        "channel": "ESPN BRASIL HD - BR",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5122?checkedby:iptvcat.com",
+        "id": "2282953",
+        "channel": "BAND Sports HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/27?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
-        "mbps": "4165",
+        "mbps": "5429",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280230",
-        "channel": "ESPN EXTRA HD - BR",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5123?checkedby:iptvcat.com",
+        "id": "2282957",
+        "channel": "BAND Sports HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81817?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280080",
-        "channel": "FOX SPORTS 2",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/669?checkedby:iptvcat.com",
+        "id": "2282960",
+        "channel": "BAND Sports SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/24?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284798",
+        "channel": "ESPN 1 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/104?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284801",
+        "channel": "ESPN 1 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81595?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284805",
+        "channel": "ESPN 1 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/105?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284807",
+        "channel": "ESPN 1 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/106?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284809",
+        "channel": "ESPN 1 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81596?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284813",
+        "channel": "ESPN 1 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/562?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284818",
+        "channel": "ESPN 2 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/111?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284819",
+        "channel": "ESPN 2 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81599?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284822",
+        "channel": "ESPN 2 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/112?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284825",
+        "channel": "ESPN 2 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/113?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284827",
+        "channel": "ESPN 2 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81600?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284829",
+        "channel": "ESPN 2 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/110?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284832",
+        "channel": "ESPN 3 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/115?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284834",
+        "channel": "ESPN 3 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81601?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284837",
+        "channel": "ESPN 3 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/116?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284839",
+        "channel": "ESPN 3 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/103?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284842",
+        "channel": "ESPN 3 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81602?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284845",
+        "channel": "ESPN 3 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/114?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284847",
+        "channel": "ESPN 4 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/137?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284849",
+        "channel": "ESPN 4 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81615?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284852",
+        "channel": "ESPN 4 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/138?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284854",
+        "channel": "ESPN 4 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/139?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284857",
+        "channel": "ESPN 4 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81616?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284860",
+        "channel": "ESPN 4 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/136?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284861",
+        "channel": "ESPN Brasil 4K",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1658?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284863",
+        "channel": "ESPN Extra FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/107?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284866",
+        "channel": "ESPN Extra FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81597?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284868",
+        "channel": "ESPN Extra FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/108?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284870",
+        "channel": "ESPN Extra HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/109?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284873",
+        "channel": "ESPN Extra HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81598?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284875",
+        "channel": "ESPN Extra SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/578?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284878",
+        "channel": "ESPN1 4K",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1645?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284881",
+        "channel": "Estadio TNT Sports 1",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/817?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284883",
+        "channel": "Estadio TNT Sports 1*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/820?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284885",
+        "channel": "Estadio TNT Sports 2",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/828?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284889",
+        "channel": "Estadio TNT Sports 2*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/821?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284904",
+        "channel": "Estadio TNT Sports 3*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/822?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284908",
+        "channel": "Estadio TNT Sports 4*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/824?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284911",
+        "channel": "Estadio TNT Sports 5",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/826?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284914",
+        "channel": "Estadio TNT Sports 5*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/825?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285027",
+        "channel": "FOX Sports 1 4K",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1636?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285033",
+        "channel": "FOX Sports 2 4K",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1643?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285040",
+        "channel": "FOX Sports 2 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/141?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285045",
+        "channel": "FOX Sports 2 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81617?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285049",
+        "channel": "FOX Sports 2 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/142?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285053",
+        "channel": "FOX Sports 2 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/143?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285056",
+        "channel": "FOX Sports 2 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81618?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285057",
+        "channel": "FOX Sports 2 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/140?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283553",
+        "channel": "Sportsnet West HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1247?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285056",
+        "channel": "FOX Sports 2 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81618?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285057",
+        "channel": "FOX Sports 2 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/140?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283553",
+        "channel": "Sportsnet West HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1247?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284861",
+        "channel": "ESPN Brasil 4K",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1658?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284863",
+        "channel": "ESPN Extra FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/107?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284866",
+        "channel": "ESPN Extra FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81597?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284868",
+        "channel": "ESPN Extra FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/108?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284870",
+        "channel": "ESPN Extra HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/109?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284873",
+        "channel": "ESPN Extra HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81598?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284875",
+        "channel": "ESPN Extra SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/578?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284878",
+        "channel": "ESPN1 4K",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1645?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284881",
+        "channel": "Estadio TNT Sports 1",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/817?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284883",
+        "channel": "Estadio TNT Sports 1*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/820?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284885",
+        "channel": "Estadio TNT Sports 2",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/828?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284889",
+        "channel": "Estadio TNT Sports 2*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/821?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284904",
+        "channel": "Estadio TNT Sports 3*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/822?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284908",
+        "channel": "Estadio TNT Sports 4*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/824?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284911",
+        "channel": "Estadio TNT Sports 5",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/826?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284914",
+        "channel": "Estadio TNT Sports 5*",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/825?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285027",
+        "channel": "FOX Sports 1 4K",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1636?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285033",
+        "channel": "FOX Sports 2 4K",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/1643?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285040",
+        "channel": "FOX Sports 2 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/141?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285045",
+        "channel": "FOX Sports 2 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81617?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285049",
+        "channel": "FOX Sports 2 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/142?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2285053",
+        "channel": "FOX Sports 2 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/143?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282942",
+        "channel": "BAND Sports FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/25?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282945",
+        "channel": "BAND Sports FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81816?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282949",
+        "channel": "BAND Sports FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/26?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282953",
+        "channel": "BAND Sports HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/27?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282957",
+        "channel": "BAND Sports HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81817?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282960",
+        "channel": "BAND Sports SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/24?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284798",
+        "channel": "ESPN 1 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/104?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284801",
+        "channel": "ESPN 1 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81595?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284805",
+        "channel": "ESPN 1 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/105?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284807",
+        "channel": "ESPN 1 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/106?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284809",
+        "channel": "ESPN 1 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81596?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284813",
+        "channel": "ESPN 1 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/562?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284818",
+        "channel": "ESPN 2 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/111?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284819",
+        "channel": "ESPN 2 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81599?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284822",
+        "channel": "ESPN 2 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/112?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284825",
+        "channel": "ESPN 2 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/113?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284827",
+        "channel": "ESPN 2 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81600?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284829",
+        "channel": "ESPN 2 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/110?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284832",
+        "channel": "ESPN 3 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/115?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284834",
+        "channel": "ESPN 3 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81601?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284837",
+        "channel": "ESPN 3 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/116?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284839",
+        "channel": "ESPN 3 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/103?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284842",
+        "channel": "ESPN 3 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81602?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284845",
+        "channel": "ESPN 3 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/114?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284847",
+        "channel": "ESPN 4 FHD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/137?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284849",
+        "channel": "ESPN 4 FHD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81615?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284852",
+        "channel": "ESPN 4 FHD [H265]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/138?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284854",
+        "channel": "ESPN 4 HD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/139?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284857",
+        "channel": "ESPN 4 HD [Alt]",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/81616?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2284860",
+        "channel": "ESPN 4 SD",
+        "link": "http://srv.vitrizamper.com:80/998963135jorgin/22bu333da10/136?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "5429",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

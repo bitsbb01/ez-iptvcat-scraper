@@ -1,3492 +1,166 @@
 [
     {
-        "id": "2278750",
-        "channel": "UK BT Sports 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174237.ts?checkedby:iptvcat.com",
+        "id": "2283042",
+        "channel": "BT Sport 1 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18191?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278756",
-        "channel": "UK BT Sports 3",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174239.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278762",
-        "channel": "UK BT Sports ESPN",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174241.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278766",
-        "channel": "UK BT Sports Extra 2 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174243.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278772",
-        "channel": "UK BT Sports Extra 3 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174244.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278776",
-        "channel": "UK BT Sports Extra 4 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174245.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278888",
-        "channel": "UK Box Nation HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189910.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279203",
-        "channel": "UK CBS DRAMA",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391272.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278900",
-        "channel": "UK CBS Justice",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189917.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278904",
-        "channel": "UK CBS Reality",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189918.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278916",
-        "channel": "UK CNBC News",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189923.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278920",
-        "channel": "UK CNN HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189924.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278892",
-        "channel": "UK Cartoonito",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189913.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278908",
-        "channel": "UK Channel 4 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189920.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278912",
-        "channel": "UK Channel 5",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189921.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279134",
-        "channel": "UK Clubland",
-        "link": "http://ky-iptv.com:80/testtest/testtest/208457.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278924",
-        "channel": "UK Colors",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189925.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278928",
-        "channel": "UK Colors Rishtey",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189926.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278932",
-        "channel": "UK Comedy Central Extra",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189928.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278936",
-        "channel": "UK Comedy Central FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189929.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278940",
-        "channel": "UK Crime \u0026 Investigation HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189930.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279169",
-        "channel": "UK DESTINATION AMERICA HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391193.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278966",
-        "channel": "UK DMAX HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189939.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278944",
-        "channel": "UK Dave HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189931.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278950",
-        "channel": "UK Discovery",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189932.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278954",
-        "channel": "UK Discovery History",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189933.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278958",
-        "channel": "UK Discovery Science",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189934.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278962",
-        "channel": "UK Discovery Turbo",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189936.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278970",
-        "channel": "UK Drama",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189940.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278974",
-        "channel": "UK E!",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189941.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279180",
-        "channel": "UK E4",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391210.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278978",
-        "channel": "UK EDEN HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189944.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279173",
-        "channel": "UK EURONEWS HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391197.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279215",
-        "channel": "UK FREESPORTS",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391307.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278982",
-        "channel": "UK Film 4 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189945.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278986",
-        "channel": "UK Fox News HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189949.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278780",
-        "channel": "UK Free Sports",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174253.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278990",
-        "channel": "UK Gold",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189951.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279221",
-        "channel": "UK HORROR CHANNEL",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391308.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278994",
-        "channel": "UK History Channel FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189954.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278998",
-        "channel": "UK Horse and Country",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189957.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279130",
-        "channel": "UK ITV 3 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/199506.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279006",
-        "channel": "UK ITVBE",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189962.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279002",
-        "channel": "UK Itv 4",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189961.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279212",
-        "channel": "UK KISS SD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391299.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279010",
-        "channel": "UK LFC TV",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189963.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279014",
-        "channel": "UK MTV Classic",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189970.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279018",
-        "channel": "UK MTV FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189973.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279020",
-        "channel": "UK MTV Hits HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189974.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279024",
-        "channel": "UK MTV Music",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189975.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279044",
-        "channel": "UK NICK TOONS",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189983.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279030",
-        "channel": "UK Nat Geo",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189979.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279034",
-        "channel": "UK Nick Junior HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189981.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279040",
-        "channel": "UK Nick Junior Too",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189982.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279188",
-        "channel": "UK POP MAX SD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391248.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278814",
-        "channel": "UK Paramount",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189873.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279052",
-        "channel": "UK QUEST +1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189987.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279056",
-        "channel": "UK Quest Red HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189988.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279176",
-        "channel": "UK RT NEWS HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391198.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279067",
-        "channel": "UK RTE News Now",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189995.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279074",
-        "channel": "UK S4C",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189997.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279078",
-        "channel": "UK SKY One",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189999.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279096",
-        "channel": "UK STV HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190011.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279153",
-        "channel": "UK Sky Cinema Action \u0026 Adventure",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228291.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279149",
-        "channel": "UK Sky Cinema Comedy",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228290.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279145",
-        "channel": "UK Sky Cinema Greats",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228287.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279138",
-        "channel": "UK Sky Cinema Premiere",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228272.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279141",
-        "channel": "UK Sky Cinema Thriller",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228284.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279083",
-        "channel": "UK Sky News",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190003.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278786",
-        "channel": "UK Sky Sports Action",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174254.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278790",
-        "channel": "UK Sky Sports Arena",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174256.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278794",
-        "channel": "UK Sky Sports F1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174259.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278798",
-        "channel": "UK Sky Sports Football",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174261.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278803",
-        "channel": "UK Sky Sports Main Events",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174265.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279060",
-        "channel": "UK Sky Sports Racing",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189989.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279063",
-        "channel": "RTE 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189992.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279071",
-        "channel": "RTE One",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189996.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279161",
-        "channel": "RTE TWO FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391161.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279157",
-        "channel": "IRE RTE NEWS FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391158.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279207",
-        "channel": "MTV 80s",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391284.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279048",
-        "channel": "POP Channel",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189986.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279087",
-        "channel": "UK Star Bharat",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190008.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279091",
-        "channel": "UK Star Gold",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190009.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279200",
-        "channel": "UK TCM Movies+1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391264.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279104",
-        "channel": "UK TG4",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190015.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279108",
-        "channel": "UK TLC",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190017.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279100",
-        "channel": "UK Talking Pictures HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190013.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279112",
-        "channel": "UK Travel Channel",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190018.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279116",
-        "channel": "UK Watch",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190027.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279120",
-        "channel": "UK Yesterday HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190028.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278806",
-        "channel": "UK Zee Cinema",
-        "link": "http://ky-iptv.com:80/testtest/testtest/175781.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279124",
-        "channel": "UK Zing",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190030.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278841",
-        "channel": "UK baby tv",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189889.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279165",
-        "channel": "VIRGIN MEDIA ONE SD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391164.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278811",
-        "channel": "UK 4Music",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189871.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278819",
-        "channel": "UK 5 Star",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189874.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279192",
-        "channel": "UK 5 USA",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391253.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278829",
-        "channel": "UK ABP News",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189878.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278834",
-        "channel": "UK AL JAZEERA HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189879.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279196",
-        "channel": "UK AMC",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391263.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278822",
-        "channel": "UK Aaj Tak",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189876.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278838",
-        "channel": "UK B4U PLUS",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189888.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278848",
-        "channel": "UK BBC 1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189890.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278853",
-        "channel": "UK BBC 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189891.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278857",
-        "channel": "UK BBC 4",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189892.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278896",
-        "channel": "UK BBC CBeebies",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189915.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278860",
-        "channel": "UK BBC News HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189894.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278866",
-        "channel": "UK BBC Parliament",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189898.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278872",
-        "channel": "UK BBC Two Northern Ireland",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189900.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278876",
-        "channel": "UK BBC World News",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189903.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278880",
-        "channel": "UK BET",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189904.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278884",
-        "channel": "UK BLOOMBERG HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189906.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279184",
-        "channel": "UK BOOMERANG TV SD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391241.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278748",
-        "channel": "UK BT Sports 1 FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174235.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278811",
-        "channel": "UK 4Music",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189871.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278819",
-        "channel": "UK 5 Star",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189874.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279192",
-        "channel": "UK 5 USA",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391253.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278829",
-        "channel": "UK ABP News",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189878.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278834",
-        "channel": "UK AL JAZEERA HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189879.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279196",
-        "channel": "UK AMC",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391263.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278822",
-        "channel": "UK Aaj Tak",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189876.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278838",
-        "channel": "UK B4U PLUS",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189888.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278848",
-        "channel": "UK BBC 1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189890.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278853",
-        "channel": "UK BBC 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189891.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278857",
-        "channel": "UK BBC 4",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189892.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278896",
-        "channel": "UK BBC CBeebies",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189915.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278860",
-        "channel": "UK BBC News HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189894.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278866",
-        "channel": "UK BBC Parliament",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189898.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278872",
-        "channel": "UK BBC Two Northern Ireland",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189900.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278876",
-        "channel": "UK BBC World News",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189903.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278880",
-        "channel": "UK BET",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189904.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278884",
-        "channel": "UK BLOOMBERG HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189906.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279184",
-        "channel": "UK BOOMERANG TV SD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391241.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278748",
-        "channel": "UK BT Sports 1 FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174235.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278750",
-        "channel": "UK BT Sports 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174237.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278756",
-        "channel": "UK BT Sports 3",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174239.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278762",
-        "channel": "UK BT Sports ESPN",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174241.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278766",
-        "channel": "UK BT Sports Extra 2 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174243.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278772",
-        "channel": "UK BT Sports Extra 3 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174244.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278776",
-        "channel": "UK BT Sports Extra 4 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174245.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278888",
-        "channel": "UK Box Nation HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189910.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279203",
-        "channel": "UK CBS DRAMA",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391272.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278900",
-        "channel": "UK CBS Justice",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189917.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278904",
-        "channel": "UK CBS Reality",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189918.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278916",
-        "channel": "UK CNBC News",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189923.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278920",
-        "channel": "UK CNN HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189924.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278892",
-        "channel": "UK Cartoonito",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189913.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278908",
-        "channel": "UK Channel 4 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189920.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278912",
-        "channel": "UK Channel 5",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189921.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279134",
-        "channel": "UK Clubland",
-        "link": "http://ky-iptv.com:80/testtest/testtest/208457.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278924",
-        "channel": "UK Colors",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189925.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278928",
-        "channel": "UK Colors Rishtey",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189926.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278932",
-        "channel": "UK Comedy Central Extra",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189928.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278936",
-        "channel": "UK Comedy Central FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189929.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278940",
-        "channel": "UK Crime \u0026 Investigation HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189930.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279169",
-        "channel": "UK DESTINATION AMERICA HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391193.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278966",
-        "channel": "UK DMAX HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189939.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278944",
-        "channel": "UK Dave HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189931.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278950",
-        "channel": "UK Discovery",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189932.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278954",
-        "channel": "UK Discovery History",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189933.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278958",
-        "channel": "UK Discovery Science",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189934.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278962",
-        "channel": "UK Discovery Turbo",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189936.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278970",
-        "channel": "UK Drama",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189940.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278974",
-        "channel": "UK E!",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189941.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279180",
-        "channel": "UK E4",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391210.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278978",
-        "channel": "UK EDEN HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189944.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279173",
-        "channel": "UK EURONEWS HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391197.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279215",
-        "channel": "UK FREESPORTS",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391307.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278982",
-        "channel": "UK Film 4 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189945.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278986",
-        "channel": "UK Fox News HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189949.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278780",
-        "channel": "UK Free Sports",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174253.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278990",
-        "channel": "UK Gold",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189951.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279221",
-        "channel": "UK HORROR CHANNEL",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391308.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278994",
-        "channel": "UK History Channel FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189954.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278998",
-        "channel": "UK Horse and Country",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189957.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279130",
-        "channel": "UK ITV 3 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/199506.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279006",
-        "channel": "UK ITVBE",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189962.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279002",
-        "channel": "UK Itv 4",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189961.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279212",
-        "channel": "UK KISS SD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391299.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279010",
-        "channel": "UK LFC TV",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189963.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279014",
-        "channel": "UK MTV Classic",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189970.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279018",
-        "channel": "UK MTV FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189973.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279020",
-        "channel": "UK MTV Hits HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189974.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279024",
-        "channel": "UK MTV Music",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189975.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279044",
-        "channel": "UK NICK TOONS",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189983.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279030",
-        "channel": "UK Nat Geo",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189979.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279034",
-        "channel": "UK Nick Junior HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189981.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279040",
-        "channel": "UK Nick Junior Too",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189982.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279188",
-        "channel": "UK POP MAX SD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391248.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278814",
-        "channel": "UK Paramount",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189873.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279052",
-        "channel": "UK QUEST +1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189987.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279056",
-        "channel": "UK Quest Red HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189988.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279176",
-        "channel": "UK RT NEWS HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391198.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279067",
-        "channel": "UK RTE News Now",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189995.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279074",
-        "channel": "UK S4C",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189997.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279078",
-        "channel": "UK SKY One",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189999.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279096",
-        "channel": "UK STV HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190011.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279153",
-        "channel": "UK Sky Cinema Action \u0026 Adventure",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228291.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279149",
-        "channel": "UK Sky Cinema Comedy",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228290.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279145",
-        "channel": "UK Sky Cinema Greats",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228287.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279138",
-        "channel": "UK Sky Cinema Premiere",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228272.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279141",
-        "channel": "UK Sky Cinema Thriller",
-        "link": "http://ky-iptv.com:80/testtest/testtest/228284.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279083",
-        "channel": "UK Sky News",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190003.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278786",
-        "channel": "UK Sky Sports Action",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174254.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278790",
-        "channel": "UK Sky Sports Arena",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174256.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278794",
-        "channel": "UK Sky Sports F1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174259.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278798",
-        "channel": "UK Sky Sports Football",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174261.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278803",
-        "channel": "UK Sky Sports Main Events",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174265.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279060",
-        "channel": "UK Sky Sports Racing",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189989.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279087",
-        "channel": "UK Star Bharat",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190008.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279091",
-        "channel": "UK Star Gold",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190009.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279200",
-        "channel": "UK TCM Movies+1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391264.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279104",
-        "channel": "UK TG4",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190015.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279108",
-        "channel": "UK TLC",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190017.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279100",
-        "channel": "UK Talking Pictures HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190013.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279112",
-        "channel": "UK Travel Channel",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190018.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279116",
-        "channel": "UK Watch",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190027.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279120",
-        "channel": "UK Yesterday HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190028.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278806",
-        "channel": "UK Zee Cinema",
-        "link": "http://ky-iptv.com:80/testtest/testtest/175781.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279124",
-        "channel": "UK Zing",
-        "link": "http://ky-iptv.com:80/testtest/testtest/190030.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2278841",
-        "channel": "UK baby tv",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189889.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279165",
-        "channel": "VIRGIN MEDIA ONE SD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391164.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom"
-        ]
-    },
-    {
-        "id": "2279063",
-        "channel": "RTE 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189992.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279071",
-        "channel": "RTE One",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189996.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279161",
-        "channel": "RTE TWO FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391161.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279048",
-        "channel": "POP Channel",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189986.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279207",
-        "channel": "MTV 80s",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391284.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279157",
-        "channel": "IRE RTE NEWS FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391158.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278786",
-        "channel": "UK Sky Sports Action",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174254.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278790",
-        "channel": "UK Sky Sports Arena",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174256.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279583",
-        "channel": "UK Sky Sports Cricket",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174257.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2278794",
-        "channel": "UK Sky Sports F1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174259.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278798",
-        "channel": "UK Sky Sports Football",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174261.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279587",
-        "channel": "UK Sky Sports MIX",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174267.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2278803",
-        "channel": "UK Sky Sports Main Events",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174265.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279509",
-        "channel": "UK Sky Sports NFL FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1400413.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279575",
-        "channel": "UK Sky Sports News HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174269.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279060",
-        "channel": "UK Sky Sports Racing",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189989.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279449",
-        "channel": "UK SkySports F1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1196396.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279513",
-        "channel": "UK Sporty Stuff FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1400414.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279463",
-        "channel": "Astro SuperSport 1 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1391035.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279467",
-        "channel": "Astro SuperSport 2 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1391036.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279471",
-        "channel": "Astro SuperSport 3 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1391037.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279474",
-        "channel": "Astro SuperSport 4 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1391038.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2280157",
-        "channel": "BT SPORT 1 FHD -UK",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134130?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280167",
-        "channel": "BT SPORT 1 HD - UK",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134133?checkedby:iptvcat.com",
+        "id": "2283061",
+        "channel": "BT Sport 1 SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/36225?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283200",
+        "channel": "BT Sport 2 SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18190?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283216",
+        "channel": "BT Sport 3 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18208?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283219",
+        "channel": "BT Sport 3 SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/41228?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283373",
+        "channel": "BT Sport ESPN HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18186?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283283",
+        "channel": "BT Sport Extra 2",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22679?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283369",
+        "channel": "BT Sport Extra 4",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22682?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282784",
+        "channel": "Sky Sports Premier League HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18160?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282802",
+        "channel": "Sky Sports Premier league SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/50401?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283817",
+        "channel": "EIR Sport 1 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20443?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2280160",
-        "channel": "BT SPORT 2 - UK",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134131?checkedby:iptvcat.com",
+        "id": "2282847",
+        "channel": "Sky Sports Action HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18158?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3494,372 +168,13 @@
         ]
     },
     {
-        "id": "2280164",
-        "channel": "BT SPORT 3 FHD - UK",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134132?checkedby:iptvcat.com",
+        "id": "2282860",
+        "channel": "Sky Sports Action SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54867?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279244",
-        "channel": "IR Eir SPORTS 1 FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391447.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279598",
-        "channel": "SKY SPORTS BOX OFFICE",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1688561.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279497",
-        "channel": "UK BT SPORTS EXTRA 5 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1400409.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279501",
-        "channel": "UK BT SPORTS EXTRA 6 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1400410.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278748",
-        "channel": "UK BT Sports 1 FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174235.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278750",
-        "channel": "UK BT Sports 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174237.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278756",
-        "channel": "UK BT Sports 3",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174239.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278762",
-        "channel": "UK BT Sports ESPN",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174241.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279321",
-        "channel": "UK BT Sports ESPN 1 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/515737.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279329",
-        "channel": "UK BT Sports Extra 1 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174242.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278766",
-        "channel": "UK BT Sports Extra 2 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174243.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278772",
-        "channel": "UK BT Sports Extra 3 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174244.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278776",
-        "channel": "UK BT Sports Extra 4 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174245.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279215",
-        "channel": "UK FREESPORTS",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391307.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278780",
-        "channel": "UK Free Sports",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174253.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279616",
-        "channel": "UK PREMIER SPORTS 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391420.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279603",
-        "channel": "UK Premier Sports 1 FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/229003.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279565",
-        "channel": "UK SKY SPORTS GOLF HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391434.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279463",
-        "channel": "Astro SuperSport 1 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1391035.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279467",
-        "channel": "Astro SuperSport 2 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1391036.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279471",
-        "channel": "Astro SuperSport 3 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1391037.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2279474",
-        "channel": "Astro SuperSport 4 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1391038.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2280157",
-        "channel": "BT SPORT 1 FHD -UK",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134130?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2280167",
-        "channel": "BT SPORT 1 HD - UK",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134133?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2280160",
-        "channel": "BT SPORT 2 - UK",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134131?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -3867,452 +182,465 @@
         ]
     },
     {
-        "id": "2280164",
-        "channel": "BT SPORT 3 FHD - UK",
-        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134132?checkedby:iptvcat.com",
+        "id": "2282867",
+        "channel": "Sky Sports Arena HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20445?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2283811",
+        "channel": "Sky Sports Box Office HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/32382?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282813",
+        "channel": "Sky Sports Cricket HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18162?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282815",
+        "channel": "Sky Sports Cricket SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54487?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282840",
+        "channel": "Sky Sports F1 SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54866?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282808",
+        "channel": "Sky Sports Football HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20444?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282834",
+        "channel": "Sky Sports Golf SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54864?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282771",
+        "channel": "Sky Sports Main Event HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18161?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282952",
+        "channel": "Sky Sports Mix HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20239?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282943",
+        "channel": "Sky Sports News HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18213?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2283042",
+        "channel": "BT Sport 1 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18191?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13873",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279244",
-        "channel": "IR Eir SPORTS 1 FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391447.ts?checkedby:iptvcat.com",
+        "id": "2283061",
+        "channel": "BT Sport 1 SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/36225?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "13873",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279598",
-        "channel": "SKY SPORTS BOX OFFICE",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1688561.ts?checkedby:iptvcat.com",
+        "id": "2283200",
+        "channel": "BT Sport 2 SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18190?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279497",
-        "channel": "UK BT SPORTS EXTRA 5 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1400409.ts?checkedby:iptvcat.com",
+        "id": "2283216",
+        "channel": "BT Sport 3 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18208?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2279501",
-        "channel": "UK BT SPORTS EXTRA 6 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1400410.ts?checkedby:iptvcat.com",
+        "id": "2283219",
+        "channel": "BT Sport 3 SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/41228?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2278748",
-        "channel": "UK BT Sports 1 FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174235.ts?checkedby:iptvcat.com",
+        "id": "2283373",
+        "channel": "BT Sport ESPN HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18186?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "united_kingdom",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2278750",
-        "channel": "UK BT Sports 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174237.ts?checkedby:iptvcat.com",
+        "id": "2283283",
+        "channel": "BT Sport Extra 2",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22679?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2278756",
-        "channel": "UK BT Sports 3",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174239.ts?checkedby:iptvcat.com",
+        "id": "2283369",
+        "channel": "BT Sport Extra 4",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22682?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2278762",
-        "channel": "UK BT Sports ESPN",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174241.ts?checkedby:iptvcat.com",
+        "id": "2283817",
+        "channel": "EIR Sport 1 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20443?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279321",
-        "channel": "UK BT Sports ESPN 1 HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/515737.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279329",
-        "channel": "UK BT Sports Extra 1 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174242.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278766",
-        "channel": "UK BT Sports Extra 2 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174243.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278772",
-        "channel": "UK BT Sports Extra 3 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174244.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278776",
-        "channel": "UK BT Sports Extra 4 (live match only)",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174245.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279215",
-        "channel": "UK FREESPORTS",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391307.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278780",
-        "channel": "UK Free Sports",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174253.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279616",
-        "channel": "UK PREMIER SPORTS 2",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391420.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279603",
-        "channel": "UK Premier Sports 1 FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/229003.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2279565",
-        "channel": "UK SKY SPORTS GOLF HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/391434.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2278786",
-        "channel": "UK Sky Sports Action",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174254.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278790",
-        "channel": "UK Sky Sports Arena",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174256.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279583",
-        "channel": "UK Sky Sports Cricket",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174257.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2278794",
-        "channel": "UK Sky Sports F1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174259.ts?checkedby:iptvcat.com",
+        "id": "2282847",
+        "channel": "Sky Sports Action HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18158?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2278798",
-        "channel": "UK Sky Sports Football",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174261.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279587",
-        "channel": "UK Sky Sports MIX",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174267.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2278803",
-        "channel": "UK Sky Sports Main Events",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174265.ts?checkedby:iptvcat.com",
+        "id": "2282860",
+        "channel": "Sky Sports Action SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54867?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279509",
-        "channel": "UK Sky Sports NFL FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1400413.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2279575",
-        "channel": "UK Sky Sports News HD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/174269.ts?checkedby:iptvcat.com",
+        "id": "2282867",
+        "channel": "Sky Sports Arena HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20445?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2279060",
-        "channel": "UK Sky Sports Racing",
-        "link": "http://ky-iptv.com:80/testtest/testtest/189989.ts?checkedby:iptvcat.com",
+        "id": "2283811",
+        "channel": "Sky Sports Box Office HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/32382?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "united_kingdom_-_-_-_-_-_-_-",
-            "sport"
-        ]
-    },
-    {
-        "id": "2279449",
-        "channel": "UK SkySports F1",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1196396.ts?checkedby:iptvcat.com",
-        "country": "united kingdom",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2279513",
-        "channel": "UK Sporty Stuff FHD",
-        "link": "http://ky-iptv.com:80/testtest/testtest/1400414.ts?checkedby:iptvcat.com",
+        "id": "2282813",
+        "channel": "Sky Sports Cricket HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18162?checkedby:iptvcat.com",
         "country": "united kingdom",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
             "sport"
+        ]
+    },
+    {
+        "id": "2282815",
+        "channel": "Sky Sports Cricket SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54487?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282840",
+        "channel": "Sky Sports F1 SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54866?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282808",
+        "channel": "Sky Sports Football HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20444?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282834",
+        "channel": "Sky Sports Golf SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/54864?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282771",
+        "channel": "Sky Sports Main Event HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18161?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282952",
+        "channel": "Sky Sports Mix HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20239?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "1796",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282943",
+        "channel": "Sky Sports News HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18213?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2282784",
+        "channel": "Sky Sports Premier League HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/18160?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2282802",
+        "channel": "Sky Sports Premier league SD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/50401?checkedby:iptvcat.com",
+        "country": "united kingdom",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

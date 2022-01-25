@@ -1,240 +1,226 @@
 [
     {
-        "id": "2280466",
-        "channel": "HD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/101?checkedby:iptvcat.com",
+        "id": "2286640",
+        "channel": "SPORT TV 2 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17499?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280472",
-        "channel": "HD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/105?checkedby:iptvcat.com",
+        "id": "2286643",
+        "channel": "SPORT TV 3 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17498?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280478",
-        "channel": "HD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/107?checkedby:iptvcat.com",
+        "id": "2286680",
+        "channel": "SPORT TV 4 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17497?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2286753",
+        "channel": "SPORT TV 5 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17496?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2286631",
+        "channel": "Sport TV 1 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17543?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280484",
-        "channel": "HD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/109?checkedby:iptvcat.com",
+        "id": "2286633",
+        "channel": "Sport TV 2",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17542?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280490",
-        "channel": "HD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/111?checkedby:iptvcat.com",
+        "id": "2286641",
+        "channel": "Sport TV 3",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17541?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280494",
-        "channel": "HD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/3841?checkedby:iptvcat.com",
+        "id": "2285868",
+        "channel": "Kombat Sport",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17516?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2287950",
+        "channel": "Kombat Sport",
+        "link": "http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58454?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2286640",
+        "channel": "SPORT TV 2 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17499?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280496",
-        "channel": "HD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/119?checkedby:iptvcat.com",
+        "id": "2286643",
+        "channel": "SPORT TV 3 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17498?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280470",
-        "channel": "SD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/103?checkedby:iptvcat.com",
+        "id": "2286680",
+        "channel": "SPORT TV 4 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17497?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2280476",
-        "channel": "SD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/106?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280482",
-        "channel": "SD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/108?checkedby:iptvcat.com",
+        "id": "2286753",
+        "channel": "SPORT TV 5 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17496?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280486",
-        "channel": "SD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/110?checkedby:iptvcat.com",
+        "id": "2286631",
+        "channel": "Sport TV 1 HD",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17543?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2280492",
-        "channel": "SD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/112?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2280498",
-        "channel": "SD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/121?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280456",
-        "channel": "SPORT TV + HD",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/95?checkedby:iptvcat.com",
+        "id": "2286633",
+        "channel": "Sport TV 2",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17542?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2280468",
-        "channel": "SPORT TV 1 HD EXTRA",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/252?checkedby:iptvcat.com",
+        "id": "2286641",
+        "channel": "Sport TV 3",
+        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17541?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2280474",
-        "channel": "SPORT TV 2 HD EXTRA",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/753?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2280480",
-        "channel": "SPORT TV 3 HD EXTRA",
-        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/754?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

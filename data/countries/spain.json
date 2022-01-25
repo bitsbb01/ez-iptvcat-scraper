@@ -1,226 +1,30 @@
 [
     {
-        "id": "2278830",
-        "channel": "24 HORAS ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116192?checkedby:iptvcat.com",
+        "id": "2283306",
+        "channel": "Movistar GOLF HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71686?checkedby:iptvcat.com",
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278844",
-        "channel": "ANTENA 3 FHD ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116193?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279126",
-        "channel": "TELECINCO",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116198?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2278830",
-        "channel": "24 HORAS ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116192?checkedby:iptvcat.com",
+        "id": "2283306",
+        "channel": "Movistar GOLF HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71686?checkedby:iptvcat.com",
         "country": "spain",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278844",
-        "channel": "ANTENA 3 FHD ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116193?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279126",
-        "channel": "TELECINCO",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116198?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-25T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278784",
-        "channel": "LA 1 ES",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116189?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278752",
-        "channel": "LA 1 FHD ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116188?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278799",
-        "channel": "LA 2 FHD ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116190?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278824",
-        "channel": "LA 2 ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116191?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279028",
-        "channel": "CUATRO",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116196?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278784",
-        "channel": "LA 1 ES",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116189?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278752",
-        "channel": "LA 1 FHD ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116188?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278799",
-        "channel": "LA 2 FHD ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116190?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2278824",
-        "channel": "LA 2 ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116191?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2279132",
-        "channel": "LA SEXTA FHD ©",
-        "link": "http://11121314.org:8000/Exchange/Vjkfdbbnfdd/116199?checkedby:iptvcat.com",
-        "country": "spain",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "spain_-_-_-_-_-_-_-_-_-"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

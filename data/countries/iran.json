@@ -1,0 +1,44 @@
+[
+    {
+        "id": "2283928",
+        "channel": "IRIB 3 Tv FOOTBALL EVENT FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/174005?checkedby:iptvcat.com",
+        "country": "iran",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283931",
+        "channel": "IRIB Varzesh FOOTBALL EVENT FHD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/174007?checkedby:iptvcat.com",
+        "country": "iran",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "22116",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2283915",
+        "channel": "Varzish Sport HD",
+        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/178481?checkedby:iptvcat.com",
+        "country": "iran",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-25T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    }
+]
