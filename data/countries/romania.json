@@ -1,366 +1,198 @@
 [
     {
-        "id": "2285599",
-        "channel": "Digi Sport 1",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/26030?checkedby:iptvcat.com",
+        "id": "2296562",
+        "channel": "DIGI SPORT 1",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133111.ts?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286733",
-        "channel": "Digi Sport 1 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33423?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286725",
-        "channel": "Digi Sport 2 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33424?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286729",
-        "channel": "Digi Sport 3",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33425?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2285893",
-        "channel": "Digi Sport 4",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/26027?checkedby:iptvcat.com",
+        "id": "2296620",
+        "channel": "DIGI SPORT 4",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133114.ts?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2286737",
-        "channel": "Digi Sport 4",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33426?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286944",
-        "channel": "Extreme Sport",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/145782?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286774",
-        "channel": "Look Sport 2",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/21090?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286768",
-        "channel": "Look Sport HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/175313?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286741",
-        "channel": "Telekom sport 1 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33429?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3179",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286744",
-        "channel": "Telekom sport 2",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33430?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286751",
-        "channel": "Telekom sport 3",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33431?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286758",
-        "channel": "Telekom sport 4",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33432?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2285599",
-        "channel": "Digi Sport 1",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/26030?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286733",
-        "channel": "Digi Sport 1 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33423?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286725",
+        "id": "2293577",
         "channel": "Digi Sport 2 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33424?checkedby:iptvcat.com",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18037?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2286729",
+        "id": "2293579",
         "channel": "Digi Sport 3",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33425?checkedby:iptvcat.com",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18038?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2285893",
+        "id": "2293585",
         "channel": "Digi Sport 4",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/26027?checkedby:iptvcat.com",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18039?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2286737",
-        "channel": "Digi Sport 4",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33426?checkedby:iptvcat.com",
+        "id": "2296494",
+        "channel": "EXTREME SPORT",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133106.ts?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2286944",
-        "channel": "Extreme Sport",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/145782?checkedby:iptvcat.com",
+        "id": "2296516",
+        "channel": "TELEKOM SPORT 1",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133109.ts?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2296562",
+        "channel": "DIGI SPORT 1",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133111.ts?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2296620",
+        "channel": "DIGI SPORT 4",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133114.ts?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2286774",
-        "channel": "Look Sport 2",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/21090?checkedby:iptvcat.com",
+        "id": "2293577",
+        "channel": "Digi Sport 2 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18037?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286768",
-        "channel": "Look Sport HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/175313?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286741",
-        "channel": "Telekom sport 1 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33429?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3179",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286744",
-        "channel": "Telekom sport 2",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33430?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2286751",
-        "channel": "Telekom sport 3",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33431?checkedby:iptvcat.com",
+        "id": "2293579",
+        "channel": "Digi Sport 3",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18038?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2286758",
-        "channel": "Telekom sport 4",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33432?checkedby:iptvcat.com",
+        "id": "2293585",
+        "channel": "Digi Sport 4",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18039?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
+        ]
+    },
+    {
+        "id": "2296494",
+        "channel": "EXTREME SPORT",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133106.ts?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2296516",
+        "channel": "TELEKOM SPORT 1",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133109.ts?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
         ]
     }
 ]

@@ -1,30 +1,2573 @@
 [
     {
-        "id": "2278746",
-        "channel": "TV3+ HD",
-        "link": "http://179770802190242983.nicebig.xyz:80/v21003/3009229/242983?checkedby:iptvcat.com",
+        "id": "2293021",
+        "channel": "Disney Junior",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/107850?checkedby:iptvcat.com",
         "country": "scandinavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292986",
+        "channel": "H2 HD (MultiSubs)",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25049?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292982",
+        "channel": "History HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25048?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294363",
+        "channel": "History HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132967.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294329",
+        "channel": "Horse \u0026 Country TV",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132966.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292992",
+        "channel": "Investigation Discovery",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25140?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294635",
+        "channel": "Investigation Discovery Sweden",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132977.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294215",
+        "channel": "Kanal 10",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132963.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292949",
+        "channel": "Kanal 11 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25156?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294043",
+        "channel": "Kanal 11 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132957.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292921",
+        "channel": "Kanal 5 FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25077?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292917",
+        "channel": "Kanal 5 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25076?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292936",
+        "channel": "Kanal 9 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25159?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3079",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293093",
+        "channel": "C More Live",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25101?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293100",
+        "channel": "C More Live 2",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25098?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293107",
+        "channel": "C More Live 3",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25097?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293112",
+        "channel": "C More Live 4 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25096?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293123",
+        "channel": "C More Stars HD (MultiSubs)",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25124?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294789",
+        "channel": "C more Stars HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132991.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294629",
+        "channel": "Discovery Channel",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132975.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292973",
+        "channel": "Discovery Channel HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25143?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292969",
+        "channel": "Discovery Channel Nordic",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25144?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294625",
+        "channel": "Discovery Science",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132974.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294679",
+        "channel": "Disney Channel",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132980.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293021",
+        "channel": "Disney Junior",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/107850?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292986",
+        "channel": "H2 HD (MultiSubs)",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25049?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292982",
+        "channel": "History HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25048?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294363",
+        "channel": "History HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132967.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294329",
+        "channel": "Horse \u0026 Country TV",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132966.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292992",
+        "channel": "Investigation Discovery",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25140?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294635",
+        "channel": "Investigation Discovery Sweden",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132977.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294215",
+        "channel": "Kanal 10",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132963.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292949",
+        "channel": "Kanal 11 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25156?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294043",
+        "channel": "Kanal 11 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132957.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292921",
+        "channel": "Kanal 5 FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25077?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292917",
+        "channel": "Kanal 5 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25076?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292936",
+        "channel": "Kanal 9 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25159?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3079",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293017",
+        "channel": "Kunskapskanalen",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25137?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292996",
+        "channel": "National Geographic",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25136?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293038",
+        "channel": "Nick Jr",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25147?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293028",
+        "channel": "Nickelodeon",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25145?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294732",
+        "channel": "Nickelodeon",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132985.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294711",
+        "channel": "Nicktoons",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132983.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293154",
+        "channel": "SF Kanalen",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25119?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293162",
+        "channel": "SVT 1 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/55991?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292905",
+        "channel": "SVT 2 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25164?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293177",
+        "channel": "SVT 2 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/55000?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293766",
+        "channel": "SVT 24/B HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132945.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "7114",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293014",
+        "channel": "SVT Barnkanalen",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/55726?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292900",
+        "channel": "SVT1 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25166?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292897",
+        "channel": "SVT24",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25163?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293184",
+        "channel": "SVTB/SVT24 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/54999?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292928",
+        "channel": "Sjuan",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25161?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293954",
+        "channel": "Sjuan",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132953.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293069",
+        "channel": "Sportkanalen HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/71940?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2292956",
+        "channel": "TLC HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25133?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294019",
+        "channel": "TV 10 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132956.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293653",
+        "channel": "TV 12 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/54996?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293321",
+        "channel": "TV 4 GULD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/54993?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293951",
+        "channel": "TV 6 Sweden",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132952.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293583",
+        "channel": "TV 8 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/54992?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292945",
+        "channel": "TV10",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25157?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292908",
+        "channel": "TV3 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25043?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293065",
+        "channel": "TV3 Sport",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25041?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293882",
+        "channel": "TV4 FAKTA",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132948.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1671",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293010",
+        "channel": "TV4 Fakta",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25065?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293885",
+        "channel": "TV4 Film",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132949.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293157",
+        "channel": "TV4 Guld",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/110155?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292913",
+        "channel": "TV4 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25060?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292925",
+        "channel": "TV6 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25036?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292931",
+        "channel": "TV8",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25035?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293002",
+        "channel": "Viasat Explore",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25131?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294930",
+        "channel": "Viasat Family",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132996.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293135",
+        "channel": "Viasat Film Action",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25117?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293132",
+        "channel": "Viasat Film Action HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25116?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293146",
+        "channel": "Viasat Film Family",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25089?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293137",
+        "channel": "Viasat Film Hits HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25067?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293140",
+        "channel": "Viasat Film Premiere",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25115?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294853",
+        "channel": "Viasat Film Premiere",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132994.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293046",
+        "channel": "Viasat Fotboll HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25032?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293059",
+        "channel": "Viasat Hockey",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25087?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294617",
+        "channel": "Viasat Nature",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132973.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293150",
+        "channel": "Viasat Series",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25086?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293053",
+        "channel": "Viasat Sport Premium HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25085?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293610",
+        "channel": "National Geographic FHD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146655?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293611",
+        "channel": "National Geographic Wild FHD [Multi-Sub]",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146656?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293670",
+        "channel": "TV NORGE HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147539.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293183",
+        "channel": "TV Norge HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146646?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293680",
+        "channel": "TV Visjon HD Norge",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147540.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293158",
+        "channel": "TV2 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146645?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294075",
+        "channel": "TV2 NORGE HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147556.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293658",
+        "channel": "TV2 Nyhetskanalen HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146663?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294129",
+        "channel": "TV2 ZEBRA HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147558.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293373",
+        "channel": "VOX FHD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146650?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294003",
+        "channel": "VOX HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147552.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292962",
+        "channel": "ATG Live HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/102329?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294633",
+        "channel": "Animal Planet",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132976.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292965",
+        "channel": "Animal Planet HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25055?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294521",
+        "channel": "BBC Earth HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132970.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293006",
+        "channel": "BBC Earth HD (MultiSubs)",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25139?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294122",
+        "channel": "Bloomberg",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132960.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1671",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293033",
+        "channel": "Boomerang",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25152?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293118",
+        "channel": "C More First HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25122?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293085",
+        "channel": "C More Fotboll HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25103?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293128",
+        "channel": "C More Hits HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25120?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294773",
+        "channel": "C More Hits HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132989.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293079",
+        "channel": "C More Hockey HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25109?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293093",
+        "channel": "C More Live",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25101?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293100",
+        "channel": "C More Live 2",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25098?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293107",
+        "channel": "C More Live 3",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25097?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293112",
+        "channel": "C More Live 4 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25096?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293123",
+        "channel": "C More Stars HD (MultiSubs)",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25124?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294789",
+        "channel": "C more Stars HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132991.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294629",
+        "channel": "Discovery Channel",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132975.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292973",
+        "channel": "Discovery Channel HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25143?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292969",
+        "channel": "Discovery Channel Nordic",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25144?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294625",
+        "channel": "Discovery Science",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132974.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2285",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294679",
+        "channel": "Disney Channel",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132980.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293017",
+        "channel": "Kunskapskanalen",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25137?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292996",
+        "channel": "National Geographic",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25136?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293038",
+        "channel": "Nick Jr",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25147?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293028",
+        "channel": "Nickelodeon",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25145?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294732",
+        "channel": "Nickelodeon",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132985.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294711",
+        "channel": "Nicktoons",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132983.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1479",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293625",
+        "channel": "Animal Planet FHD [Multi-Sub]",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146658?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "scandinavia_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2278746",
-        "channel": "TV3+ HD",
-        "link": "http://179770802190242983.nicebig.xyz:80/v21003/3009229/242983?checkedby:iptvcat.com",
+        "id": "2294597",
+        "channel": "BBC BRIT HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147571.ts?checkedby:iptvcat.com",
         "country": "scandinavia",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294758",
+        "channel": "BOOMERANG",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147584.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294557",
+        "channel": "C MORE STARS HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147569.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294037",
+        "channel": "COMEDY CENTRAL",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147554.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294663",
+        "channel": "DISCOVERY CHANNEL HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147575.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294685",
+        "channel": "DISCOVERY SCIENCE",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147576.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294687",
+        "channel": "DISCOVERY WORLD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147577.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294754",
+        "channel": "DISNEY CHANNEL",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147583.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294285",
+        "channel": "MATKANALEN",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147563.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294787",
+        "channel": "MTV HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147587.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294713",
+        "channel": "NATIONAL GEOGRAPHIC WILD HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147580.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2292942",
+        "channel": "NRK 1 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146642?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293835",
+        "channel": "NRK 1 HD (B)",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147545.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293839",
+        "channel": "NRK 2 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147546.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293610",
+        "channel": "National Geographic FHD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146655?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293611",
+        "channel": "National Geographic Wild FHD [Multi-Sub]",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146656?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293670",
+        "channel": "TV NORGE HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147539.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293183",
+        "channel": "TV Norge HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146646?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293680",
+        "channel": "TV Visjon HD Norge",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147540.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293158",
+        "channel": "TV2 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146645?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294075",
+        "channel": "TV2 NORGE HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147556.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293658",
+        "channel": "TV2 Nyhetskanalen HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146663?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294129",
+        "channel": "TV2 ZEBRA HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147558.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293373",
+        "channel": "VOX FHD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146650?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294003",
+        "channel": "VOX HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147552.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292962",
+        "channel": "ATG Live HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/102329?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294633",
+        "channel": "Animal Planet",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132976.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2292965",
+        "channel": "Animal Planet HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25055?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294521",
+        "channel": "BBC Earth HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132970.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293006",
+        "channel": "BBC Earth HD (MultiSubs)",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25139?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294122",
+        "channel": "Bloomberg",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132960.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1671",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293033",
+        "channel": "Boomerang",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25152?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293118",
+        "channel": "C More First HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25122?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293085",
+        "channel": "C More Fotboll HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25103?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293128",
+        "channel": "C More Hits HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25120?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2294773",
+        "channel": "C More Hits HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/132989.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293079",
+        "channel": "C More Hockey HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25109?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "scandinavia"
+        ]
+    },
+    {
+        "id": "2293625",
+        "channel": "Animal Planet FHD [Multi-Sub]",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146658?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
             "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294597",
+        "channel": "BBC BRIT HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147571.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294758",
+        "channel": "BOOMERANG",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147584.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294557",
+        "channel": "C MORE STARS HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147569.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294037",
+        "channel": "COMEDY CENTRAL",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147554.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294663",
+        "channel": "DISCOVERY CHANNEL HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147575.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294685",
+        "channel": "DISCOVERY SCIENCE",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147576.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294687",
+        "channel": "DISCOVERY WORLD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147577.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294754",
+        "channel": "DISNEY CHANNEL",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147583.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294285",
+        "channel": "MATKANALEN",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147563.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294787",
+        "channel": "MTV HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147587.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2294713",
+        "channel": "NATIONAL GEOGRAPHIC WILD HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147580.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2292942",
+        "channel": "NRK 1 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/146642?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293835",
+        "channel": "NRK 1 HD (B)",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147545.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293839",
+        "channel": "NRK 2 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/147546.ts?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "scandinavia_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293069",
+        "channel": "Sportkanalen HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/71940?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293065",
+        "channel": "TV3 Sport",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25041?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293053",
+        "channel": "Viasat Sport Premium HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25085?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293069",
+        "channel": "Sportkanalen HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/71940?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293065",
+        "channel": "TV3 Sport",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25041?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2883",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2293053",
+        "channel": "Viasat Sport Premium HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/25085?checkedby:iptvcat.com",
+        "country": "scandinavia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "scandinavia",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

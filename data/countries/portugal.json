@@ -1,12 +1,26 @@
 [
     {
-        "id": "2286640",
-        "channel": "SPORT TV 2 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17499?checkedby:iptvcat.com",
+        "id": "2295254",
+        "channel": "Eleven Sport 5",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/71097?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2295258",
+        "channel": "Eleven Sport 6",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/71098?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -14,13 +28,13 @@
         ]
     },
     {
-        "id": "2286643",
-        "channel": "SPORT TV 3 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17498?checkedby:iptvcat.com",
+        "id": "2297125",
+        "channel": "Eleven Sports 1 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46827.ts?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -28,13 +42,13 @@
         ]
     },
     {
-        "id": "2286680",
-        "channel": "SPORT TV 4 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17497?checkedby:iptvcat.com",
+        "id": "2297171",
+        "channel": "Eleven Sports 3 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46829.ts?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -42,111 +56,55 @@
         ]
     },
     {
-        "id": "2286753",
-        "channel": "SPORT TV 5 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17496?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286631",
-        "channel": "Sport TV 1 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17543?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286633",
-        "channel": "Sport TV 2",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17542?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286641",
-        "channel": "Sport TV 3",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17541?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2285868",
+        "id": "2297217",
         "channel": "Kombat Sport",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17516?checkedby:iptvcat.com",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46840.ts?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2287950",
-        "channel": "Kombat Sport",
-        "link": "http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58454?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "13324",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2286640",
-        "channel": "SPORT TV 2 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17499?checkedby:iptvcat.com",
+        "id": "2295220",
+        "channel": "MOTORSPORT.TV",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/23757?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2286643",
+        "id": "2297078",
+        "channel": "SPORT TV + HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46821.ts?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2297106",
         "channel": "SPORT TV 3 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17498?checkedby:iptvcat.com",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46824.ts?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -154,41 +112,55 @@
         ]
     },
     {
-        "id": "2286680",
+        "id": "2297114",
         "channel": "SPORT TV 4 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17497?checkedby:iptvcat.com",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46825.ts?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2286753",
-        "channel": "SPORT TV 5 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17496?checkedby:iptvcat.com",
+        "id": "2295232",
+        "channel": "SPORT TV NBA HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/23759?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2286631",
-        "channel": "Sport TV 1 HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17543?checkedby:iptvcat.com",
+        "id": "2295254",
+        "channel": "Eleven Sport 5",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/71097?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2295258",
+        "channel": "Eleven Sport 6",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/71098?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -196,13 +168,13 @@
         ]
     },
     {
-        "id": "2286633",
-        "channel": "Sport TV 2",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17542?checkedby:iptvcat.com",
+        "id": "2297125",
+        "channel": "Eleven Sports 1 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46827.ts?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -210,15 +182,99 @@
         ]
     },
     {
-        "id": "2286641",
-        "channel": "Sport TV 3",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/17541?checkedby:iptvcat.com",
+        "id": "2297171",
+        "channel": "Eleven Sports 3 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46829.ts?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2297217",
+        "channel": "Kombat Sport",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46840.ts?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2295220",
+        "channel": "MOTORSPORT.TV",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/23757?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2297078",
+        "channel": "SPORT TV + HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46821.ts?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2297106",
+        "channel": "SPORT TV 3 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46824.ts?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2297114",
+        "channel": "SPORT TV 4 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/46825.ts?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2295232",
+        "channel": "SPORT TV NBA HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/23759?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "hd",
-        "mbps": "9905",
+        "mbps": "5020",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]

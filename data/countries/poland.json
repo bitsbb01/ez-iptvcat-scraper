@@ -1,12 +1,12 @@
 [
     {
-        "id": "2286686",
-        "channel": "CANAL+ SPORT 3 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/111271?checkedby:iptvcat.com",
+        "id": "2298431",
+        "channel": "Eleven Sports 2 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133702.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -14,13 +14,13 @@
         ]
     },
     {
-        "id": "2286690",
-        "channel": "CANAL+ SPORT 4 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/111272?checkedby:iptvcat.com",
+        "id": "2298461",
+        "channel": "Eleven Sports 4 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133704.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -28,153 +28,13 @@
         ]
     },
     {
-        "id": "2286678",
-        "channel": "Canal+ Sport 1 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71395?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286681",
-        "channel": "Canal+ Sport 2 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71394?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286739",
-        "channel": "ELEVEN SPORTS 4 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71369?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286735",
-        "channel": "ELEVEN SPORTS 4 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71368?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286719",
-        "channel": "Eleven Sports 1 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71374?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286713",
-        "channel": "Eleven Sports 1 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71373?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286723",
-        "channel": "Eleven Sports 2 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71372?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286731",
-        "channel": "Eleven Sports 3 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71371?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286727",
-        "channel": "Eleven Sports 3 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71370?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286748",
-        "channel": "Extreme Sports FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71359?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286742",
+        "id": "2298515",
         "channel": "Extreme Sports HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71358?checkedby:iptvcat.com",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133710.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -182,13 +42,13 @@
         ]
     },
     {
-        "id": "2286808",
-        "channel": "Golf Channel",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71344?checkedby:iptvcat.com",
+        "id": "2298507",
+        "channel": "Golf Channel HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133708.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -196,55 +56,13 @@
         ]
     },
     {
-        "id": "2284072",
-        "channel": "PL-Canal Sport HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20809?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2285214",
-        "channel": "PL-N sport  HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/20831?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286676",
-        "channel": "Polsat Sport Extra FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71298?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286673",
+        "id": "2298306",
         "channel": "Polsat Sport Extra HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71297?checkedby:iptvcat.com",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133688.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -252,13 +70,13 @@
         ]
     },
     {
-        "id": "2286666",
+        "id": "2298338",
         "channel": "Polsat Sport FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71294?checkedby:iptvcat.com",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133690.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -266,41 +84,13 @@
         ]
     },
     {
-        "id": "2286800",
-        "channel": "Polsat Sport Fight FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71296?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286796",
-        "channel": "Polsat Sport Fight HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71295?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286664",
+        "id": "2298342",
         "channel": "Polsat Sport HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33575?checkedby:iptvcat.com",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133691.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -308,27 +98,13 @@
         ]
     },
     {
-        "id": "2286671",
-        "channel": "Polsat Sport News FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71293?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286668",
+        "id": "2298297",
         "channel": "Polsat Sport News HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33576?checkedby:iptvcat.com",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133687.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -336,13 +112,13 @@
         ]
     },
     {
-        "id": "2286756",
-        "channel": "Polsat Sport Premium 1 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71234?checkedby:iptvcat.com",
+        "id": "2298373",
+        "channel": "Polsat Sport Premium 2 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133693.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -350,13 +126,13 @@
         ]
     },
     {
-        "id": "2286760",
-        "channel": "Polsat Sport Premium 2 FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71233?checkedby:iptvcat.com",
+        "id": "2298374",
+        "channel": "Polsat Sport Premium 3 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133694.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -364,27 +140,13 @@
         ]
     },
     {
-        "id": "2286766",
-        "channel": "Polsat Sport Premium PPV 3",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71232?checkedby:iptvcat.com",
+        "id": "2298511",
+        "channel": "Sportklub HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133709.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2286770",
-        "channel": "Polsat Sport Premium PPV 4",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71231?checkedby:iptvcat.com",
-        "country": "poland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -392,13 +154,13 @@
         ]
     },
     {
-        "id": "2286776",
-        "channel": "Polsat Sport Premium PPV 5",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71230?checkedby:iptvcat.com",
+        "id": "2298376",
+        "channel": "nsport+  HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133695.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -406,13 +168,13 @@
         ]
     },
     {
-        "id": "2286780",
-        "channel": "Polsat Sport Premium PPV 6",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71229?checkedby:iptvcat.com",
+        "id": "2298382",
+        "channel": "CANAL+ SPORT 2 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133697.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -420,13 +182,13 @@
         ]
     },
     {
-        "id": "2286699",
-        "channel": "Sport klub FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71284?checkedby:iptvcat.com",
+        "id": "2298385",
+        "channel": "CANAL+ SPORT 4 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133699.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -434,13 +196,13 @@
         ]
     },
     {
-        "id": "2286709",
-        "channel": "TVP Sport FHD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71254?checkedby:iptvcat.com",
+        "id": "2298379",
+        "channel": "CANAL+ SPORT HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133696.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -448,27 +210,167 @@
         ]
     },
     {
-        "id": "2286703",
-        "channel": "TVP Sport HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71253?checkedby:iptvcat.com",
+        "id": "2298431",
+        "channel": "Eleven Sports 2 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133702.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2286694",
-        "channel": "nSport+",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/71236?checkedby:iptvcat.com",
+        "id": "2298461",
+        "channel": "Eleven Sports 4 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133704.ts?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298515",
+        "channel": "Extreme Sports HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133710.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298507",
+        "channel": "Golf Channel HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133708.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298306",
+        "channel": "Polsat Sport Extra HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133688.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298338",
+        "channel": "Polsat Sport FHD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133690.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298342",
+        "channel": "Polsat Sport HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133691.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298297",
+        "channel": "Polsat Sport News HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133687.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298373",
+        "channel": "Polsat Sport Premium 2 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133693.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298374",
+        "channel": "Polsat Sport Premium 3 HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133694.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298511",
+        "channel": "Sportklub HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133709.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298376",
+        "channel": "nsport+  HD",
+        "link": "http://hellenic.live:8080/Hlias/Hlias1/133695.ts?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [

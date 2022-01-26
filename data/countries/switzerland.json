@@ -1,716 +1,142 @@
 [
     {
-        "id": "2263888",
-        "channel": "Blue Sport 1 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/59855?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263889",
-        "channel": "Blue Sport 2 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/59859?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113773",
-        "channel": "Blue Sport Event 2 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62831.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113774",
-        "channel": "Blue Sport Event 3 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62832.ts?checkedby:iptvcat.com",
+        "id": "2296883",
+        "channel": "My Sports 5 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/113592?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2113775",
-        "channel": "Blue Sport Event 4 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62833.ts?checkedby:iptvcat.com",
+        "id": "2296896",
+        "channel": "My Sports 7 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/113590?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113776",
-        "channel": "Blue Sport Event 5 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/62834.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128445",
-        "channel": "MY SPORTS 2 HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS2HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2128448",
-        "channel": "MY SPORTS 3 HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS3HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128449",
-        "channel": "MY SPORTS 4 HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS4HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128456",
-        "channel": "MY SPORTS 5 HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS5HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128457",
-        "channel": "MY SPORTS 6 HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS6HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128460",
-        "channel": "MY SPORTS 7 HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS7HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128463",
-        "channel": "MY SPORTS 8 HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS8HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128465",
-        "channel": "MY SPORTS 9 HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS9HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128443",
-        "channel": "MYSPORTS One HD",
-        "link": "http://103.194.169.171:8282/SW:MYSPORTS1HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "80",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263893",
-        "channel": "My Sport 3 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/19739?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263894",
-        "channel": "My Sport 4 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/19737?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263895",
-        "channel": "MySport 5 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/59841?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263896",
-        "channel": "MySport 6 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/59840?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263897",
-        "channel": "MySport 7 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/19770?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263898",
-        "channel": "MySport 8 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/19769?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263539",
-        "channel": "MySports 1 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5948.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263890",
-        "channel": "MySports 1 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/19767?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113754",
-        "channel": "MySports 1 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/71.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263551",
-        "channel": "MySports 2 FHD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5949.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263555",
-        "channel": "MySports 2 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5950.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263892",
-        "channel": "MySports 2 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/19746?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113755",
-        "channel": "MySports 2 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/72.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263559",
-        "channel": "MySports 3 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5951.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263563",
-        "channel": "MySports 4 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5952.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113757",
-        "channel": "MySports 4 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/74.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113758",
-        "channel": "MySports 5 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/75.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113759",
-        "channel": "MySports 6 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/76.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263611",
-        "channel": "MySports 7 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5955.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113760",
-        "channel": "MySports 7 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/77.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263615",
-        "channel": "MySports 8 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5956.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113761",
-        "channel": "MySports 8 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/78.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263621",
-        "channel": "MySports 9 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5957.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113763",
-        "channel": "MySports 9 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/79.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113756",
-        "channel": "Mysports 3 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/16799.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263867",
-        "channel": "TELECLUB SPORT 2 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5990.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263866",
-        "channel": "TeleClub Sport 1 HD",
-        "link": "http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/5989.ts?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263311",
+        "id": "2296774",
         "channel": "Teleclub Sport 1",
-        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/68621?checkedby:iptvcat.com",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/113600?checkedby:iptvcat.com",
         "country": "switzerland",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2263887",
+        "id": "2296990",
         "channel": "Teleclub Sport 1 HD",
-        "link": "http://232santral.xruistream.com:8080/Mert/Mert88/59843?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "8",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2263312",
-        "channel": "Teleclub Sport 2",
-        "link": "http://balkanshark.com:25461/speedhdhd/acjQyHovsC/68622?checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128344",
-        "channel": "blue Sport 1",
-        "link": "http://103.194.169.171:8282/SW:Teleclub_Sport_1_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2113771",
-        "channel": "blue Sport 1 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/85.ts?checkedby:iptvcat.com",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/15231?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2113777",
-        "channel": "blue Sport 1 HD (HEVC)",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10105.ts?checkedby:iptvcat.com",
+        "id": "2296992",
+        "channel": "Teleclub Sport 2 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/15233?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "2883",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2128345",
-        "channel": "blue Sport 2",
-        "link": "http://103.194.169.171:8282/SW:Teleclub_Sport_2_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c\u0026checkedby:iptvcat.com",
-        "country": "switzerland",
-        "liveliness": "85",
-        "status": "offline",
-        "lastChecked": "2022-01-19T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2113778",
-        "channel": "blue Sport 2 HD (HEVC)",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10106.ts?checkedby:iptvcat.com",
+        "id": "2296883",
+        "channel": "My Sports 5 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/113592?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2113772",
-        "channel": "blue Sport Event 1 HD",
-        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/14963.ts?checkedby:iptvcat.com",
+        "id": "2296896",
+        "channel": "My Sports 7 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/113590?checkedby:iptvcat.com",
         "country": "switzerland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
+        "lastChecked": "2022-01-26T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "2883",
+        "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2296774",
+        "channel": "Teleclub Sport 1",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/113600?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2296990",
+        "channel": "Teleclub Sport 1 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/15231?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2296992",
+        "channel": "Teleclub Sport 2 HD",
+        "link": "http://4iptv.xyz:8080/sofia/sofia/15233?checkedby:iptvcat.com",
+        "country": "switzerland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]
