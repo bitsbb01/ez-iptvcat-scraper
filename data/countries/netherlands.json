@@ -1,12 +1,12 @@
 [
     {
-        "id": "2296290",
-        "channel": "ESPN 1 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/131436.ts?checkedby:iptvcat.com",
+        "id": "2300636",
+        "channel": "Ziggo Sport Select FHD 1080",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95495?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -14,13 +14,13 @@
         ]
     },
     {
-        "id": "2296370",
-        "channel": "ESPN 3 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/131439.ts?checkedby:iptvcat.com",
+        "id": "2300637",
+        "channel": "Ziggo Sport Select HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95496?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -28,111 +28,27 @@
         ]
     },
     {
-        "id": "2296508",
+        "id": "2300986",
+        "channel": "ESPN 3 HD",
+        "link": "http://mhiptv.com:8080/hamdi/hamdi2020/3040?checkedby:iptvcat.com",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-27T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2300987",
         "channel": "ESPN 4 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/131442.ts?checkedby:iptvcat.com",
+        "link": "http://mhiptv.com:8080/hamdi/hamdi2020/3041?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2292852",
-        "channel": "Extreme Sports",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/26068?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294667",
-        "channel": "Extreme Sports Channel",
-        "link": "http://4iptv.xyz:8080/sofia/sofia/12636?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293098",
-        "channel": "Fox Sport 1",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/26097?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294203",
-        "channel": "Sport1 Voetbal",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/26102?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294375",
-        "channel": "ZIGGO SPORT Golf HD",
-        "link": "http://4iptv.xyz:8080/sofia/sofia/12627?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294358",
-        "channel": "ZIGGO SPORT Voetbal HD",
-        "link": "http://4iptv.xyz:8080/sofia/sofia/12626?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294379",
-        "channel": "Ziggo Sport Extra HD",
-        "link": "http://4iptv.xyz:8080/sofia/sofia/12628?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -140,13 +56,13 @@
         ]
     },
     {
-        "id": "2296678",
-        "channel": "Ziggo Sport Golf FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/131451.ts?checkedby:iptvcat.com",
+        "id": "2300234",
+        "channel": "FOX Sports 3 FHD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95427?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -154,55 +70,55 @@
         ]
     },
     {
-        "id": "2294325",
-        "channel": "Ziggo Sport Racing HD",
-        "link": "http://4iptv.xyz:8080/sofia/sofia/12625?checkedby:iptvcat.com",
+        "id": "2300295",
+        "channel": "Fox Sports 6",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95432?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294319",
-        "channel": "Ziggo Sport Select HD",
-        "link": "http://4iptv.xyz:8080/sofia/sofia/12624?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2296643",
-        "channel": "Ziggo Sport Select HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/131448.ts?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7986",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2296604",
-        "channel": "Ziggo Sport Voetbal FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/131445.ts?checkedby:iptvcat.com",
+        "id": "2301081",
+        "channel": "SPORT1_GOLF",
+        "link": "http://mhiptv.com:8080/hamdi/hamdi2020/3046?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2300636",
+        "channel": "Ziggo Sport Select FHD 1080",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95495?checkedby:iptvcat.com",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-27T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2300637",
+        "channel": "Ziggo Sport Select HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95496?checkedby:iptvcat.com",
+        "country": "netherlands",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [

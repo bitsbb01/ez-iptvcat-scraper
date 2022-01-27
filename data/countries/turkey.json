@@ -1,152 +1,12 @@
 [
     {
-        "id": "2295250",
-        "channel": "Bein Sport 1",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2810?checkedby:iptvcat.com",
+        "id": "2300334",
+        "channel": "EURO SPORT2 HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95957?checkedby:iptvcat.com",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295252",
-        "channel": "Bein Sport 2",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2817?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295256",
-        "channel": "Bein Sport 3",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2809?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295260",
-        "channel": "Bein Sport 4",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2808?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295399",
-        "channel": "Bein Sports 1",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/16846?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295400",
-        "channel": "Bein Sports 3",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/16847?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295338",
-        "channel": "Euro Sport 1 HD",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2770?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295342",
-        "channel": "Euro Sport 2 HD",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2772?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295412",
-        "channel": "SPORTS TV",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/16738?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2295238",
-        "channel": "Sport TV",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2752?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2295264",
-        "channel": "beIN Sports Haber",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2822?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -154,157 +14,101 @@
         ]
     },
     {
-        "id": "2295250",
-        "channel": "Bein Sport 1",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2810?checkedby:iptvcat.com",
+        "id": "2301035",
+        "channel": "S SPORT HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/96029?checkedby:iptvcat.com",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+            "sport"
         ]
     },
     {
-        "id": "2295252",
-        "channel": "Bein Sport 2",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2817?checkedby:iptvcat.com",
+        "id": "2301101",
+        "channel": "SPORTS TV  HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/96044?checkedby:iptvcat.com",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295256",
-        "channel": "Bein Sport 3",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2809?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295260",
-        "channel": "Bein Sport 4",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2808?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295399",
-        "channel": "Bein Sports 1",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/16846?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295400",
-        "channel": "Bein Sports 3",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/16847?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295338",
-        "channel": "Euro Sport 1 HD",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2770?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295342",
-        "channel": "Euro Sport 2 HD",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2772?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2295412",
-        "channel": "SPORTS TV",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/16738?checkedby:iptvcat.com",
-        "country": "turkey",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
+        "lastChecked": "2022-01-27T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2295238",
-        "channel": "Sport TV",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2752?checkedby:iptvcat.com",
+        "id": "2299595",
+        "channel": "SPORTS TV HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95894?checkedby:iptvcat.com",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-01-27T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2300334",
+        "channel": "EURO SPORT2 HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95957?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-27T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport"
         ]
     },
     {
-        "id": "2295264",
-        "channel": "beIN Sports Haber",
-        "link": "http://red.ipfox.org:8080/1234/12345678/2822?checkedby:iptvcat.com",
+        "id": "2301035",
+        "channel": "S SPORT HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/96029?checkedby:iptvcat.com",
         "country": "turkey",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-27T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
             "sport"
+        ]
+    },
+    {
+        "id": "2301101",
+        "channel": "SPORTS TV  HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/96044?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-27T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2299595",
+        "channel": "SPORTS TV HD",
+        "link": "http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95894?checkedby:iptvcat.com",
+        "country": "turkey",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-27T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]
