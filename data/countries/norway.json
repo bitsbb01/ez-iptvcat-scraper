@@ -1,30 +1,16 @@
 [
     {
-        "id": "2278760",
-        "channel": "TV2 SPORT 2 HD",
-        "link": "http://179770802190274347.nicebig.xyz:80/v21003/3009229/274347?checkedby:iptvcat.com",
+        "id": "2304591",
+        "channel": "Viasat Sport",
+        "link": "http://2022tv.co:80/george/george/160602?checkedby:iptvcat.com",
         "country": "norway",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2280172",
-        "channel": "V Sport +",
-        "link": "http://93.114.194.146:80/4560972750676384/Bl7pvsBfRK/108513?checkedby:iptvcat.com",
-        "country": "norway",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

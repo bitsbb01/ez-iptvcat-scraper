@@ -1,96 +1,40 @@
 [
     {
-        "id": "2294920",
-        "channel": "Auto Motor Sport Channel HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/33878.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294907",
-        "channel": "FC Bayern TV HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/33866.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294860",
+        "id": "2304795",
         "channel": "SKY SPORT 1",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130726.ts?checkedby:iptvcat.com",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92331?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2294858",
-        "channel": "SKY SPORT 1 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130725.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294862",
+        "id": "2304803",
         "channel": "SKY SPORT 2",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130728.ts?checkedby:iptvcat.com",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92332?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2294861",
-        "channel": "SKY SPORT 2 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130727.ts?checkedby:iptvcat.com",
+        "id": "2304815",
+        "channel": "SKY SPORT AUSTRIA",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92341?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294865",
-        "channel": "SKY SPORT 3 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130729.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -98,13 +42,13 @@
         ]
     },
     {
-        "id": "2294868",
-        "channel": "SKY SPORT 4 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130730.ts?checkedby:iptvcat.com",
+        "id": "2304823",
+        "channel": "SKY SPORT AUSTRIA 2",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92342?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -112,41 +56,13 @@
         ]
     },
     {
-        "id": "2294872",
-        "channel": "SKY SPORT 5 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130731.ts?checkedby:iptvcat.com",
+        "id": "2304834",
+        "channel": "SPORT 1",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92359?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294874",
-        "channel": "SKY SPORT 6 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130732.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294878",
-        "channel": "SKY SPORT 7 (Matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130733.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -154,13 +70,13 @@
         ]
     },
     {
-        "id": "2294880",
-        "channel": "SKY SPORT 8 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130734.ts?checkedby:iptvcat.com",
+        "id": "2304843",
+        "channel": "SPORTDIGITAL",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92358?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -168,237 +84,41 @@
         ]
     },
     {
-        "id": "2294882",
-        "channel": "SKY SPORT 9 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130735.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294884",
-        "channel": "SKY SPORT BUNDESLIGA 1 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130738.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294886",
-        "channel": "SKY SPORT BUNDESLIGA 2 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130740.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294888",
-        "channel": "SKY SPORT BUNDESLIGA 3 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130742.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294892",
-        "channel": "SKY SPORT BUNDESLIGA 4 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130744.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294896",
-        "channel": "SKY SPORT BUNDESLIGA 5 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130746.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294897",
-        "channel": "SKY SPORT BUNDESLIGA 6 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130748.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294899",
-        "channel": "SKY SPORT BUNDESLIGA 7 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130750.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294857",
-        "channel": "SKY SPORT NEWS HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130736.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294902",
-        "channel": "SKY SPORTS F1 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130752.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294920",
-        "channel": "Auto Motor Sport Channel HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/33878.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294907",
-        "channel": "FC Bayern TV HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/33866.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294860",
+        "id": "2304795",
         "channel": "SKY SPORT 1",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130726.ts?checkedby:iptvcat.com",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92331?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2294858",
-        "channel": "SKY SPORT 1 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130725.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294862",
+        "id": "2304803",
         "channel": "SKY SPORT 2",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130728.ts?checkedby:iptvcat.com",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92332?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-01-30T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2294861",
-        "channel": "SKY SPORT 2 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130727.ts?checkedby:iptvcat.com",
+        "id": "2304815",
+        "channel": "SKY SPORT AUSTRIA",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92341?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294865",
-        "channel": "SKY SPORT 3 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130729.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -406,13 +126,13 @@
         ]
     },
     {
-        "id": "2294868",
-        "channel": "SKY SPORT 4 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130730.ts?checkedby:iptvcat.com",
+        "id": "2304823",
+        "channel": "SKY SPORT AUSTRIA 2",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92342?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -420,41 +140,13 @@
         ]
     },
     {
-        "id": "2294872",
-        "channel": "SKY SPORT 5 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130731.ts?checkedby:iptvcat.com",
+        "id": "2304834",
+        "channel": "SPORT 1",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92359?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294874",
-        "channel": "SKY SPORT 6 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130732.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294878",
-        "channel": "SKY SPORT 7 (Matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130733.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -462,153 +154,13 @@
         ]
     },
     {
-        "id": "2294880",
-        "channel": "SKY SPORT 8 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130734.ts?checkedby:iptvcat.com",
+        "id": "2304843",
+        "channel": "SPORTDIGITAL",
+        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92358?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294882",
-        "channel": "SKY SPORT 9 (matchtime)",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130735.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294884",
-        "channel": "SKY SPORT BUNDESLIGA 1 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130738.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294886",
-        "channel": "SKY SPORT BUNDESLIGA 2 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130740.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294888",
-        "channel": "SKY SPORT BUNDESLIGA 3 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130742.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294892",
-        "channel": "SKY SPORT BUNDESLIGA 4 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130744.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294896",
-        "channel": "SKY SPORT BUNDESLIGA 5 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130746.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294897",
-        "channel": "SKY SPORT BUNDESLIGA 6 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130748.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294899",
-        "channel": "SKY SPORT BUNDESLIGA 7 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130750.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294857",
-        "channel": "SKY SPORT NEWS HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130736.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2294902",
-        "channel": "SKY SPORTS F1 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130752.ts?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-01-30T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
