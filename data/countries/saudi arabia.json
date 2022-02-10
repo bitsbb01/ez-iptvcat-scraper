@@ -1,0 +1,86 @@
+[
+    {
+        "id": "2346229",
+        "channel": "KSA Sports 1",
+        "link": "http://red.ipfox.org:8080/1234/12345678/33210?checkedby:iptvcat.com",
+        "country": "saudi arabia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2346230",
+        "channel": "KSA Sports 2",
+        "link": "http://red.ipfox.org:8080/1234/12345678/33211?checkedby:iptvcat.com",
+        "country": "saudi arabia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "8378",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2346231",
+        "channel": "SAUDI Sports 24",
+        "link": "http://red.ipfox.org:8080/1234/12345678/33213?checkedby:iptvcat.com",
+        "country": "saudi arabia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2346229",
+        "channel": "KSA Sports 1",
+        "link": "http://red.ipfox.org:8080/1234/12345678/33210?checkedby:iptvcat.com",
+        "country": "saudi arabia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2346230",
+        "channel": "KSA Sports 2",
+        "link": "http://red.ipfox.org:8080/1234/12345678/33211?checkedby:iptvcat.com",
+        "country": "saudi arabia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "8378",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2346231",
+        "channel": "SAUDI Sports 24",
+        "link": "http://red.ipfox.org:8080/1234/12345678/33213?checkedby:iptvcat.com",
+        "country": "saudi arabia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    }
+]

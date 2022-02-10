@@ -1,58 +1,16 @@
 [
     {
-        "id": "22286",
-        "channel": "Oman Sport, SPORT : Oman Sports, SPORT | Oman Sports",
-        "link": "http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "2346394",
+        "channel": "Oman TV Sport HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/35079?checkedby:iptvcat.com",
         "country": "oman",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
-        "mbps": "7004, ...",
+        "mbps": "5020",
         "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "25739",
-        "channel": "Oman Sport",
-        "link": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "oman",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "22286",
-        "channel": "Oman Sport, SPORT : Oman Sports, SPORT | Oman Sports",
-        "link": "http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "oman",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "25739",
-        "channel": "Oman Sport",
-        "link": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "oman",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-19T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

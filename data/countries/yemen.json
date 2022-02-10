@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2346412",
+        "channel": "Alerth Alnbawi",
+        "link": "http://red.ipfox.org:8080/1234/12345678/35106?checkedby:iptvcat.com",
+        "country": "yemen",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1500",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2346412",
+        "channel": "Alerth Alnbawi",
+        "link": "http://red.ipfox.org:8080/1234/12345678/35106?checkedby:iptvcat.com",
+        "country": "yemen",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1500",
+        "URI": [
+            "sport"
+        ]
+    }
+]

@@ -1,40 +1,12 @@
 [
     {
-        "id": "2284338",
-        "channel": "Auto Motor Sport HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33221?checkedby:iptvcat.com",
+        "id": "2347578",
+        "channel": "DIEMA_SPORT_1_HD",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/36505?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2282427",
-        "channel": "AutoMotorSport HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22447?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2282439",
-        "channel": "Diema Sport",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22442?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -42,153 +14,27 @@
         ]
     },
     {
-        "id": "2284318",
-        "channel": "Diema Sport 1",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33189?checkedby:iptvcat.com",
+        "id": "2347579",
+        "channel": "DIEMA_SPORT_2_HD",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/36504?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2282441",
+        "id": "2347221",
         "channel": "Diema Sport 2",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22441?checkedby:iptvcat.com",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/30558?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284323",
-        "channel": "Diema Sport 2",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33187?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284437",
-        "channel": "Diema Sport 3 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/178963?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284287",
-        "channel": "Max Sport 1 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33341?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284294",
-        "channel": "Max Sport 2 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33340?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284302",
-        "channel": "Max Sport 3 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33339?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284312",
-        "channel": "Max Sport 4 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33338?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2282481",
-        "channel": "Nova Sport HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22437?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284234",
-        "channel": "Nova Sport HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/28139?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284605",
-        "channel": "Trace Sport Stars HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/179014?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -196,83 +42,27 @@
         ]
     },
     {
-        "id": "2284294",
-        "channel": "Max Sport 2 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33340?checkedby:iptvcat.com",
+        "id": "2347222",
+        "channel": "Eurosport 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31773?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "11126",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2284302",
-        "channel": "Max Sport 3 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33339?checkedby:iptvcat.com",
+        "id": "2347223",
+        "channel": "Eurosport 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31774?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284312",
-        "channel": "Max Sport 4 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33338?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2282481",
-        "channel": "Nova Sport HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22437?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284234",
-        "channel": "Nova Sport HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/28139?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284605",
-        "channel": "Trace Sport Stars HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/179014?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -280,13 +70,83 @@
         ]
     },
     {
-        "id": "2284338",
-        "channel": "Auto Motor Sport HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33221?checkedby:iptvcat.com",
+        "id": "2347224",
+        "channel": "MAX Sport 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31801?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347225",
+        "channel": "MAX Sport 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31802?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347226",
+        "channel": "MAX Sport 3 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31803?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347227",
+        "channel": "MAX Sport 4 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31804?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347582",
+        "channel": "Max_Sport_1_HD",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/36471?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347583",
+        "channel": "NOVA_SPORT_HD",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/36485?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -294,27 +154,27 @@
         ]
     },
     {
-        "id": "2282427",
-        "channel": "AutoMotorSport HD",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22447?checkedby:iptvcat.com",
+        "id": "2347228",
+        "channel": "SPORT Plus HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31814?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2282439",
-        "channel": "Diema Sport",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22442?checkedby:iptvcat.com",
+        "id": "2347578",
+        "channel": "DIEMA_SPORT_1_HD",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/36505?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -322,41 +182,13 @@
         ]
     },
     {
-        "id": "2284318",
-        "channel": "Diema Sport 1",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33189?checkedby:iptvcat.com",
+        "id": "2347579",
+        "channel": "DIEMA_SPORT_2_HD",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/36504?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2282441",
-        "channel": "Diema Sport 2",
-        "link": "http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/22441?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2284323",
-        "channel": "Diema Sport 2",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33187?checkedby:iptvcat.com",
-        "country": "bulgaria",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -364,13 +196,27 @@
         ]
     },
     {
-        "id": "2284437",
-        "channel": "Diema Sport 3 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/178963?checkedby:iptvcat.com",
+        "id": "2347221",
+        "channel": "Diema Sport 2",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/30558?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347222",
+        "channel": "Eurosport 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31773?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -378,15 +224,113 @@
         ]
     },
     {
-        "id": "2284287",
-        "channel": "Max Sport 1 HD",
-        "link": "http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33341?checkedby:iptvcat.com",
+        "id": "2347223",
+        "channel": "Eurosport 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31774?checkedby:iptvcat.com",
         "country": "bulgaria",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-25T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347224",
+        "channel": "MAX Sport 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31801?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347225",
+        "channel": "MAX Sport 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31802?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347226",
+        "channel": "MAX Sport 3 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31803?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347227",
+        "channel": "MAX Sport 4 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31804?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347582",
+        "channel": "Max_Sport_1_HD",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/36471?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347583",
+        "channel": "NOVA_SPORT_HD",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/36485?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347228",
+        "channel": "SPORT Plus HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31814?checkedby:iptvcat.com",
+        "country": "bulgaria",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]

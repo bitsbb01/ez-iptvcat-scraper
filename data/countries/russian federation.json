@@ -1,114 +1,58 @@
 [
     {
-        "id": "2295478",
-        "channel": "NTV FOOTBALL 1 HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/33421?checkedby:iptvcat.com",
+        "id": "2347597",
+        "channel": "NTV_Football_2",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/2132?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347604",
+        "channel": "Viasat_Sport_Baltic",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/2136?checkedby:iptvcat.com",
+        "country": "russian federation",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2295248",
-        "channel": "Nash Futbol HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/33422?checkedby:iptvcat.com",
+        "id": "2347597",
+        "channel": "NTV_Football_2",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/2132?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2295567",
-        "channel": "Trace Sport Stars HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/33409?checkedby:iptvcat.com",
+        "id": "2347604",
+        "channel": "Viasat_Sport_Baltic",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/2136?checkedby:iptvcat.com",
         "country": "russian federation",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2295908",
-        "channel": "Match Football 1",
-        "link": "http://4iptv.xyz:8080/sofia/sofia/52506?checkedby:iptvcat.com",
-        "country": "russian federation",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2295908",
-        "channel": "Match Football 1",
-        "link": "http://4iptv.xyz:8080/sofia/sofia/52506?checkedby:iptvcat.com",
-        "country": "russian federation",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2295478",
-        "channel": "NTV FOOTBALL 1 HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/33421?checkedby:iptvcat.com",
-        "country": "russian federation",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2295248",
-        "channel": "Nash Futbol HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/33422?checkedby:iptvcat.com",
-        "country": "russian federation",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2295567",
-        "channel": "Trace Sport Stars HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/33409?checkedby:iptvcat.com",
-        "country": "russian federation",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]
