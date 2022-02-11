@@ -1,12 +1,12 @@
 [
     {
-        "id": "2304656",
-        "channel": "RAI SPORT",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94164?checkedby:iptvcat.com",
+        "id": "2347888",
+        "channel": "Rai Sport 1",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158457?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -14,41 +14,55 @@
         ]
     },
     {
-        "id": "2304799",
-        "channel": "SKY SPORT ARENA",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94134?checkedby:iptvcat.com",
+        "id": "2349390",
+        "channel": "SKY SPORT NBA FFᴴᴰ",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158715?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "sd",
-        "mbps": "3799",
+        "mbps": "1237",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2304807",
-        "channel": "SKY SPORT F1",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94132?checkedby:iptvcat.com",
+        "id": "2349343",
+        "channel": "Sky Sport 2 HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/130007?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "sd",
-        "mbps": "1509",
+        "mbps": "1357",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2304817",
-        "channel": "SKY SPORT FOOTBALL",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94131?checkedby:iptvcat.com",
+        "id": "2347892",
+        "channel": "Sky Sport 24 HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158459?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347899",
+        "channel": "Sky Sport Arena HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158460?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -56,13 +70,13 @@
         ]
     },
     {
-        "id": "2304825",
-        "channel": "SKY SPORT MOTOGP",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94130?checkedby:iptvcat.com",
+        "id": "2347973",
+        "channel": "Sky Sport MotoGP HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158464?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -70,29 +84,43 @@
         ]
     },
     {
-        "id": "2304836",
-        "channel": "SKY SPORT NBA",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94129?checkedby:iptvcat.com",
+        "id": "2347987",
+        "channel": "Sky Sport NBA HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158465?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1237",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2304844",
-        "channel": "SKY SPORT UNO",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94128?checkedby:iptvcat.com",
+        "id": "2348013",
+        "channel": "Sky Sport Serie A HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158468?checkedby:iptvcat.com",
         "country": "italy",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "hd",
-        "mbps": "9905",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348002",
+        "channel": "Sky Sport Uno",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/90239?checkedby:iptvcat.com",
+        "country": "italy",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13873",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]

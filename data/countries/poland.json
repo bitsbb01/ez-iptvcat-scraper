@@ -1,12 +1,26 @@
 [
     {
-        "id": "2305025",
-        "channel": "CANAL+ SPORT HD",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/219170.ts?checkedby:iptvcat.com",
+        "id": "2348207",
+        "channel": "Polsat Sport Premium 4",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33434?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349335",
+        "channel": "CANAL+ SPORT 2 FHD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33521?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -14,13 +28,41 @@
         ]
     },
     {
-        "id": "2305023",
-        "channel": "TVP SPORT HD",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/219162.ts?checkedby:iptvcat.com",
+        "id": "2349374",
+        "channel": "CANAL+ SPORT 4 FHD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33519?checkedby:iptvcat.com",
         "country": "poland",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349333",
+        "channel": "CANAL+ SPORT FHD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33522?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348207",
+        "channel": "Polsat Sport Premium 4",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/33434?checkedby:iptvcat.com",
+        "country": "poland",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [

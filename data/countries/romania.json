@@ -1,198 +1,170 @@
 [
     {
-        "id": "2296562",
-        "channel": "DIGI SPORT 1",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/133111.ts?checkedby:iptvcat.com",
+        "id": "2348922",
+        "channel": "Digi SPORT 1 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31840?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2296620",
-        "channel": "DIGI SPORT 4",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/133114.ts?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2293577",
+        "id": "2348884",
         "channel": "Digi Sport 2 HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18037?checkedby:iptvcat.com",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31839?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348271",
+        "channel": "Digi Sport 3 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31838?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348308",
+        "channel": "Digi Sport 4 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31837?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348671",
+        "channel": "Look Sport 2 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31796?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293579",
-        "channel": "Digi Sport 3",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18038?checkedby:iptvcat.com",
+        "id": "2348659",
+        "channel": "Look Sport HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31797?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2293585",
-        "channel": "Digi Sport 4",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18039?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2296494",
-        "channel": "EXTREME SPORT",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/133106.ts?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2296516",
-        "channel": "TELEKOM SPORT 1",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/133109.ts?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2296562",
-        "channel": "DIGI SPORT 1",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/133111.ts?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2296620",
-        "channel": "DIGI SPORT 4",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/133114.ts?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport"
-        ]
-    },
-    {
-        "id": "2293577",
-        "channel": "Digi Sport 2 HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18037?checkedby:iptvcat.com",
-        "country": "romania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293579",
-        "channel": "Digi Sport 3",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18038?checkedby:iptvcat.com",
+        "id": "2348922",
+        "channel": "Digi SPORT 1 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31840?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293585",
-        "channel": "Digi Sport 4",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/18039?checkedby:iptvcat.com",
+        "id": "2348884",
+        "channel": "Digi Sport 2 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31839?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2296494",
-        "channel": "EXTREME SPORT",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/133106.ts?checkedby:iptvcat.com",
+        "id": "2348271",
+        "channel": "Digi Sport 3 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31838?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd+",
+        "mbps": "7768",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348308",
+        "channel": "Digi Sport 4 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31837?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2296516",
-        "channel": "TELEKOM SPORT 1",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/133109.ts?checkedby:iptvcat.com",
+        "id": "2348671",
+        "channel": "Look Sport 2 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31796?checkedby:iptvcat.com",
         "country": "romania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "sport"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348659",
+        "channel": "Look Sport HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31797?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]

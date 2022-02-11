@@ -1,110 +1,54 @@
 [
     {
-        "id": "2293797",
-        "channel": "Cosmote Sport 1 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6879.ts?checkedby:iptvcat.com",
+        "id": "2349272",
+        "channel": "Cosmote Sport 1",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31214?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293796",
-        "channel": "Cosmote Sport 1 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113614.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3799",
+        "mbps": "7114",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293795",
-        "channel": "Cosmote Sport 1 SD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6889.ts?checkedby:iptvcat.com",
+        "id": "2349280",
+        "channel": "Cosmote Sport 2",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31213?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293801",
-        "channel": "Cosmote Sport 2 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6880.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293799",
-        "channel": "Cosmote Sport 2 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113615.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3188",
+        "mbps": "7114",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293798",
-        "channel": "Cosmote Sport 2 SD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6890.ts?checkedby:iptvcat.com",
+        "id": "2349281",
+        "channel": "Cosmote Sport 3",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31212?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293805",
-        "channel": "Cosmote Sport 3 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6881.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3799",
+        "mbps": "7114",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293803",
+        "id": "2348011",
         "channel": "Cosmote Sport 3 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113625.ts?checkedby:iptvcat.com",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158513?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
         "mbps": "3799",
         "URI": [
@@ -112,335 +56,83 @@
         ]
     },
     {
-        "id": "2293802",
-        "channel": "Cosmote Sport 3 SD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6891.ts?checkedby:iptvcat.com",
+        "id": "2349287",
+        "channel": "Cosmote Sport 4",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31211?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "7114",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293812",
-        "channel": "Cosmote Sport 4 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6882.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "15836",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293809",
+        "id": "2348018",
         "channel": "Cosmote Sport 4 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113626.ts?checkedby:iptvcat.com",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/158514?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "15836",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3799",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293807",
-        "channel": "Cosmote Sport 4 SD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6892.ts?checkedby:iptvcat.com",
+        "id": "2349291",
+        "channel": "Cosmote Sport 5",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31210?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "7114",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349299",
+        "channel": "Cosmote Sport 6",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31209?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "sd",
-        "mbps": "2473",
+        "mbps": "5287",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293819",
-        "channel": "Cosmote Sport 5 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6883.ts?checkedby:iptvcat.com",
+        "id": "2349312",
+        "channel": "Cosmote Sport 7",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31208?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3799",
+        "mbps": "7114",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293816",
-        "channel": "Cosmote Sport 5 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113627.ts?checkedby:iptvcat.com",
+        "id": "2349317",
+        "channel": "Cosmote Sport 8",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31207?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293814",
-        "channel": "Cosmote Sport 5 SD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6893.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293823",
-        "channel": "Cosmote Sport 6 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6884.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293822",
-        "channel": "Cosmote Sport 6 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113628.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13873",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293821",
-        "channel": "Cosmote Sport 6 SD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6894.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293826",
-        "channel": "Cosmote Sport 7 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6885.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293825",
-        "channel": "Cosmote Sport 7 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113629.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293829",
-        "channel": "Cosmote Sport 8 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113630.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293827",
-        "channel": "Cosmote Sport 8 SD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/6896.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293830",
-        "channel": "Cosmote Sport 9 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/113631.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293792",
-        "channel": "Cosmote Sport Highlights HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/30988.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293845",
-        "channel": "EDGE Sports TV",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/122652.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293831",
-        "channel": "ERT SPORTS 1 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/139611.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293833",
-        "channel": "ERT SPORTS 2 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/140526.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293837",
-        "channel": "ERT SPORTS 3 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/141834.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2292904",
-        "channel": "ERT Sport HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/43348?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293457",
-        "channel": "Fox Sport TV",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/24701?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293451",
-        "channel": "GiNX eSports TV (USA)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/103251?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293841",
-        "channel": "NBA TV 1 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/75478.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
         "URI": [
@@ -448,589 +140,99 @@
         ]
     },
     {
-        "id": "2293842",
-        "channel": "NBA TV 2 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/75477.ts?checkedby:iptvcat.com",
+        "id": "2347885",
+        "channel": "NOVA SPORT 1 HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/131165?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3795",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293778",
-        "channel": "Nova Sports 1 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/43065.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293777",
-        "channel": "Nova Sports 1 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/42702.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293431",
-        "channel": "Nova Sports 1HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/52199?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293433",
-        "channel": "Nova Sports 1HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106761?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293781",
-        "channel": "Nova Sports 2 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/48057.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293779",
-        "channel": "Nova Sports 2 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/42703.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293435",
-        "channel": "Nova Sports 2HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/17585?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293439",
-        "channel": "Nova Sports 2HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106762?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293784",
-        "channel": "Nova Sports 3 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/45401.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293783",
-        "channel": "Nova Sports 3 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/42704.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293443",
-        "channel": "Nova Sports 3HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106763?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293786",
-        "channel": "Nova Sports 4 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/45402.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293785",
-        "channel": "Nova Sports 4 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/42705.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293447",
-        "channel": "Nova Sports 4HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/17592?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "3875",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293788",
-        "channel": "Nova Sports 5 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/45403.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293787",
-        "channel": "Nova Sports 5 HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/42706.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293449",
-        "channel": "Nova Sports 5HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/54797?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "3875",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293791",
-        "channel": "Nova Sports 6 FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/127124.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293770",
-        "channel": "Nova Sports News FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/7069.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3625",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293773",
-        "channel": "Nova Sports Prime *Live*",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/135733.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293772",
-        "channel": "Nova Sports Prime FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/130095.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7986",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293423",
-        "channel": "Nova Sports Prime HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/112563?checkedby:iptvcat.com",
+        "id": "2348669",
+        "channel": "NOVA SPORT 2 HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/139203?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "3875",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293771",
-        "channel": "Nova Sports Prime HD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/94497.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293429",
-        "channel": "Nova Sports Prime HD (B)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/113439?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "3875",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293776",
-        "channel": "Nova Sports Start FHD",
-        "link": "http://hellenic.live:8080/Hlias/Hlias1/127144.ts?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "5631",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293379",
-        "channel": "Ote Sport 1HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/17393?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293381",
-        "channel": "Ote Sport 1HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106765?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "3799",
+        "mbps": "4322",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2293377",
-        "channel": "Ote Sport 1SD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/52189?checkedby:iptvcat.com",
+        "id": "2349179",
+        "channel": "Nova Sport 1",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31222?checkedby:iptvcat.com",
         "country": "greece",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293385",
-        "channel": "Ote Sport 2HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/17482?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293391",
-        "channel": "Ote Sport 2HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106766?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293383",
-        "channel": "Ote Sport 2SD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/52190?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293395",
-        "channel": "Ote Sport 3HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/17594?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293397",
-        "channel": "Ote Sport 3HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106767?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293393",
-        "channel": "Ote Sport 3SD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/52191?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293401",
-        "channel": "Ote Sport 4HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/17599?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "sd",
-        "mbps": "2473",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293403",
-        "channel": "Ote Sport 4HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106768?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293407",
-        "channel": "Ote Sport 5HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106769?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293411",
-        "channel": "Ote Sport 6HD (Backup)",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/106770?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293415",
-        "channel": "Ote Sport 7HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/19216?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293419",
-        "channel": "Ote Sport 8HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/19217?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2293421",
-        "channel": "Ote Sport Highlights HD",
-        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/57253?checkedby:iptvcat.com",
-        "country": "greece",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-26T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349182",
+        "channel": "Nova Sport 2",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31221?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349213",
+        "channel": "Nova Sport 4",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31219?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349267",
+        "channel": "Nova Sport Start (Live only on match)",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31157?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "2711",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349268",
+        "channel": "Nova Sports Prime (ONLY LIVE)",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31154?checkedby:iptvcat.com",
+        "country": "greece",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]

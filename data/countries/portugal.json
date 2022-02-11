@@ -1,334 +1,12 @@
 [
     {
-        "id": "2299597",
-        "channel": "SPORT TV +",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102346?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301120",
-        "channel": "SPORT TV + HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118209?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299604",
-        "channel": "SPORT TV 1",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102347?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301121",
-        "channel": "SPORT TV 1 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118210?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299617",
-        "channel": "SPORT TV 2",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102348?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301124",
-        "channel": "SPORT TV 2 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118213?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299625",
-        "channel": "SPORT TV 3",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102349?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2300633",
-        "channel": "SPORT TV 3 (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118214?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301125",
-        "channel": "SPORT TV 3 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118215?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299637",
-        "channel": "SPORT TV 4",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102350?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301127",
-        "channel": "SPORT TV 4 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118217?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299647",
-        "channel": "SPORT TV 5",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102351?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2300643",
-        "channel": "SPORT TV 5 (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118218?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301128",
-        "channel": "SPORT TV 5 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118219?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2300762",
-        "channel": "SPORTING TV (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118222?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299660",
-        "channel": "ELEVEN SPORTS 1",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102191?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301102",
-        "channel": "ELEVEN SPORTS 1 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118131?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299679",
-        "channel": "ELEVEN SPORTS 2",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102192?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301104",
-        "channel": "ELEVEN SPORTS 2 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118132?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299698",
-        "channel": "ELEVEN SPORTS 3",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102193?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301109",
-        "channel": "ELEVEN SPORTS 3 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118133?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299711",
-        "channel": "ELEVEN SPORTS 4",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118140?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301113",
-        "channel": "ELEVEN SPORTS 4 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118134?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2529",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299723",
+        "id": "2348640",
         "channel": "ELEVEN SPORTS 5",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118141?checkedby:iptvcat.com",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171792?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -336,55 +14,27 @@
         ]
     },
     {
-        "id": "2300721",
-        "channel": "ELEVEN SPORTS 5 (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102195?checkedby:iptvcat.com",
+        "id": "2349282",
+        "channel": "Euro Sport News",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/3223?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301116",
-        "channel": "ELEVEN SPORTS 5 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118135?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299737",
-        "channel": "ELEVEN SPORTS 6",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118142?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "11126",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2301118",
-        "channel": "ELEVEN SPORTS 6 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118136?checkedby:iptvcat.com",
+        "id": "2348295",
+        "channel": "SPORT TV",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171761?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -392,13 +42,13 @@
         ]
     },
     {
-        "id": "2299784",
-        "channel": "EUROSPORT 1",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118144?checkedby:iptvcat.com",
+        "id": "2348323",
+        "channel": "SPORT TV   FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171763?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
@@ -406,491 +56,449 @@
         ]
     },
     {
-        "id": "2300764",
-        "channel": "EUROSPORT 1 (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118143?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299790",
-        "channel": "EUROSPORT 2",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118145?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299753",
-        "channel": "NBA TV",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118220?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299660",
-        "channel": "ELEVEN SPORTS 1",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102191?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301102",
-        "channel": "ELEVEN SPORTS 1 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118131?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299679",
-        "channel": "ELEVEN SPORTS 2",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102192?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301104",
-        "channel": "ELEVEN SPORTS 2 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118132?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299698",
-        "channel": "ELEVEN SPORTS 3",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102193?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301109",
-        "channel": "ELEVEN SPORTS 3 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118133?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299711",
-        "channel": "ELEVEN SPORTS 4",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118140?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301113",
-        "channel": "ELEVEN SPORTS 4 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118134?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2529",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299723",
-        "channel": "ELEVEN SPORTS 5",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118141?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2300721",
-        "channel": "ELEVEN SPORTS 5 (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102195?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301116",
-        "channel": "ELEVEN SPORTS 5 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118135?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299737",
-        "channel": "ELEVEN SPORTS 6",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118142?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301118",
-        "channel": "ELEVEN SPORTS 6 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118136?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299784",
-        "channel": "EUROSPORT 1",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118144?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2300764",
-        "channel": "EUROSPORT 1 (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118143?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299790",
-        "channel": "EUROSPORT 2",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118145?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299753",
-        "channel": "NBA TV",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118220?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299597",
-        "channel": "SPORT TV +",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102346?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301120",
-        "channel": "SPORT TV + HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118209?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299604",
+        "id": "2348340",
         "channel": "SPORT TV 1",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102347?checkedby:iptvcat.com",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171764?checkedby:iptvcat.com",
         "country": "portugal",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301121",
-        "channel": "SPORT TV 1 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118210?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299617",
-        "channel": "SPORT TV 2",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102348?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301124",
-        "channel": "SPORT TV 2 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118213?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299625",
-        "channel": "SPORT TV 3",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102349?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "22116",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2300633",
-        "channel": "SPORT TV 3 (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118214?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301125",
-        "channel": "SPORT TV 3 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118215?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299637",
-        "channel": "SPORT TV 4",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102350?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301127",
-        "channel": "SPORT TV 4 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118217?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2299647",
-        "channel": "SPORT TV 5",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/102351?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2300643",
-        "channel": "SPORT TV 5 (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118218?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2301128",
-        "channel": "SPORT TV 5 HD",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118219?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2300762",
-        "channel": "SPORTING TV (B)",
-        "link": "http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/118222?checkedby:iptvcat.com",
-        "country": "portugal",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-27T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348374",
+        "channel": "SPORT TV 1 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171766?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348358",
+        "channel": "SPORT TV 1 HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171765?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348386",
+        "channel": "SPORT TV 2",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171767?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1153",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348393",
+        "channel": "SPORT TV 2 HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171768?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348433",
+        "channel": "SPORT TV 3",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171770?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348458",
+        "channel": "SPORT TV 4",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171773?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348486",
+        "channel": "SPORT TV 5",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171775?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348306",
+        "channel": "SPORT TV HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171762?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348531",
+        "channel": "SPORTING TV",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171780?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348546",
+        "channel": "SPORTING TV FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171781?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348416",
+        "channel": "SPORTV 2 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171769?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348444",
+        "channel": "SPORTV 3 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171772?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348474",
+        "channel": "SPORTV 4 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171774?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348640",
+        "channel": "ELEVEN SPORTS 5",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171792?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349282",
+        "channel": "Euro Sport News",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/3223?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348295",
+        "channel": "SPORT TV",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171761?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348323",
+        "channel": "SPORT TV   FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171763?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348340",
+        "channel": "SPORT TV 1",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171764?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348374",
+        "channel": "SPORT TV 1 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171766?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348358",
+        "channel": "SPORT TV 1 HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171765?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348386",
+        "channel": "SPORT TV 2",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171767?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1153",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348393",
+        "channel": "SPORT TV 2 HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171768?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348433",
+        "channel": "SPORT TV 3",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171770?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348458",
+        "channel": "SPORT TV 4",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171773?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348486",
+        "channel": "SPORT TV 5",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171775?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348306",
+        "channel": "SPORT TV HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171762?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348531",
+        "channel": "SPORTING TV",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171780?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348546",
+        "channel": "SPORTING TV FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171781?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348416",
+        "channel": "SPORTV 2 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171769?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348444",
+        "channel": "SPORTV 3 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171772?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348474",
+        "channel": "SPORTV 4 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/171774?checkedby:iptvcat.com",
+        "country": "portugal",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]

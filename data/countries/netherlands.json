@@ -1,84 +1,14 @@
 [
     {
-        "id": "2304631",
-        "channel": "ESPN 1 HD",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/222508.ts?checkedby:iptvcat.com",
+        "id": "2347944",
+        "channel": "ESPN 4 HD",
+        "link": "http://live.geoiptv.org:8880/live/mehrdad97/3467772/283549.ts?checkedby:iptvcat.com",
         "country": "netherlands",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304648",
-        "channel": "ESPN 2 HD",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/222509.ts?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304611",
-        "channel": "ESPN 3",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/222503.ts?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304604",
-        "channel": "ESPN 4",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/222502.ts?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304808",
-        "channel": "Ziggo Golf FHD",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/222520.ts?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304730",
-        "channel": "Ziggo Sport Voetbal",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/222517.ts?checkedby:iptvcat.com",
-        "country": "netherlands",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]

@@ -1,56 +1,616 @@
 [
     {
-        "id": "2304755",
-        "channel": "Band Sports",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/219713.ts?checkedby:iptvcat.com",
+        "id": "2347873",
+        "channel": "Band Sports HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/261967?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304967",
-        "channel": "ESPN EXTRA HD",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/219746.ts?checkedby:iptvcat.com",
-        "country": "brazil",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "4322",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2304967",
-        "channel": "ESPN EXTRA HD",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/219746.ts?checkedby:iptvcat.com",
+        "id": "2349242",
+        "channel": "Band Sports HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/2524?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "5020",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2304755",
-        "channel": "Band Sports",
-        "link": "http://line.lemotv.cc:80/Matthew4564/7438844/219713.ts?checkedby:iptvcat.com",
+        "id": "2347877",
+        "channel": "Band Sports VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/261968?checkedby:iptvcat.com",
         "country": "brazil",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "sd",
-        "mbps": "2088",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348070",
+        "channel": "ESPN",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262012?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348047",
+        "channel": "ESPN 2",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262006?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348050",
+        "channel": "ESPN 2 VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262007?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348056",
+        "channel": "ESPN Brasil",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262008?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348059",
+        "channel": "ESPN Brasil VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262009?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349255",
+        "channel": "ESPN Extra HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/2502?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348066",
+        "channel": "ESPN Extra VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262011?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348073",
+        "channel": "ESPN VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262013?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348121",
+        "channel": "Fox Sports 2  HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262026?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349283",
+        "channel": "Fox Sports 2 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/2490?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348117",
+        "channel": "Fox Sports 2 VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262025?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348130",
+        "channel": "Fox Sports HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262028?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348127",
+        "channel": "Fox Sports VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262027?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348842",
+        "channel": "SporTV",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262179?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348835",
+        "channel": "SporTV 2",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262176?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348831",
+        "channel": "SporTV 2 VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262175?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348837",
+        "channel": "SporTV 3 VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262177?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348839",
+        "channel": "SporTV VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262178?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349285",
+        "channel": "Sport TV 3 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/2444?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348066",
+        "channel": "ESPN Extra VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262011?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348073",
+        "channel": "ESPN VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262013?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348121",
+        "channel": "Fox Sports 2  HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262026?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349283",
+        "channel": "Fox Sports 2 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/2490?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348117",
+        "channel": "Fox Sports 2 VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262025?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348130",
+        "channel": "Fox Sports HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262028?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348127",
+        "channel": "Fox Sports VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262027?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348842",
+        "channel": "SporTV",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262179?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348835",
+        "channel": "SporTV 2",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262176?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348831",
+        "channel": "SporTV 2 VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262175?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348837",
+        "channel": "SporTV 3 VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262177?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348839",
+        "channel": "SporTV VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262178?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349285",
+        "channel": "Sport TV 3 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/2444?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347873",
+        "channel": "Band Sports HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/261967?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349242",
+        "channel": "Band Sports HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/2524?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347877",
+        "channel": "Band Sports VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/261968?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348070",
+        "channel": "ESPN",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262012?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348047",
+        "channel": "ESPN 2",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262006?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348050",
+        "channel": "ESPN 2 VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262007?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348056",
+        "channel": "ESPN Brasil",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262008?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348059",
+        "channel": "ESPN Brasil VIP",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/262009?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349255",
+        "channel": "ESPN Extra HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/2502?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]

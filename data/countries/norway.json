@@ -1,14 +1,154 @@
 [
     {
-        "id": "2304591",
-        "channel": "Viasat Sport",
-        "link": "http://2022tv.co:80/george/george/160602?checkedby:iptvcat.com",
+        "id": "2349095",
+        "channel": "EUROSPORT 1 HD",
+        "link": "http://693302018726275156.nicebig.xyz:80/j08219/6997346/275156?checkedby:iptvcat.com",
         "country": "norway",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
         "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349196",
+        "channel": "EUROSPORT 2 FHD",
+        "link": "http://693302018726282390.nicebig.xyz:80/j08219/6997346/282390?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348103",
+        "channel": "TV2 SPORT 1",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31548?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348948",
+        "channel": "TV2 SPORT 2 HD",
+        "link": "http://693302018726274347.nicebig.xyz:80/j08219/6997346/274347?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348961",
+        "channel": "TV2 SPORT HD",
+        "link": "http://693302018726274348.nicebig.xyz:80/j08219/6997346/274348?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348229",
+        "channel": "TV2 SPORTPREMIUM",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31535?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347959",
+        "channel": "TV2 Sport 2",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/141126?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348220",
+        "channel": "TV2 Sport 2 HD",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31536?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "9905",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2347952",
+        "channel": "TV2 Sportkanalen",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/141125?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348232",
+        "channel": "VIASAT GOLF",
+        "link": "http://a1xin.worldhell.club:8880/HE15M1580/Pwpujah9c2/31534?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2349012",
+        "channel": "VIASAT SPORT 1 HD",
+        "link": "http://693302018726274354.nicebig.xyz:80/j08219/6997346/274354?checkedby:iptvcat.com",
+        "country": "norway",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]

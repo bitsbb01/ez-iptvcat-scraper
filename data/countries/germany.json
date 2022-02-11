@@ -1,168 +1,112 @@
 [
     {
-        "id": "2304795",
-        "channel": "SKY SPORT 1",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92331?checkedby:iptvcat.com",
+        "id": "2348128",
+        "channel": "Sky Sport 1 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/294271?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304803",
-        "channel": "SKY SPORT 2",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92332?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304815",
-        "channel": "SKY SPORT AUSTRIA",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92341?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304823",
-        "channel": "SKY SPORT AUSTRIA 2",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92342?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "6241",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2304834",
-        "channel": "SPORT 1",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92359?checkedby:iptvcat.com",
+        "id": "2348132",
+        "channel": "Sky Sport 2 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/294272?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304843",
-        "channel": "SPORTDIGITAL",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92358?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304795",
-        "channel": "SKY SPORT 1",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92331?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304803",
-        "channel": "SKY SPORT 2",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92332?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304815",
-        "channel": "SKY SPORT AUSTRIA",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92341?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2304823",
-        "channel": "SKY SPORT AUSTRIA 2",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92342?checkedby:iptvcat.com",
-        "country": "germany",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
+        "lastChecked": "2022-02-11T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "3188",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2304834",
-        "channel": "SPORT 1",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92359?checkedby:iptvcat.com",
+        "id": "2348138",
+        "channel": "Sky Sport Austria FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/294273?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "2304843",
-        "channel": "SPORTDIGITAL",
-        "link": "http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92358?checkedby:iptvcat.com",
+        "id": "2348144",
+        "channel": "Sky Sport News FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/294274?checkedby:iptvcat.com",
         "country": "germany",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-30T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3625",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348148",
+        "channel": "Sky Sport News FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/294275?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348128",
+        "channel": "Sky Sport 1 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/294271?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348132",
+        "channel": "Sky Sport 2 FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/294272?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2348138",
+        "channel": "Sky Sport Austria FHD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/294273?checkedby:iptvcat.com",
+        "country": "germany",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
